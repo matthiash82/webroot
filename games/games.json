@@ -3510,15 +3510,6 @@
     }
   },
   {
-    "name": "Wave Race: Blue Storm",
-    "date": "2015-12-08",
-    "platform": "Nintendo GameCube",
-    "igdb": {
-      "id": 4232,
-      "slug": "wave-race-blue-storm"
-    }
-  },
-  {
     "name": "Hollow Knight",
     "date": "2015-11-10",
     "platform": "PC (Microsoft Windows)",
@@ -3537,130 +3528,22 @@
     }
   },
   {
-    "name": "Gears of War",
-    "date": "2015-10-11",
-    "platform": "Xbox 360",
-    "igdb": {
-      "id": 547,
-      "slug": "gears-of-war"
-    }
-  },
-  {
-    "name": "Gears of War 2",
-    "date": "2015-10-11",
-    "platform": "Xbox 360",
-    "igdb": {
-      "id": 548,
-      "slug": "gears-of-war-2"
-    }
-  },
-  {
-    "name": "Mirror's Edge",
-    "date": "2015-10-11",
-    "platform": "Xbox 360",
-    "igdb": {
-      "id": 1051,
-      "slug": "mirror-s-edge"
-    }
-  },
-  {
     "name": "Super Mario Maker",
-    "date": "2015-10-11",
     "platform": "Wii U",
     "igdb": {
       "id": 7339,
       "slug": "super-mario-maker"
-    }
+    },
+    "date": "2015-10-11"
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "date": "2015-10-11",
     "platform": "Turbografx-16/PC Engine CD",
     "igdb": {
       "id": 206524,
       "slug": "ys-iii-wanderers-from-ys--3"
-    }
-  },
-  {
-    "name": "Actual Sunlight",
-    "date": "2015-10-11",
-    "platform": "PlayStation Vita",
-    "igdb": {
-      "id": 13230,
-      "slug": "actual-sunlight"
-    }
-  },
-  {
-    "name": "Ys III: Wanderers from Ys",
-    "date": "2015-10-11",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 201313,
-      "slug": "ys-iii-wanderers-from-ys--1"
-    }
-  },
-  {
-    "name": "Counter-Strike: Source",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 307,
-      "slug": "counter-strike-source"
-    }
-  },
-  {
-    "name": "Counter-Strike",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 241,
-      "slug": "counter-strike"
-    }
-  },
-  {
-    "name": "Serious Sam: The First Encounter",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 857,
-      "slug": "serious-sam-the-first-encounter"
-    }
-  },
-  {
-    "name": "Team Fortress Classic",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 6359,
-      "slug": "team-fortress-classic"
-    }
-  },
-  {
-    "name": "Unreal Tournament",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 15263,
-      "slug": "unreal-tournament--1"
-    }
-  },
-  {
-    "name": "World of Warcraft",
-    "date": "2015-10-11",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 123,
-      "slug": "world-of-warcraft"
-    }
-  },
-  {
-    "name": "Year Walk",
-    "date": "2015-10-11",
-    "platform": "iOS",
-    "igdb": {
-      "id": 6171,
-      "slug": "year-walk"
-    }
+    },
+    "date": "2015-10-11"
   },
   {
     "name": "We Love Katamari",
@@ -3696,114 +3579,6 @@
     "igdb": {
       "id": 6490,
       "slug": "disneys-chip-n-dale-rescue-rangers--1"
-    }
-  },
-  {
-    "name": "Carmageddon",
-    "date": "2015-08-14",
-    "platform": "DOS",
-    "igdb": {
-      "id": 626,
-      "slug": "carmageddon"
-    }
-  },
-  {
-    "name": "Carmageddon II: Carpocalypse Now",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 951,
-      "slug": "carmageddon-ii-carpocalypse-now"
-    }
-  },
-  {
-    "name": "Puzzle Quest: Challenge of the Warlords",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 2370,
-      "slug": "puzzle-quest-challenge-of-the-warlords"
-    }
-  },
-  {
-    "name": "Sid Meier's Civilization",
-    "date": "2015-08-14",
-    "platform": "DOS",
-    "igdb": {
-      "id": 902,
-      "slug": "sid-meiers-civilization"
-    }
-  },
-  {
-    "name": "Sid Meier's Civilization II",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 634,
-      "slug": "sid-meiers-civilization-ii"
-    }
-  },
-  {
-    "name": "Sid Meier's Civilization IV",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 293,
-      "slug": "sid-meier-s-civilization-iv"
-    }
-  },
-  {
-    "name": "Sid Meier's Civilization V",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 866,
-      "slug": "sid-meier-s-civilization-v"
-    }
-  },
-  {
-    "name": "Virtua Cop",
-    "date": "2015-08-14",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 6289,
-      "slug": "virtua-cop"
-    }
-  },
-  {
-    "name": "Warlords",
-    "date": "2015-08-14",
-    "platform": "DOS",
-    "igdb": {
-      "id": 69606,
-      "slug": "warlords--1"
-    }
-  },
-  {
-    "name": "Final Fantasy Adventure",
-    "date": "2015-08-14",
-    "platform": "Game Boy",
-    "igdb": {
-      "id": 407,
-      "slug": "final-fantasy-adventure"
-    }
-  },
-  {
-    "name": "Tetris",
-    "date": "2015-08-14",
-    "platform": "Game Boy",
-    "igdb": {
-      "id": 326807,
-      "slug": "tetris--41"
-    }
-  },
-  {
-    "name": "E.T. the Extra-Terrestrial",
-    "date": "2015-08-14",
-    "platform": "Atari 2600",
-    "igdb": {
-      "id": 6706,
-      "slug": "e-t-the-extra-terrestrial"
     }
   },
   {
@@ -3843,228 +3618,12 @@
     }
   },
   {
-    "name": "RalliSport Challenge 2",
-    "date": "2015-08-03",
-    "platform": "Xbox",
-    "igdb": {
-      "id": 5997,
-      "slug": "rallisport-challenge-2"
-    }
-  },
-  {
-    "name": "Super Paper Mario",
-    "date": "2015-08-03",
-    "platform": "Wii",
-    "igdb": {
-      "id": 2191,
-      "slug": "super-paper-mario"
-    }
-  },
-  {
-    "name": "Street Fighter II",
-    "date": "2015-08-03",
-    "platform": "Super Nintendo Entertainment System",
-    "igdb": {
-      "id": 321621,
-      "slug": "street-fighter-ii--11"
-    }
-  },
-  {
-    "name": "Command & Conquer",
-    "date": "2015-08-03",
-    "platform": "DOS",
-    "igdb": {
-      "id": 647,
-      "slug": "command-conquer"
-    }
-  },
-  {
-    "name": "Sam & Max: Beyond Time and Space",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 854,
-      "slug": "sam-max-beyond-time-and-space"
-    }
-  },
-  {
-    "name": "Sam & Max: Save the World",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 862,
-      "slug": "sam-max-save-the-world"
-    }
-  },
-  {
-    "name": "Sam & Max: The Devil's Playhouse",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 9534,
-      "slug": "sam-and-max-the-devils-playhouse"
-    }
-  },
-  {
-    "name": "Silver",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 7042,
-      "slug": "silver"
-    }
-  },
-  {
-    "name": "Soldier of Fortune",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 3111,
-      "slug": "soldier-of-fortune"
-    }
-  },
-  {
-    "name": "The Typing of the Dead",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 11605,
-      "slug": "the-typing-of-the-dead"
-    }
-  },
-  {
-    "name": "Virtua Cop 2",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 2470,
-      "slug": "virtua-cop-2"
-    }
-  },
-  {
-    "name": "Winter Games",
-    "date": "2015-08-03",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 344065,
-      "slug": "winter-games--13"
-    }
-  },
-  {
-    "name": "Animal Crossing: Wild World",
-    "date": "2015-08-03",
-    "platform": "Nintendo DS",
-    "igdb": {
-      "id": 2645,
-      "slug": "animal-crossing-wild-world"
-    }
-  },
-  {
-    "name": "Tetris DS",
-    "date": "2015-08-03",
-    "platform": "Nintendo DS",
-    "igdb": {
-      "id": 18599,
-      "slug": "tetris-ds"
-    }
-  },
-  {
-    "name": "Yoshi Touch & Go",
-    "date": "2015-08-03",
-    "platform": "Nintendo DS",
-    "igdb": {
-      "id": 18329,
-      "slug": "yoshi-touch-and-go"
-    }
-  },
-  {
-    "name": "Ikaruga",
-    "date": "2015-08-03",
-    "platform": "Dreamcast",
-    "igdb": {
-      "id": 200996,
-      "slug": "ikaruga--1"
-    }
-  },
-  {
-    "name": "Power Stone",
-    "date": "2015-08-03",
-    "platform": "Dreamcast",
-    "igdb": {
-      "id": 4355,
-      "slug": "power-stone"
-    }
-  },
-  {
-    "name": "Power Stone 2",
-    "date": "2015-08-03",
-    "platform": "Dreamcast",
-    "igdb": {
-      "id": 13106,
-      "slug": "power-stone-2"
-    }
-  },
-  {
-    "name": "The House of the Dead 2",
-    "date": "2015-08-03",
-    "platform": "Dreamcast",
-    "igdb": {
-      "id": 13777,
-      "slug": "the-house-of-the-dead-2"
-    }
-  },
-  {
-    "name": "Virtua Tennis",
-    "date": "2015-08-03",
-    "platform": "Dreamcast",
-    "igdb": {
-      "id": 6291,
-      "slug": "virtua-tennis"
-    }
-  },
-  {
     "name": "Tearaway",
     "date": "2015-08-02",
     "platform": "PlayStation Vita",
     "igdb": {
       "id": 6363,
       "slug": "tearaway"
-    }
-  },
-  {
-    "name": "Jak and Daxter: The Precursor Legacy",
-    "date": "2015-07-31",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 1528,
-      "slug": "jak-and-daxter-the-precursor-legacy"
-    }
-  },
-  {
-    "name": "Ratchet & Clank: Going Commando",
-    "date": "2015-07-31",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 1770,
-      "slug": "ratchet-clank-going-commando"
-    }
-  },
-  {
-    "name": "Ratchet & Clank: Size Matters",
-    "date": "2015-07-31",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 1791,
-      "slug": "ratchet-clank-size-matters"
-    }
-  },
-  {
-    "name": "Ratchet & Clank: Up Your Arsenal",
-    "date": "2015-07-31",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 1773,
-      "slug": "ratchet-clank-up-your-arsenal"
     }
   },
   {
@@ -4077,8 +3636,408 @@
     }
   },
   {
+    "name": "Monument Valley",
+    "platform": "iOS",
+    "igdb": {
+      "id": 8900,
+      "slug": "monument-valley"
+    },
+    "date": "2015-07-22"
+  },
+  {
+    "name": "Wave Race: Blue Storm",
+    "platform": "Nintendo GameCube",
+    "igdb": {
+      "id": 4232,
+      "slug": "wave-race-blue-storm"
+    }
+  },
+  {
+    "name": "Gears of War",
+    "platform": "Xbox 360",
+    "igdb": {
+      "id": 547,
+      "slug": "gears-of-war"
+    }
+  },
+  {
+    "name": "Gears of War 2",
+    "platform": "Xbox 360",
+    "igdb": {
+      "id": 548,
+      "slug": "gears-of-war-2"
+    }
+  },
+  {
+    "name": "Mirror's Edge",
+    "platform": "Xbox 360",
+    "igdb": {
+      "id": 1051,
+      "slug": "mirror-s-edge"
+    }
+  },
+  {
+    "name": "Actual Sunlight",
+    "platform": "PlayStation Vita",
+    "igdb": {
+      "id": 13230,
+      "slug": "actual-sunlight"
+    }
+  },
+  {
+    "name": "Ys III: Wanderers from Ys",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 201313,
+      "slug": "ys-iii-wanderers-from-ys--1"
+    }
+  },
+  {
+    "name": "Counter-Strike: Source",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 307,
+      "slug": "counter-strike-source"
+    }
+  },
+  {
+    "name": "Counter-Strike",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 241,
+      "slug": "counter-strike"
+    }
+  },
+  {
+    "name": "Serious Sam: The First Encounter",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 857,
+      "slug": "serious-sam-the-first-encounter"
+    }
+  },
+  {
+    "name": "Team Fortress Classic",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 6359,
+      "slug": "team-fortress-classic"
+    }
+  },
+  {
+    "name": "Unreal Tournament",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 15263,
+      "slug": "unreal-tournament--1"
+    }
+  },
+  {
+    "name": "World of Warcraft",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 123,
+      "slug": "world-of-warcraft"
+    }
+  },
+  {
+    "name": "Year Walk",
+    "platform": "iOS",
+    "igdb": {
+      "id": 6171,
+      "slug": "year-walk"
+    }
+  },
+  {
+    "name": "Carmageddon",
+    "platform": "DOS",
+    "igdb": {
+      "id": 626,
+      "slug": "carmageddon"
+    }
+  },
+  {
+    "name": "Carmageddon II: Carpocalypse Now",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 951,
+      "slug": "carmageddon-ii-carpocalypse-now"
+    }
+  },
+  {
+    "name": "Puzzle Quest: Challenge of the Warlords",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 2370,
+      "slug": "puzzle-quest-challenge-of-the-warlords"
+    }
+  },
+  {
+    "name": "Sid Meier's Civilization",
+    "platform": "DOS",
+    "igdb": {
+      "id": 902,
+      "slug": "sid-meiers-civilization"
+    }
+  },
+  {
+    "name": "Sid Meier's Civilization II",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 634,
+      "slug": "sid-meiers-civilization-ii"
+    }
+  },
+  {
+    "name": "Sid Meier's Civilization IV",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 293,
+      "slug": "sid-meier-s-civilization-iv"
+    }
+  },
+  {
+    "name": "Sid Meier's Civilization V",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 866,
+      "slug": "sid-meier-s-civilization-v"
+    }
+  },
+  {
+    "name": "Virtua Cop",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 6289,
+      "slug": "virtua-cop"
+    }
+  },
+  {
+    "name": "Warlords",
+    "platform": "DOS",
+    "igdb": {
+      "id": 69606,
+      "slug": "warlords--1"
+    }
+  },
+  {
+    "name": "Final Fantasy Adventure",
+    "platform": "Game Boy",
+    "igdb": {
+      "id": 407,
+      "slug": "final-fantasy-adventure"
+    }
+  },
+  {
+    "name": "Tetris",
+    "platform": "Game Boy",
+    "igdb": {
+      "id": 326807,
+      "slug": "tetris--41"
+    }
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "platform": "Atari 2600",
+    "igdb": {
+      "id": 6706,
+      "slug": "e-t-the-extra-terrestrial"
+    }
+  },
+  {
+    "name": "RalliSport Challenge 2",
+    "platform": "Xbox",
+    "igdb": {
+      "id": 5997,
+      "slug": "rallisport-challenge-2"
+    }
+  },
+  {
+    "name": "Super Paper Mario",
+    "platform": "Wii",
+    "igdb": {
+      "id": 2191,
+      "slug": "super-paper-mario"
+    }
+  },
+  {
+    "name": "Street Fighter II",
+    "platform": "Super Nintendo Entertainment System",
+    "igdb": {
+      "id": 321621,
+      "slug": "street-fighter-ii--11"
+    }
+  },
+  {
+    "name": "Command & Conquer",
+    "platform": "DOS",
+    "igdb": {
+      "id": 647,
+      "slug": "command-conquer"
+    }
+  },
+  {
+    "name": "Sam & Max: Beyond Time and Space",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 854,
+      "slug": "sam-max-beyond-time-and-space"
+    }
+  },
+  {
+    "name": "Sam & Max: Save the World",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 862,
+      "slug": "sam-max-save-the-world"
+    }
+  },
+  {
+    "name": "Sam & Max: The Devil's Playhouse",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 9534,
+      "slug": "sam-and-max-the-devils-playhouse"
+    }
+  },
+  {
+    "name": "Silver",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 7042,
+      "slug": "silver"
+    }
+  },
+  {
+    "name": "Soldier of Fortune",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 3111,
+      "slug": "soldier-of-fortune"
+    }
+  },
+  {
+    "name": "The Typing of the Dead",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 11605,
+      "slug": "the-typing-of-the-dead"
+    }
+  },
+  {
+    "name": "Virtua Cop 2",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 2470,
+      "slug": "virtua-cop-2"
+    }
+  },
+  {
+    "name": "Winter Games",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 344065,
+      "slug": "winter-games--13"
+    }
+  },
+  {
+    "name": "Animal Crossing: Wild World",
+    "platform": "Nintendo DS",
+    "igdb": {
+      "id": 2645,
+      "slug": "animal-crossing-wild-world"
+    }
+  },
+  {
+    "name": "Tetris DS",
+    "platform": "Nintendo DS",
+    "igdb": {
+      "id": 18599,
+      "slug": "tetris-ds"
+    }
+  },
+  {
+    "name": "Yoshi Touch & Go",
+    "platform": "Nintendo DS",
+    "igdb": {
+      "id": 18329,
+      "slug": "yoshi-touch-and-go"
+    }
+  },
+  {
+    "name": "Ikaruga",
+    "platform": "Dreamcast",
+    "igdb": {
+      "id": 200996,
+      "slug": "ikaruga--1"
+    }
+  },
+  {
+    "name": "Power Stone",
+    "platform": "Dreamcast",
+    "igdb": {
+      "id": 4355,
+      "slug": "power-stone"
+    }
+  },
+  {
+    "name": "Power Stone 2",
+    "platform": "Dreamcast",
+    "igdb": {
+      "id": 13106,
+      "slug": "power-stone-2"
+    }
+  },
+  {
+    "name": "The House of the Dead 2",
+    "platform": "Dreamcast",
+    "igdb": {
+      "id": 13777,
+      "slug": "the-house-of-the-dead-2"
+    }
+  },
+  {
+    "name": "Virtua Tennis",
+    "platform": "Dreamcast",
+    "igdb": {
+      "id": 6291,
+      "slug": "virtua-tennis"
+    }
+  },
+  {
+    "name": "Jak and Daxter: The Precursor Legacy",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 1528,
+      "slug": "jak-and-daxter-the-precursor-legacy"
+    }
+  },
+  {
+    "name": "Ratchet & Clank: Going Commando",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 1770,
+      "slug": "ratchet-clank-going-commando"
+    }
+  },
+  {
+    "name": "Ratchet & Clank: Size Matters",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 1791,
+      "slug": "ratchet-clank-size-matters"
+    }
+  },
+  {
+    "name": "Ratchet & Clank: Up Your Arsenal",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 1773,
+      "slug": "ratchet-clank-up-your-arsenal"
+    }
+  },
+  {
     "name": "NHL 96",
-    "date": "2015-07-27",
     "platform": "DOS",
     "igdb": {
       "id": 11650,
@@ -4087,7 +4046,6 @@
   },
   {
     "name": "Nine Hours, Nine Persons, Nine Doors",
-    "date": "2015-07-27",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 9543,
@@ -4096,7 +4054,6 @@
   },
   {
     "name": "Metal Slug",
-    "date": "2015-07-27",
     "platform": "Arcade",
     "igdb": {
       "id": 1404,
@@ -4105,7 +4062,6 @@
   },
   {
     "name": "Kingdom Hearts",
-    "date": "2015-07-25",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 1219,
@@ -4114,7 +4070,6 @@
   },
   {
     "name": "Portal",
-    "date": "2015-07-25",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 71,
@@ -4123,7 +4078,6 @@
   },
   {
     "name": "Sopwith",
-    "date": "2015-07-25",
     "platform": "DOS",
     "igdb": {
       "id": 24424,
@@ -4132,7 +4086,6 @@
   },
   {
     "name": "New Super Mario Bros. U",
-    "date": "2015-07-22",
     "platform": "Wii U",
     "igdb": {
       "id": 2171,
@@ -4141,7 +4094,6 @@
   },
   {
     "name": "The Legend of Zelda: Skyward Sword",
-    "date": "2015-07-22",
     "platform": "Wii",
     "igdb": {
       "id": 534,
@@ -4150,7 +4102,6 @@
   },
   {
     "name": "Final Fantasy: Mystic Quest",
-    "date": "2015-07-22",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 415,
@@ -4159,7 +4110,6 @@
   },
   {
     "name": "Disney's Goof Troop",
-    "date": "2015-07-22",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 8163,
@@ -4168,7 +4118,6 @@
   },
   {
     "name": "The Blackwell Deception",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9037,
@@ -4177,7 +4126,6 @@
   },
   {
     "name": "Blackwell Unbound",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9041,
@@ -4186,7 +4134,6 @@
   },
   {
     "name": "Secret Files 2: Puritas Cordis",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 5146,
@@ -4195,7 +4142,6 @@
   },
   {
     "name": "Secret Files: Tunguska",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 5145,
@@ -4204,7 +4150,6 @@
   },
   {
     "name": "Tales of Monkey Island",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 64,
@@ -4213,7 +4158,6 @@
   },
   {
     "name": "The Blackwell Convergence",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9039,
@@ -4222,7 +4166,6 @@
   },
   {
     "name": "The Blackwell Legacy",
-    "date": "2015-07-22",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9043,
@@ -4231,7 +4174,6 @@
   },
   {
     "name": "Blades of Steel",
-    "date": "2015-07-22",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 280812,
@@ -4240,7 +4182,6 @@
   },
   {
     "name": "The Legend of Zelda",
-    "date": "2015-07-22",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1022,
@@ -4248,17 +4189,7 @@
     }
   },
   {
-    "name": "Monument Valley",
-    "date": "2015-07-22",
-    "platform": "iOS",
-    "igdb": {
-      "id": 8900,
-      "slug": "monument-valley"
-    }
-  },
-  {
     "name": "The Legend of Zelda: A Link to the Past & Four Swords",
-    "date": "2015-07-22",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 77336,
