@@ -92,6 +92,8 @@
   }
   .cover-card:hover .cover-title { color: var(--accent); }
   .cover-platform { font-size: 11px; line-height: 1.25; color: var(--muted); text-align: center; margin-top: -2px; }
+  .cover-date { font-size: 11px; line-height: 1.25; color: var(--muted); text-align: center; font-variant-numeric: tabular-nums; }
+  .cover-date.unknown { font-style: italic; opacity: 0.85; }
   .empty, .error { text-align: center; color: var(--muted); padding: 60px 20px; }
   .error code { background: var(--accent-weak); color: var(--accent); padding: 2px 7px; border-radius: 6px; font-size: 13px; }
   .clear { background: none; border: 0; color: var(--accent); cursor: pointer; font-size: 13px; padding: 0; }
@@ -334,7 +336,8 @@ function renderCovers(rows) {
     // onerror removes a missing poster so the tinted .cover-thumb box shows instead.
     const inner = `<span class="cover-thumb"><img src="${cover}" alt="" loading="lazy" onerror="this.remove()"></span>` +
       `<span class="cover-title">${esc(g.name)}</span>` +
-      `<span class="cover-platform">${esc(g.platform)}</span>`;
+      `<span class="cover-platform">${esc(g.platform)}</span>` +
+      `<span class="cover-date${g.date ? "" : " unknown"}">${g.date ? esc(g.date) : "Unknown"}</span>`;
     const attrs = `title="${esc(g.name)} — ${esc(g.platform)}"`;
     return url
       ? `<a class="cover-card" href="${url}" target="_blank" rel="noopener" ${attrs}>${inner}</a>`
