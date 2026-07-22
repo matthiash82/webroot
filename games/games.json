@@ -189,6 +189,15 @@
     }
   },
   {
+    "name": "Hollow Knight",
+    "date": "2025-11-10",
+    "platform": "PC (Microsoft Windows)",
+    "igdb": {
+      "id": 14593,
+      "slug": "hollow-knight"
+    }
+  },
+  {
     "name": "Eclipsium",
     "date": "2025-11-02",
     "platform": "PC (Microsoft Windows)",
@@ -3510,15 +3519,6 @@
     }
   },
   {
-    "name": "Hollow Knight",
-    "date": "2015-11-10",
-    "platform": "PC (Microsoft Windows)",
-    "igdb": {
-      "id": 14593,
-      "slug": "hollow-knight"
-    }
-  },
-  {
     "name": "Life Is Strange",
     "date": "2015-11-07",
     "platform": "PlayStation 4",
@@ -3546,15 +3546,6 @@
     "date": "2015-10-11"
   },
   {
-    "name": "We Love Katamari",
-    "date": "2015-10-10",
-    "platform": "PlayStation 2",
-    "igdb": {
-      "id": 6454,
-      "slug": "we-love-katamari"
-    }
-  },
-  {
     "name": "Batman: Arkham Knight",
     "date": "2015-10-09",
     "platform": "PlayStation 4",
@@ -3570,15 +3561,6 @@
     "igdb": {
       "id": 15457,
       "slug": "ys-memories-of-celceta"
-    }
-  },
-  {
-    "name": "Disney's Chip 'n Dale Rescue Rangers",
-    "date": "2015-08-20",
-    "platform": "Nintendo Entertainment System",
-    "igdb": {
-      "id": 6490,
-      "slug": "disneys-chip-n-dale-rescue-rangers--1"
     }
   },
   {
@@ -3643,6 +3625,22 @@
       "slug": "monument-valley"
     },
     "date": "2015-07-22"
+  },
+  {
+    "name": "We Love Katamari",
+    "platform": "PlayStation 2",
+    "igdb": {
+      "id": 6454,
+      "slug": "we-love-katamari"
+    }
+  },
+  {
+    "name": "Disney's Chip 'n Dale Rescue Rangers",
+    "platform": "Nintendo Entertainment System",
+    "igdb": {
+      "id": 6490,
+      "slug": "disneys-chip-n-dale-rescue-rangers--1"
+    }
   },
   {
     "name": "Wave Race: Blue Storm",
