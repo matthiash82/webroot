@@ -69,6 +69,7 @@
     vertical-align: middle; margin-right: 9px; position: relative; z-index: 1;
   }
   td.date { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  td.date .unknown { font-style: italic; opacity: 0.85; }
   .badge { display: inline-block; background: var(--accent-weak); color: var(--accent); border-radius: 999px; padding: 1px 9px; font-size: 12px; font-weight: 600; }
   /* List / Covers view toggle */
   .viewtoggle { margin-left: auto; display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
@@ -172,7 +173,16 @@ const els = {
   side: document.getElementById("side"),
 };
 
-function yearOf(g) { return (g.date || "").slice(0, 4); }
+const UNKNOWN_YEAR = "Unknown";
+function yearOf(g) { return g.date ? g.date.slice(0, 4) : UNKNOWN_YEAR; }
+// Years newest-first, with the "Unknown" (undated) bucket always sorted last.
+function sortYearsDesc(years) {
+  return years.slice().sort((a, b) => {
+    if (a === UNKNOWN_YEAR) return 1;
+    if (b === UNKNOWN_YEAR) return -1;
+    return b.localeCompare(a);
+  });
+}
 function norm(s) { return (s || "").toLowerCase(); }
 function esc(s) { return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 function slug(s) { return (s || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""); }
@@ -183,7 +193,7 @@ function platformIcon(p) {
 
 function populateSelects() {
   const platforms = [...new Set(GAMES.map(g => g.platform))].sort((a, b) => a.localeCompare(b));
-  const years = [...new Set(GAMES.map(yearOf))].sort().reverse();
+  const years = sortYearsDesc([...new Set(GAMES.map(yearOf))]);
   for (const p of platforms) els.platform.add(new Option(p, p));
   for (const y of years) els.year.add(new Option(y, y));
 }
@@ -205,7 +215,7 @@ function renderSummaries() {
   // By year: every completion (playthrough) counts.
   const yearCounts = {};
   for (const g of GAMES) { const y = yearOf(g); yearCounts[y] = (yearCounts[y] || 0) + 1; }
-  const years = Object.keys(yearCounts).sort().reverse();
+  const years = sortYearsDesc(Object.keys(yearCounts));
   const yMax = Math.max(1, ...Object.values(yearCounts));
   document.getElementById("yearTable").innerHTML =
     miniTable(years.map(y => [y, yearCounts[y], y]), yMax, "year");
@@ -248,10 +258,15 @@ function filtered() {
   );
   const dir = sortDir;
   rows = rows.slice().sort((a, b) => {
-    let av, bv;
-    if (sortKey === "name") { av = norm(a.name); bv = norm(b.name); }
-    else if (sortKey === "platform") { av = norm(a.platform); bv = norm(b.platform); }
-    else { av = a.date || ""; bv = b.date || ""; }
+    if (sortKey === "date") {
+      const ad = a.date || "", bd = b.date || "";
+      if (ad === bd) return 0;
+      if (!ad) return 1;   // undated entries always sort last, regardless of direction
+      if (!bd) return -1;
+      return ad < bd ? -dir : dir;
+    }
+    const av = norm(sortKey === "name" ? a.name : a.platform);
+    const bv = norm(sortKey === "name" ? b.name : b.platform);
     if (av < bv) return -dir;
     if (av > bv) return dir;
     return (a.date || "") < (b.date || "") ? 1 : -1;  // tie-break newest first
@@ -286,7 +301,7 @@ function renderList(rows) {
     return `<tr>
       <td class="name">${name}</td>
       <td class="platform"><button data-p="${esc(g.platform)}">${platformIcon(g.platform)}${esc(g.platform)}</button></td>
-      <td class="date">${esc(g.date)}</td>
+      <td class="date">${g.date ? esc(g.date) : '<span class="unknown">Unknown</span>'}</td>
     </tr>`;
   }).join("");
 

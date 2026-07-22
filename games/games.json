@@ -4267,7 +4267,6 @@
   },
   {
     "name": "Bionic Commando Rearmed",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 15856,
@@ -4276,7 +4275,6 @@
   },
   {
     "name": "Batman: Arkham Asylum",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 500,
@@ -4285,7 +4283,6 @@
   },
   {
     "name": "Batman: Arkham City",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 501,
@@ -4294,7 +4291,6 @@
   },
   {
     "name": "Batman: Arkham Origins",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 2003,
@@ -4303,7 +4299,6 @@
   },
   {
     "name": "BioShock Infinite",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 538,
@@ -4312,7 +4307,6 @@
   },
   {
     "name": "Dead Space",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 37,
@@ -4321,7 +4315,6 @@
   },
   {
     "name": "Dead Space 2",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 38,
@@ -4330,7 +4323,6 @@
   },
   {
     "name": "Fallout 3",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 15,
@@ -4339,7 +4331,6 @@
   },
   {
     "name": "Prince of Persia",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 2438,
@@ -4348,7 +4339,6 @@
   },
   {
     "name": "Red Dead Redemption",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 434,
@@ -4357,7 +4347,6 @@
   },
   {
     "name": "Resident Evil 5",
-    "date": "2015-07-21",
     "platform": "Xbox 360",
     "igdb": {
       "id": 847,
@@ -4366,7 +4355,6 @@
   },
   {
     "name": "Burnout 3: Takedown",
-    "date": "2015-07-21",
     "platform": "Xbox",
     "igdb": {
       "id": 5761,
@@ -4375,7 +4363,6 @@
   },
   {
     "name": "I-Ninja",
-    "date": "2015-07-21",
     "platform": "Xbox",
     "igdb": {
       "id": 3951,
@@ -4384,7 +4371,6 @@
   },
   {
     "name": "Prince of Persia: The Sands of Time",
-    "date": "2015-07-21",
     "platform": "Xbox",
     "igdb": {
       "id": 836,
@@ -4393,7 +4379,6 @@
   },
   {
     "name": "Captain Toad: Treasure Tracker",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 7337,
@@ -4402,7 +4387,6 @@
   },
   {
     "name": "Mario Kart 8",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 2350,
@@ -4411,7 +4395,6 @@
   },
   {
     "name": "NES Remix",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 6401,
@@ -4420,7 +4403,6 @@
   },
   {
     "name": "NES Remix 2",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 6402,
@@ -4429,7 +4411,6 @@
   },
   {
     "name": "Shovel Knight",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 7444,
@@ -4438,7 +4419,6 @@
   },
   {
     "name": "Super Mario 3D World",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 2180,
@@ -4447,7 +4427,6 @@
   },
   {
     "name": "Super Smash Bros. for Wii U",
-    "date": "2015-07-21",
     "platform": "Wii U",
     "igdb": {
       "id": 9602,
@@ -4456,7 +4435,6 @@
   },
   {
     "name": "Metroid: Other M",
-    "date": "2015-07-21",
     "platform": "Wii",
     "igdb": {
       "id": 1113,
@@ -4465,7 +4443,6 @@
   },
   {
     "name": "New Super Mario Bros. Wii",
-    "date": "2015-07-21",
     "platform": "Wii",
     "igdb": {
       "id": 2178,
@@ -4474,7 +4451,6 @@
   },
   {
     "name": "Super Mario Galaxy",
-    "date": "2015-07-21",
     "platform": "Wii",
     "igdb": {
       "id": 1077,
@@ -4483,7 +4459,6 @@
   },
   {
     "name": "Super Mario Galaxy 2",
-    "date": "2015-07-21",
     "platform": "Wii",
     "igdb": {
       "id": 1078,
@@ -4492,7 +4467,6 @@
   },
   {
     "name": "Super Smash Bros. Brawl",
-    "date": "2015-07-21",
     "platform": "Wii",
     "igdb": {
       "id": 1628,
@@ -4501,7 +4475,6 @@
   },
   {
     "name": "Chrono Trigger",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1802,
@@ -4510,7 +4483,6 @@
   },
   {
     "name": "Final Fantasy II",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 387,
@@ -4519,7 +4491,6 @@
   },
   {
     "name": "Final Fantasy III",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 426,
@@ -4528,7 +4499,6 @@
   },
   {
     "name": "Super Bomberman",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 3450,
@@ -4537,7 +4507,6 @@
   },
   {
     "name": "Super Mario All-Stars",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 5199,
@@ -4546,7 +4515,6 @@
   },
   {
     "name": "Super Mario World",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1070,
@@ -4555,7 +4523,6 @@
   },
   {
     "name": "Super Mario World 2: Yoshi's Island",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1073,
@@ -4564,7 +4531,6 @@
   },
   {
     "name": "Super Metroid",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1103,
@@ -4573,7 +4539,6 @@
   },
   {
     "name": "Super Soccer",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 77457,
@@ -4582,7 +4547,6 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 14697,
@@ -4591,7 +4555,6 @@
   },
   {
     "name": "The Legend of Zelda: A Link to the Past",
-    "date": "2015-07-21",
     "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1026,
@@ -4600,7 +4563,6 @@
   },
   {
     "name": "BS Zelda no Densetsu: Inishie no Sekiban",
-    "date": "2015-07-21",
     "platform": "Satellaview",
     "igdb": {
       "id": 42308,
@@ -4609,7 +4571,6 @@
   },
   {
     "name": "Alien: Isolation",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 4754,
@@ -4618,7 +4579,6 @@
   },
   {
     "name": "Bastion",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 1983,
@@ -4627,7 +4587,6 @@
   },
   {
     "name": "Brothers: A Tale of Two Sons",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 1334,
@@ -4636,7 +4595,6 @@
   },
   {
     "name": "Grim Fandango Remastered",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 8682,
@@ -4645,7 +4603,6 @@
   },
   {
     "name": "Hotline Miami",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 1384,
@@ -4654,7 +4611,6 @@
   },
   {
     "name": "Hotline Miami 2: Wrong Number",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 2126,
@@ -4663,7 +4619,6 @@
   },
   {
     "name": "The Binding of Isaac: Rebirth",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 7789,
@@ -4672,7 +4627,6 @@
   },
   {
     "name": "The Order: 1886",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 3048,
@@ -4681,7 +4635,6 @@
   },
   {
     "name": "The Walking Dead: Season Two",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 3097,
@@ -4690,7 +4643,6 @@
   },
   {
     "name": "The Witcher 3: Wild Hunt",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 1942,
@@ -4699,7 +4651,6 @@
   },
   {
     "name": "Watch Dogs",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 1121,
@@ -4708,7 +4659,6 @@
   },
   {
     "name": "Wolfenstein: The Old Blood",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 9192,
@@ -4717,7 +4667,6 @@
   },
   {
     "name": "The Last of Us Remastered",
-    "date": "2015-07-21",
     "platform": "PlayStation 4",
     "igdb": {
       "id": 6036,
@@ -4726,7 +4675,6 @@
   },
   {
     "name": "Grand Theft Auto V",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 1020,
@@ -4735,7 +4683,6 @@
   },
   {
     "name": "Journey",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 1352,
@@ -4744,7 +4691,6 @@
   },
   {
     "name": "The Last of Us",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 1009,
@@ -4753,7 +4699,6 @@
   },
   {
     "name": "Tomb Raider",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 912,
@@ -4762,7 +4707,6 @@
   },
   {
     "name": "Uncharted 2: Among Thieves",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 565,
@@ -4771,7 +4715,6 @@
   },
   {
     "name": "Uncharted 3: Drake's Deception",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 512,
@@ -4780,7 +4723,6 @@
   },
   {
     "name": "Uncharted: Drake's Fortune",
-    "date": "2015-07-21",
     "platform": "PlayStation 3",
     "igdb": {
       "id": 431,
@@ -4789,7 +4731,6 @@
   },
   {
     "name": "Katamari Damacy",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 6453,
@@ -4798,7 +4739,6 @@
   },
   {
     "name": "Castlevania: Lament of Innocence",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 1135,
@@ -4807,7 +4747,6 @@
   },
   {
     "name": "God of War (2005)",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 549,
@@ -4816,7 +4755,6 @@
   },
   {
     "name": "Ico",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 7170,
@@ -4825,7 +4763,6 @@
   },
   {
     "name": "Jak 3",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 1530,
@@ -4834,7 +4771,6 @@
   },
   {
     "name": "Maximo vs. Army of Zin",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 43642,
@@ -4843,7 +4779,6 @@
   },
   {
     "name": "Ōkami",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 1271,
@@ -4852,7 +4787,6 @@
   },
   {
     "name": "Ratchet & Clank (2002)",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 1289,
@@ -4861,7 +4795,6 @@
   },
   {
     "name": "Shadow of the Colossus",
-    "date": "2015-07-21",
     "platform": "PlayStation 2",
     "igdb": {
       "id": 2207,
@@ -4870,7 +4803,6 @@
   },
   {
     "name": "Castlevania: Symphony of the Night",
-    "date": "2015-07-21",
     "platform": "PlayStation",
     "igdb": {
       "id": 1128,
@@ -4879,7 +4811,6 @@
   },
   {
     "name": "Crash Bandicoot",
-    "date": "2015-07-21",
     "platform": "PlayStation",
     "igdb": {
       "id": 1185,
@@ -4888,7 +4819,6 @@
   },
   {
     "name": "Beneath a Steel Sky",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 612,
@@ -4897,7 +4827,6 @@
   },
   {
     "name": "Call of Juarez: Gunslinger",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1976,
@@ -4906,7 +4835,6 @@
   },
   {
     "name": "Command & Conquer: Red Alert",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 295,
@@ -4915,7 +4843,6 @@
   },
   {
     "name": "Dark Messiah of Might and Magic",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2369,
@@ -4924,7 +4851,6 @@
   },
   {
     "name": "Dead Island",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 536,
@@ -4933,7 +4859,6 @@
   },
   {
     "name": "Dear Esther",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 273899,
@@ -4942,7 +4867,6 @@
   },
   {
     "name": "Defense Grid: The Awakening",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 8190,
@@ -4951,7 +4875,6 @@
   },
   {
     "name": "Deus Ex: Human Revolution",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 43,
@@ -4960,7 +4883,6 @@
   },
   {
     "name": "Doom II: Hell on Earth",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 312,
@@ -4969,7 +4891,6 @@
   },
   {
     "name": "Dreamfall: The Longest Journey",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1961,
@@ -4978,7 +4899,6 @@
   },
   {
     "name": "Duke Nukem 3D",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 342,
@@ -4987,7 +4907,6 @@
   },
   {
     "name": "Fallout: New Vegas",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 16,
@@ -4996,7 +4915,6 @@
   },
   {
     "name": "Far Cry 3",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 529,
@@ -5005,7 +4923,6 @@
   },
   {
     "name": "Full Throttle",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 180,
@@ -5014,7 +4931,6 @@
   },
   {
     "name": "Gone Home",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1906,
@@ -5023,7 +4939,6 @@
   },
   {
     "name": "Grand Theft Auto",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 980,
@@ -5032,7 +4947,6 @@
   },
   {
     "name": "Grand Theft Auto 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 819,
@@ -5041,7 +4955,6 @@
   },
   {
     "name": "Gunpoint",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3242,
@@ -5050,7 +4963,6 @@
   },
   {
     "name": "Half-Life",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 231,
@@ -5059,7 +4971,6 @@
   },
   {
     "name": "Half-Life 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 233,
@@ -5068,7 +4979,6 @@
   },
   {
     "name": "Half-Life 2: Episode One",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 338,
@@ -5077,7 +4987,6 @@
   },
   {
     "name": "Half-Life 2: Episode Two",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 247,
@@ -5086,7 +4995,6 @@
   },
   {
     "name": "Half-Life 2: Lost Coast",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 10395,
@@ -5095,7 +5003,6 @@
   },
   {
     "name": "Hard Reset",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 532,
@@ -5104,7 +5011,6 @@
   },
   {
     "name": "Indiana Jones and the Fate of Atlantis",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 184,
@@ -5113,7 +5019,6 @@
   },
   {
     "name": "Indiana Jones and the Last Crusade: The Graphic Adventure",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 186,
@@ -5122,7 +5027,6 @@
   },
   {
     "name": "Loom",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 191,
@@ -5131,7 +5035,6 @@
   },
   {
     "name": "Machinarium",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2990,
@@ -5140,7 +5043,6 @@
   },
   {
     "name": "Mass Effect 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 74,
@@ -5149,7 +5051,6 @@
   },
   {
     "name": "Metro: Last Light",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 539,
@@ -5158,7 +5059,6 @@
   },
   {
     "name": "Need for Speed III: Hot Pursuit",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 92,
@@ -5167,7 +5067,6 @@
   },
   {
     "name": "Puzzle Agent",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15995,
@@ -5176,7 +5075,6 @@
   },
   {
     "name": "Outrun",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 325048,
@@ -5185,7 +5083,6 @@
   },
   {
     "name": "Plants vs. Zombies",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1277,
@@ -5194,7 +5091,6 @@
   },
   {
     "name": "Portal 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 72,
@@ -5203,7 +5099,6 @@
   },
   {
     "name": "Puzzle Agent 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6778,
@@ -5212,7 +5107,6 @@
   },
   {
     "name": "Quake II",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 286,
@@ -5221,7 +5115,6 @@
   },
   {
     "name": "Rage",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 509,
@@ -5230,7 +5123,6 @@
   },
   {
     "name": "Red Faction",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6273,
@@ -5239,7 +5131,6 @@
   },
   {
     "name": "Return to Castle Wolfenstein",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 281,
@@ -5248,7 +5139,6 @@
   },
   {
     "name": "Sam & Max Hit the Road",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 202,
@@ -5257,7 +5147,6 @@
   },
   {
     "name": "Shatter",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 405413,
@@ -5266,7 +5155,6 @@
   },
   {
     "name": "Simon the Sorcerer",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 459,
@@ -5275,7 +5163,6 @@
   },
   {
     "name": "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 460,
@@ -5284,7 +5171,6 @@
   },
   {
     "name": "Singularity",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 226920,
@@ -5293,7 +5179,6 @@
   },
   {
     "name": "Spec Ops: The Line",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1377,
@@ -5302,7 +5187,6 @@
   },
   {
     "name": "StarCraft II: Wings of Liberty",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 239,
@@ -5311,7 +5195,6 @@
   },
   {
     "name": "Syberia",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 890,
@@ -5320,7 +5203,6 @@
   },
   {
     "name": "Syberia II",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6185,
@@ -5329,7 +5211,6 @@
   },
   {
     "name": "Team Fortress 2",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 891,
@@ -5338,7 +5219,6 @@
   },
   {
     "name": "TechnoMage: Return of Eternity",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 44906,
@@ -5347,7 +5227,6 @@
   },
   {
     "name": "The Elder Scrolls V: Skyrim",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 472,
@@ -5356,7 +5235,6 @@
   },
   {
     "name": "The Longest Journey",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 895,
@@ -5365,7 +5243,6 @@
   },
   {
     "name": "The Secret of Monkey Island",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 60,
@@ -5374,7 +5251,6 @@
   },
   {
     "name": "The Stanley Parable",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3035,
@@ -5383,7 +5259,6 @@
   },
   {
     "name": "The Walking Dead",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1871,
@@ -5392,7 +5267,6 @@
   },
   {
     "name": "The Witcher 2: Assassins of Kings",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 478,
@@ -5401,7 +5275,6 @@
   },
   {
     "name": "Torchlight",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2480,
@@ -5410,7 +5283,6 @@
   },
   {
     "name": "Torchlight II",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1337,
@@ -5419,7 +5291,6 @@
   },
   {
     "name": "Warcraft II: Beyond the Dark Portal",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 131,
@@ -5428,7 +5299,6 @@
   },
   {
     "name": "Warcraft II: Tides of Darkness",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 130,
@@ -5437,7 +5307,6 @@
   },
   {
     "name": "Wolfenstein 3D",
-    "date": "2015-07-21",
     "platform": "DOS",
     "igdb": {
       "id": 262516,
@@ -5446,7 +5315,6 @@
   },
   {
     "name": "Wolfenstein: The New Order",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2031,
@@ -5455,7 +5323,6 @@
   },
   {
     "name": "Ys Origin",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 10949,
@@ -5464,7 +5331,6 @@
   },
   {
     "name": "Ys: The Oath in Felghana",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15455,
@@ -5473,7 +5339,6 @@
   },
   {
     "name": "Zombie Driver",
-    "date": "2015-07-21",
     "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 20668,
@@ -5482,7 +5347,6 @@
   },
   {
     "name": "Super Mario 3D World + Bowser's Fury",
-    "date": "2015-07-21",
     "platform": "Nintendo Switch",
     "igdb": {
       "id": 138227,
@@ -5491,7 +5355,6 @@
   },
   {
     "name": "Mario Kart 8 Deluxe",
-    "date": "2015-07-21",
     "platform": "Nintendo Switch",
     "igdb": {
       "id": 26764,
@@ -5500,7 +5363,6 @@
   },
   {
     "name": "Bubble Bobble",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 194444,
@@ -5509,7 +5371,6 @@
   },
   {
     "name": "Contra",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 186207,
@@ -5518,7 +5379,6 @@
   },
   {
     "name": "Disney's DuckTales",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 6487,
@@ -5527,7 +5387,6 @@
   },
   {
     "name": "Excitebike",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 4600,
@@ -5536,7 +5395,6 @@
   },
   {
     "name": "Ice Hockey",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 18532,
@@ -5545,7 +5403,6 @@
   },
   {
     "name": "Kid Icarus",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 3663,
@@ -5554,7 +5411,6 @@
   },
   {
     "name": "Life Force",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 174945,
@@ -5563,7 +5419,6 @@
   },
   {
     "name": "Mega Man 2",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1715,
@@ -5572,7 +5427,6 @@
   },
   {
     "name": "Metroid",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1101,
@@ -5581,7 +5435,6 @@
   },
   {
     "name": "Rygar",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 28841,
@@ -5590,7 +5443,6 @@
   },
   {
     "name": "Super Mario Bros.",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 358,
@@ -5599,7 +5451,6 @@
   },
   {
     "name": "Super Mario Bros. / Duck Hunt",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 69638,
@@ -5608,7 +5459,6 @@
   },
   {
     "name": "Super Mario Bros. 2",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1067,
@@ -5617,7 +5467,6 @@
   },
   {
     "name": "Super Mario Bros. 3",
-    "date": "2015-07-21",
     "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1068,
@@ -5626,7 +5475,6 @@
   },
   {
     "name": "Castlevania: Order of Ecclesia",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1141,
@@ -5635,7 +5483,6 @@
   },
   {
     "name": "Castlevania: Portrait of Ruin",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1138,
@@ -5644,7 +5491,6 @@
   },
   {
     "name": "Feel the Magic: XY/XX",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 18331,
@@ -5653,7 +5499,6 @@
   },
   {
     "name": "Mario & Luigi: Bowser's Inside Story",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 3363,
@@ -5662,7 +5507,6 @@
   },
   {
     "name": "Mario & Luigi: Partners in Time",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 3364,
@@ -5671,7 +5515,6 @@
   },
   {
     "name": "Mario Kart DS",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 2345,
@@ -5680,7 +5523,6 @@
   },
   {
     "name": "New Super Mario Bros.",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1076,
@@ -5689,7 +5531,6 @@
   },
   {
     "name": "Osu! Tatakae! Ouendan",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 24645,
@@ -5698,7 +5539,6 @@
   },
   {
     "name": "Professor Layton and the Curious Village",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1397,
@@ -5707,7 +5547,6 @@
   },
   {
     "name": "Professor Layton and the Diabolical Box",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1398,
@@ -5716,7 +5555,6 @@
   },
   {
     "name": "Professor Layton and the Last Specter",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1400,
@@ -5725,7 +5563,6 @@
   },
   {
     "name": "Professor Layton and the Unwound Future",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1399,
@@ -5734,7 +5571,6 @@
   },
   {
     "name": "Super Mario 64 DS",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 22301,
@@ -5743,7 +5579,6 @@
   },
   {
     "name": "Super Princess Peach",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 20497,
@@ -5752,7 +5587,6 @@
   },
   {
     "name": "The Legend of Zelda: Phantom Hourglass",
-    "date": "2015-07-21",
     "platform": "Nintendo DS",
     "igdb": {
       "id": 1037,
@@ -5761,7 +5595,6 @@
   },
   {
     "name": "Super Mario 64",
-    "date": "2015-07-21",
     "platform": "Nintendo 64",
     "igdb": {
       "id": 1074,
@@ -5770,7 +5603,6 @@
   },
   {
     "name": "Luigi's Mansion: Dark Moon",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 2476,
@@ -5779,7 +5611,6 @@
   },
   {
     "name": "Professor Layton and the Azran Legacy",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1403,
@@ -5788,7 +5619,6 @@
   },
   {
     "name": "Professor Layton and the Miracle Mask",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1401,
@@ -5797,7 +5627,6 @@
   },
   {
     "name": "Super Mario 3D Land",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1079,
@@ -5806,7 +5635,6 @@
   },
   {
     "name": "The Legend of Zelda: A Link Between Worlds",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 2909,
@@ -5815,7 +5643,6 @@
   },
   {
     "name": "Luigi's Mansion",
-    "date": "2015-07-21",
     "platform": "Nintendo 3DS",
     "igdb": {
       "id": 2485,
@@ -5824,7 +5651,6 @@
   },
   {
     "name": "Metal Slug 4",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 1409,
@@ -5833,7 +5659,6 @@
   },
   {
     "name": "Metal Slug 5",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 1410,
@@ -5842,7 +5667,6 @@
   },
   {
     "name": "Plants vs. Zombies",
-    "date": "2015-07-21",
     "platform": "iOS",
     "igdb": {
       "id": 1277,
@@ -5851,7 +5675,6 @@
   },
   {
     "name": "The Legend of Zelda: The Wind Waker",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1033,
@@ -5860,7 +5683,6 @@
   },
   {
     "name": "Beyond Good & Evil",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1341,
@@ -5869,7 +5691,6 @@
   },
   {
     "name": "F-Zero GX",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 3492,
@@ -5878,7 +5699,6 @@
   },
   {
     "name": "Luigi's Mansion",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2485,
@@ -5887,7 +5707,6 @@
   },
   {
     "name": "Mario Kart: Double Dash!!",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2344,
@@ -5896,7 +5715,6 @@
   },
   {
     "name": "Paper Mario: The Thousand-Year Door",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 3349,
@@ -5905,7 +5723,6 @@
   },
   {
     "name": "Resident Evil 4 (2005)",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 974,
@@ -5914,7 +5731,6 @@
   },
   {
     "name": "Star Fox Adventures",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2686,
@@ -5923,7 +5739,6 @@
   },
   {
     "name": "Super Mario Sunshine",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1075,
@@ -5932,7 +5747,6 @@
   },
   {
     "name": "Super Smash Bros. Melee",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1627,
@@ -5941,7 +5755,6 @@
   },
   {
     "name": "The Legend of Zelda: Twilight Princess",
-    "date": "2015-07-21",
     "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1036,
@@ -5950,7 +5763,6 @@
   },
   {
     "name": "Castlevania: Aria of Sorrow",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1134,
@@ -5959,7 +5771,6 @@
   },
   {
     "name": "Castlevania: Circle of the Moon",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1132,
@@ -5968,7 +5779,6 @@
   },
   {
     "name": "Castlevania: Harmony of Dissonance",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1133,
@@ -5977,7 +5787,6 @@
   },
   {
     "name": "Mario & Luigi: Superstar Saga",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 3351,
@@ -5986,7 +5795,6 @@
   },
   {
     "name": "Metroid Fusion",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1104,
@@ -5995,7 +5803,6 @@
   },
   {
     "name": "Metroid: Zero Mission",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1107,
@@ -6004,7 +5811,6 @@
   },
   {
     "name": "The Legend of Zelda: The Minish Cap",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1035,
@@ -6013,7 +5819,6 @@
   },
   {
     "name": "WarioWare: Twisted!",
-    "date": "2015-07-21",
     "platform": "Game Boy Advance",
     "igdb": {
       "id": 1704,
@@ -6022,7 +5827,6 @@
   },
   {
     "name": "Super Mario Land",
-    "date": "2015-07-21",
     "platform": "Game Boy",
     "igdb": {
       "id": 1069,
@@ -6031,7 +5835,6 @@
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
-    "date": "2015-07-21",
     "platform": "Game Boy",
     "igdb": {
       "id": 1071,
@@ -6040,7 +5843,6 @@
   },
   {
     "name": "Rayman 2: The Great Escape",
-    "date": "2015-07-21",
     "platform": "Dreamcast",
     "igdb": {
       "id": 193314,
@@ -6049,7 +5851,6 @@
   },
   {
     "name": "Cadillacs and Dinosaurs",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 5368,
@@ -6058,7 +5859,6 @@
   },
   {
     "name": "Metal Slug 2",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 1407,
@@ -6067,7 +5867,6 @@
   },
   {
     "name": "Metal Slug 3",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 1408,
@@ -6076,7 +5875,6 @@
   },
   {
     "name": "Metal Slug 6",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 1411,
@@ -6085,7 +5883,6 @@
   },
   {
     "name": "Metal Slug X",
-    "date": "2015-07-21",
     "platform": "Arcade",
     "igdb": {
       "id": 18840,
