@@ -1160,32 +1160,6 @@
     ]
   },
   {
-    "name": "Doom (1993)",
-    "igdb": {
-      "id": 673,
-      "slug": "doom"
-    },
-    "playthroughs": [
-      {
-        "date": "2024-01-01",
-        "platform": "DOS"
-      }
-    ]
-  },
-  {
-    "name": "SimCity 2000",
-    "igdb": {
-      "id": 330,
-      "slug": "simcity-2000"
-    },
-    "playthroughs": [
-      {
-        "date": "2024-01-01",
-        "platform": "DOS"
-      }
-    ]
-  },
-  {
     "name": "Fort Solis",
     "igdb": {
       "id": 204356,
@@ -1446,58 +1420,6 @@
     ]
   },
   {
-    "name": "Duck Hunt",
-    "igdb": {
-      "id": 2741,
-      "slug": "duck-hunt"
-    },
-    "playthroughs": [
-      {
-        "date": "2023-08-22",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Mario Bros.",
-    "igdb": {
-      "id": 172201,
-      "slug": "mario-bros--2"
-    },
-    "playthroughs": [
-      {
-        "date": "2023-08-22",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Popeye",
-    "igdb": {
-      "id": 229982,
-      "slug": "popeye--6"
-    },
-    "playthroughs": [
-      {
-        "date": "2023-08-22",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Pro Wrestling",
-    "igdb": {
-      "id": 9512,
-      "slug": "pro-wrestling"
-    },
-    "playthroughs": [
-      {
-        "date": "2023-08-22",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
     "name": "Broken Sword: The Smoking Mirror",
     "igdb": {
       "id": 1150,
@@ -1728,32 +1650,6 @@
       {
         "date": "2022-11-27",
         "platform": "Super Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Donkey Kong",
-    "igdb": {
-      "id": 141959,
-      "slug": "donkey-kong--1"
-    },
-    "playthroughs": [
-      {
-        "date": "2022-11-20",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Soccer",
-    "igdb": {
-      "id": 86375,
-      "slug": "soccer--2"
-    },
-    "playthroughs": [
-      {
-        "date": "2022-11-20",
-        "platform": "Nintendo Entertainment System"
       }
     ]
   },
@@ -3201,32 +3097,6 @@
     ]
   },
   {
-    "name": "Samorost",
-    "igdb": {
-      "id": 15731,
-      "slug": "samorost"
-    },
-    "playthroughs": [
-      {
-        "date": "2019-09-21",
-        "platform": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "name": "Samorost 2",
-    "igdb": {
-      "id": 8621,
-      "slug": "samorost-2"
-    },
-    "playthroughs": [
-      {
-        "date": "2019-09-21",
-        "platform": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
     "name": "Blade Runner",
     "igdb": {
       "id": 322,
@@ -3695,19 +3565,6 @@
     ]
   },
   {
-    "name": "Kung Fu",
-    "igdb": {
-      "id": 214458,
-      "slug": "kung-fu"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-06-08",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
     "name": "Mega Man",
     "igdb": {
       "id": 1714,
@@ -3756,71 +3613,6 @@
       {
         "date": "2018-05-23",
         "platform": "PlayStation 4"
-      }
-    ]
-  },
-  {
-    "name": "Anticipation",
-    "igdb": {
-      "id": 8946,
-      "slug": "anticipation"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-05-23",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Balloon Fight",
-    "igdb": {
-      "id": 2735,
-      "slug": "balloon-fight"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-05-23",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Ice Climber",
-    "igdb": {
-      "id": 3666,
-      "slug": "ice-climber"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-05-23",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Nintendo World Cup",
-    "igdb": {
-      "id": 10633,
-      "slug": "nintendo-world-cup"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-05-23",
-        "platform": "Nintendo Entertainment System"
-      }
-    ]
-  },
-  {
-    "name": "Tennis",
-    "igdb": {
-      "id": 74548,
-      "slug": "tennis--3"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-05-23",
-        "platform": "Nintendo Entertainment System"
       }
     ]
   },
@@ -4003,58 +3795,6 @@
       {
         "date": "2018-01-07",
         "platform": "PlayStation 4"
-      }
-    ]
-  },
-  {
-    "name": "Quake III Arena",
-    "igdb": {
-      "id": 355,
-      "slug": "quake-iii-arena"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-01-07",
-        "platform": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "name": "Worms",
-    "igdb": {
-      "id": 9331,
-      "slug": "worms"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-01-07",
-        "platform": "DOS"
-      }
-    ]
-  },
-  {
-    "name": "Worms Armageddon",
-    "igdb": {
-      "id": 948,
-      "slug": "worms-armageddon"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-01-07",
-        "platform": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "name": "Tennis 2K2",
-    "igdb": {
-      "id": 45843,
-      "slug": "tennis-2k2"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-01-07",
-        "platform": "Dreamcast"
       }
     ]
   },
@@ -4878,32 +4618,6 @@
     ]
   },
   {
-    "name": "Mario Kart 64",
-    "igdb": {
-      "id": 2342,
-      "slug": "mario-kart-64"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-01-31",
-        "platform": "Nintendo 64"
-      }
-    ]
-  },
-  {
-    "name": "Kanji Sono Mama Rakubiki Jiten",
-    "igdb": {
-      "id": 67029,
-      "slug": "kanji-sono-mama-rakubiki-jiten"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-01-29",
-        "platform": "Nintendo DS"
-      }
-    ]
-  },
-  {
     "name": "The Legend of Zelda: Spirit Tracks",
     "igdb": {
       "id": 1038,
@@ -4952,45 +4666,6 @@
       {
         "date": "2016-01-12",
         "platform": "PlayStation 4"
-      }
-    ]
-  },
-  {
-    "name": "Warlords II",
-    "igdb": {
-      "id": 50357,
-      "slug": "warlords-ii"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-01-05",
-        "platform": "DOS"
-      }
-    ]
-  },
-  {
-    "name": "Dungeons & Dragons: Shadow over Mystara",
-    "igdb": {
-      "id": 10253,
-      "slug": "dungeons-and-dragons-shadow-over-mystara"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-01-05",
-        "platform": "Arcade"
-      }
-    ]
-  },
-  {
-    "name": "Golden Axe",
-    "igdb": {
-      "id": 5565,
-      "slug": "golden-axe"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-01-05",
-        "platform": "Arcade"
       }
     ]
   },
@@ -5238,6 +4913,306 @@
       {
         "date": "2015-07-22",
         "platform": "iOS"
+      }
+    ]
+  },
+  {
+    "name": "Doom (1993)",
+    "igdb": {
+      "id": 673,
+      "slug": "doom"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
+  },
+  {
+    "name": "SimCity 2000",
+    "igdb": {
+      "id": 330,
+      "slug": "simcity-2000"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
+  },
+  {
+    "name": "Samorost",
+    "igdb": {
+      "id": 15731,
+      "slug": "samorost"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "name": "Samorost 2",
+    "igdb": {
+      "id": 8621,
+      "slug": "samorost-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart 64",
+    "igdb": {
+      "id": 2342,
+      "slug": "mario-kart-64"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 64"
+      }
+    ]
+  },
+  {
+    "name": "Kanji Sono Mama Rakubiki Jiten",
+    "igdb": {
+      "id": 67029,
+      "slug": "kanji-sono-mama-rakubiki-jiten"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
+  },
+  {
+    "name": "Quake III Arena",
+    "igdb": {
+      "id": 355,
+      "slug": "quake-iii-arena"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "name": "Worms",
+    "igdb": {
+      "id": 9331,
+      "slug": "worms"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
+  },
+  {
+    "name": "Worms Armageddon",
+    "igdb": {
+      "id": 948,
+      "slug": "worms-armageddon"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "name": "Tennis 2K2",
+    "igdb": {
+      "id": 45843,
+      "slug": "tennis-2k2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
+  },
+  {
+    "name": "Warlords II",
+    "igdb": {
+      "id": 50357,
+      "slug": "warlords-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
+  },
+  {
+    "name": "Dungeons & Dragons: Shadow over Mystara",
+    "igdb": {
+      "id": 10253,
+      "slug": "dungeons-and-dragons-shadow-over-mystara"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
+  },
+  {
+    "name": "Golden Axe",
+    "igdb": {
+      "id": 5565,
+      "slug": "golden-axe"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
+  },
+  {
+    "name": "Duck Hunt",
+    "igdb": {
+      "id": 2741,
+      "slug": "duck-hunt"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Mario Bros.",
+    "igdb": {
+      "id": 172201,
+      "slug": "mario-bros--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Popeye",
+    "igdb": {
+      "id": 229982,
+      "slug": "popeye--6"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Pro Wrestling",
+    "igdb": {
+      "id": 9512,
+      "slug": "pro-wrestling"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong",
+    "igdb": {
+      "id": 141959,
+      "slug": "donkey-kong--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Soccer",
+    "igdb": {
+      "id": 86375,
+      "slug": "soccer--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Kung Fu",
+    "igdb": {
+      "id": 214458,
+      "slug": "kung-fu"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Anticipation",
+    "igdb": {
+      "id": 8946,
+      "slug": "anticipation"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Balloon Fight",
+    "igdb": {
+      "id": 2735,
+      "slug": "balloon-fight"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Ice Climber",
+    "igdb": {
+      "id": 3666,
+      "slug": "ice-climber"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Nintendo World Cup",
+    "igdb": {
+      "id": 10633,
+      "slug": "nintendo-world-cup"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Tennis",
+    "igdb": {
+      "id": 74548,
+      "slug": "tennis--3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
       }
     ]
   },
