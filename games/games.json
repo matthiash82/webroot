@@ -2239,19 +2239,6 @@
     ]
   },
   {
-    "name": "Links 386 Pro",
-    "igdb": {
-      "id": 22611,
-      "slug": "links-386-pro"
-    },
-    "playthroughs": [
-      {
-        "date": "2021-06-24",
-        "platform": "DOS"
-      }
-    ]
-  },
-  {
     "name": "Mass Effect Legendary Edition",
     "igdb": {
       "id": 140839,
@@ -2599,19 +2586,6 @@
       {
         "date": "2020-11-02",
         "platform": "Nintendo Switch"
-      }
-    ]
-  },
-  {
-    "name": "Olympic Decathlon",
-    "igdb": {
-      "id": 78618,
-      "slug": "olympic-decathlon"
-    },
-    "playthroughs": [
-      {
-        "date": "2020-10-13",
-        "platform": "DOS"
       }
     ]
   },
@@ -4913,6 +4887,30 @@
       {
         "date": "2015-07-22",
         "platform": "iOS"
+      }
+    ]
+  },
+  {
+    "name": "Links 386 Pro",
+    "igdb": {
+      "id": 22611,
+      "slug": "links-386-pro"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
+  },
+  {
+    "name": "Olympic Decathlon",
+    "igdb": {
+      "id": 78618,
+      "slug": "olympic-decathlon"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
       }
     ]
   },
