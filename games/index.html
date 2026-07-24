@@ -123,7 +123,6 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>Klarade spel</h1>
     <span class="count" id="count"></span>
     <div class="viewtoggle" id="viewtoggle">
       <button data-view="list">List</button>
@@ -281,7 +280,7 @@ function arrow(key) { return sortKey === key ? `<span class="arrow">${sortDir ==
 function render() {
   const rows = filtered();
   els.count.innerHTML = rows.length === GAMES.length
-    ? `<span class="badge">${GAMES.length}</span> games beaten`
+    ? `<span class="badge">${GAMES.length}</span> playthroughs`
     : `<span class="badge">${rows.length}</span> of ${GAMES.length}`;
   syncSelect(els.platform, selPlatforms);
   syncSelect(els.year, selYears);
@@ -389,9 +388,21 @@ els.side.addEventListener("click", e => {
 try { if (localStorage.getItem("klarade-view") === "list") view = "list"; } catch (e) { /* ignore */ }
 document.querySelectorAll("#viewtoggle button").forEach(x => x.classList.toggle("active", x.dataset.view === view));
 
+// games.json stores one object per game (unique igdb identity) with a nested playthroughs array; the UI works on one
+// row per playthrough, so flatten each game's playthroughs into flat {name, igdb, date, platform} rows here.
+function flattenPlaythroughs(games) {
+  const rows = [];
+  for (const game of games) {
+    for (const pt of game.playthroughs || []) {
+      rows.push({ name: game.name, igdb: game.igdb, date: pt.date, platform: pt.platform });
+    }
+  }
+  return rows;
+}
+
 fetch("games.json")
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => { GAMES = data; populateSelects(); renderSummaries(); render(); })
+  .then(data => { GAMES = flattenPlaythroughs(data); populateSelects(); renderSummaries(); render(); })
   .catch(err => {
     els.view.innerHTML = `<div class="error">
       <p>Could not load <code>games.json</code> (${esc(String(err))}).</p>

@@ -1,5821 +1,8511 @@
 [
   {
     "name": "Neutopia",
-    "date": "2026-07-17",
-    "platform": "TurboGrafx-16/PC Engine",
     "igdb": {
       "id": 28524,
       "slug": "neutopia"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-17",
+        "platform": "TurboGrafx-16/PC Engine"
+      }
+    ]
   },
   {
     "name": "The 7th Guest Remake",
-    "date": "2026-07-14",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 394668,
       "slug": "the-7th-guest-remake"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-14",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Super Metroid",
-    "date": "2026-07-07",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1103,
       "slug": "super-metroid"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-07",
+        "platform": "Super Nintendo Entertainment System"
+      },
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda Redux",
-    "date": "2026-07-03",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 199417,
       "slug": "the-legend-of-zelda-redux"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-03",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Mouthwashing",
-    "date": "2026-07-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 264410,
       "slug": "mouthwashing"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Subversive Memories",
-    "date": "2026-06-30",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 292206,
       "slug": "subversive-memories"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-06-30",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. Wonder",
-    "date": "2026-06-21",
-    "platform": "Nintendo Switch 2",
     "igdb": {
       "id": 254339,
       "slug": "super-mario-bros-wonder"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-06-21",
+        "platform": "Nintendo Switch 2"
+      }
+    ]
   },
   {
     "name": "Mina the Hollower",
-    "date": "2026-06-13",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 189781,
       "slug": "mina-the-hollower"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-06-13",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Resident Evil 4 (2023)",
-    "date": "2026-04-19",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 132181,
       "slug": "resident-evil-4--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-04-19",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Pipistrello and the Cursed Yoyo",
-    "date": "2026-04-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 292157,
       "slug": "pipistrello-and-the-cursed-yoyo"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-04-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Resident Evil Requiem",
-    "date": "2026-03-23",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 347668,
       "slug": "resident-evil-requiem"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-03-23",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Reanimal",
-    "date": "2026-02-26",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 314265,
       "slug": "reanimal"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-02-26",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Super Castlevania IV",
-    "date": "2026-02-26",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1124,
       "slug": "super-castlevania-iv"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-02-26",
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Cairn",
-    "date": "2026-02-22",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 305017,
       "slug": "cairn--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-02-22",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Terminator 2D: No Fate",
-    "date": "2026-02-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 327500,
       "slug": "terminator-2d-no-fate"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-02-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Call of the Sea",
-    "date": "2026-02-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 133306,
       "slug": "call-of-the-sea"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-02-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Hypogea",
-    "date": "2026-01-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 303550,
       "slug": "hypogea"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-01-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Drifter",
-    "date": "2026-01-15",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 126870,
       "slug": "the-drifter"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-01-15",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Metroid Prime 4: Beyond",
-    "date": "2026-01-05",
-    "platform": "Nintendo Switch 2",
     "igdb": {
       "id": 37136,
       "slug": "metroid-prime-4-beyond"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2026-01-05",
+        "platform": "Nintendo Switch 2"
+      }
+    ]
   },
   {
     "name": "Death Stranding 2: On the Beach",
-    "date": "2025-12-05",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 228530,
       "slug": "death-stranding-2-on-the-beach"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-12-05",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Simon the Sorcerer Origins",
-    "date": "2025-11-10",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 202463,
       "slug": "simon-the-sorcerer-origins"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-11-10",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Hollow Knight",
-    "date": "2025-11-10",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 14593,
       "slug": "hollow-knight"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-11-10",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Eclipsium",
-    "date": "2025-11-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 250722,
       "slug": "eclipsium"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-11-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Hollow Knight: Silksong",
-    "date": "2025-09-28",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 115289,
       "slug": "hollow-knight-silksong"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-09-28",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Silent Hill 2",
-    "date": "2025-09-04",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 222341,
       "slug": "silent-hill-2--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-09-04",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Donkey Kong Bananza",
-    "date": "2025-08-21",
-    "platform": "Nintendo Switch 2",
     "igdb": {
       "id": 338106,
       "slug": "donkey-kong-bananza"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-08-21",
+        "platform": "Nintendo Switch 2"
+      }
+    ]
   },
   {
     "name": "Tingle's Balloon Fight DS",
-    "date": "2025-08-01",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 47828,
       "slug": "tingles-balloon-fight-ds"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-08-01",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
-    "date": "2025-08-01",
-    "platform": "Nintendo 64",
     "igdb": {
       "id": 1030,
       "slug": "the-legend-of-zelda-majora-s-mask"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-08-01",
+        "platform": "Nintendo 64"
+      }
+    ]
   },
   {
     "name": "Alone in the Dark",
-    "date": "2025-07-22",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 213237,
       "slug": "alone-in-the-dark--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-07-22",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Platform 8",
-    "date": "2025-07-08",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 295570,
       "slug": "platform-8"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-07-08",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Pools",
-    "date": "2025-07-06",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 274791,
       "slug": "pools"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-07-06",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "RoboCop: Rogue City",
-    "date": "2025-07-05",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 154775,
       "slug": "robocop-rogue-city"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-07-05",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Kathy Rain 2: Soothsayer",
-    "date": "2025-06-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 322691,
       "slug": "kathy-rain-2-soothsayer"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-06-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Dino Crisis",
-    "date": "2025-06-11",
-    "platform": "PlayStation",
     "igdb": {
       "id": 3027,
       "slug": "dino-crisis"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-06-11",
+        "platform": "PlayStation"
+      }
+    ]
   },
   {
     "name": "Resident Evil Code: Veronica X",
-    "date": "2025-06-03",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 24369,
       "slug": "resident-evil-code-veronica-x"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-06-03",
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Resident Evil",
-    "date": "2025-05-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 8254,
       "slug": "resident-evil--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-05-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Old Skies",
-    "date": "2025-05-14",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 203240,
       "slug": "old-skies"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-05-14",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Still Life",
-    "date": "2025-05-14",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6175,
       "slug": "still-life"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-05-14",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Chants of Sennaar",
-    "date": "2025-04-20",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 198499,
       "slug": "chants-of-sennaar"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-04-20",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Little Big Adventure: Twinsen's Quest",
-    "date": "2025-04-06",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 241954,
       "slug": "little-big-adventure-twinsens-quest--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-04-06",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Prince of Persia: The Lost Crown",
-    "date": "2025-03-26",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 252476,
       "slug": "prince-of-persia-the-lost-crown"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-03-26",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Lorelei and the Laser Eyes",
-    "date": "2025-03-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 206806,
       "slug": "lorelei-and-the-laser-eyes"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-03-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Manifold Garden",
-    "date": "2025-03-16",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 13621,
       "slug": "manifold-garden"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-03-16",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Final Fantasy V",
-    "date": "2025-02-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 158984,
       "slug": "final-fantasy-v--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-02-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Final Fantasy III",
-    "date": "2025-01-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 158982,
       "slug": "final-fantasy-iii--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-01-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Final Fantasy II",
-    "date": "2025-01-22",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 158981,
       "slug": "final-fantasy-ii--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-01-22",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Neva",
-    "date": "2025-01-18",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 250621,
       "slug": "neva"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-01-18",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Indiana Jones and the Great Circle",
-    "date": "2025-01-14",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 142415,
       "slug": "indiana-jones-and-the-great-circle"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2025-01-14",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto IV",
-    "date": "2024-12-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 731,
       "slug": "grand-theft-auto-iv"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-12-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto: San Andreas",
-    "date": "2024-10-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 732,
       "slug": "grand-theft-auto-san-andreas"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-10-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto: The Trilogy - The Definitive Edition",
-    "date": "2024-10-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 53070,
       "slug": "grand-theft-auto-the-trilogy-the-definitive-edition--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-10-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Exit 8",
-    "date": "2024-10-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 275404,
       "slug": "the-exit-8"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-10-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Echoes of Wisdom",
-    "date": "2024-10-09",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 306149,
       "slug": "the-legend-of-zelda-echoes-of-wisdom"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-10-09",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto: Vice City",
-    "date": "2024-09-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 733,
       "slug": "grand-theft-auto-vice-city"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-09-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto III",
-    "date": "2024-09-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 730,
       "slug": "grand-theft-auto-iii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-09-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Minecraft",
-    "date": "2024-09-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 135400,
       "slug": "minecraft--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-09-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Still Wakes the Deep",
-    "date": "2024-09-09",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 252837,
       "slug": "still-wakes-the-deep"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-09-09",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Indigo Prophecy",
-    "date": "2024-08-24",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1928,
       "slug": "indigo-prophecy"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-24",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Messenger",
-    "date": "2024-08-16",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 71628,
       "slug": "the-messenger"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-16",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Murdered: Soul Suspect",
-    "date": "2024-08-11",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3188,
       "slug": "murdered-soul-suspect"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-11",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Twilight Oracle",
-    "date": "2024-08-11",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 244873,
       "slug": "twilight-oracle"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-11",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Bully: Scholarship Edition",
-    "date": "2024-08-09",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6574,
       "slug": "bully-scholarship-edition"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-09",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Mafia II",
-    "date": "2024-08-04",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 40,
       "slug": "mafia-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-08-04",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Mafia: Definitive Edition",
-    "date": "2024-07-30",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 134070,
       "slug": "mafia-definitive-edition"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-30",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Mad Max",
-    "date": "2024-07-26",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2552,
       "slug": "mad-max"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-26",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Alba: A Wildlife Adventure",
-    "date": "2024-07-20",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 135919,
       "slug": "alba-a-wildlife-adventure"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-20",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Babbdi",
-    "date": "2024-07-20",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 229631,
       "slug": "babbdi"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-20",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sleeping Dogs",
-    "date": "2024-07-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1267,
       "slug": "sleeping-dogs"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Braid",
-    "date": "2024-07-13",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2853,
       "slug": "braid"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-13",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Animal Well",
-    "date": "2024-07-08",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 191435,
       "slug": "animal-well"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-08",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Castlevania III: Dracula's Curse",
-    "date": "2024-07-02",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1119,
       "slug": "castlevania-iii-dracula-s-curse"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-07-02",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Castlevania II: Simon's Quest",
-    "date": "2024-06-29",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1116,
       "slug": "castlevania-ii-simon-s-quest"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-06-29",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Castlevania",
-    "date": "2024-06-27",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1114,
       "slug": "castlevania"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-06-27",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Ys IV: The Dawn of Ys",
-    "date": "2024-06-22",
-    "platform": "Turbografx-16/PC Engine CD",
     "igdb": {
       "id": 15452,
       "slug": "ys-iv-the-dawn-of-ys"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-06-22",
+        "platform": "Turbografx-16/PC Engine CD"
+      }
+    ]
   },
   {
     "name": "Paper Trail",
-    "date": "2024-06-05",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 142561,
       "slug": "paper-trail"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-06-05",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Unforeseen Incidents",
-    "date": "2024-05-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 81275,
       "slug": "unforeseen-incidents"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-05-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Rauniot",
-    "date": "2024-04-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 126224,
       "slug": "rauniot"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-04-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Viewfinder",
-    "date": "2024-03-19",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 142549,
       "slug": "viewfinder"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-03-19",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Mario vs. Donkey Kong",
-    "date": "2024-03-04",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 266674,
       "slug": "mario-vs-donkey-kong--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-03-04",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "The Invincible",
-    "date": "2024-03-03",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 138906,
       "slug": "the-invincible"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-03-03",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "American Arcadia",
-    "date": "2024-02-24",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 198439,
       "slug": "american-arcadia"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-02-24",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tents and Trees",
-    "date": "2024-02-16",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 240056,
       "slug": "tents-and-trees--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-02-16",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "How We Know We're Alive",
-    "date": "2024-02-15",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 148066,
       "slug": "how-we-know-were-alive"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-02-15",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Final Fantasy",
-    "date": "2024-02-15",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 158980,
       "slug": "final-fantasy--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-02-15",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Super Mario RPG",
-    "date": "2024-02-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 254327,
       "slug": "super-mario-rpg"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-02-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Sonic the Hedgehog",
-    "date": "2024-01-25",
-    "platform": "Sega Mega Drive/Genesis",
     "igdb": {
       "id": 3192,
       "slug": "sonic-the-hedgehog"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-25",
+        "platform": "Sega Mega Drive/Genesis"
+      }
+    ]
   },
   {
     "name": "Jusant",
-    "date": "2024-01-23",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 252836,
       "slug": "jusant"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-23",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Policenauts",
-    "date": "2024-01-20",
-    "platform": "Sega Saturn",
     "igdb": {
       "id": 4290,
       "slug": "policenauts"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-20",
+        "platform": "Sega Saturn"
+      }
+    ]
   },
   {
     "name": "Metal Gear Solid 2: Substance",
-    "date": "2024-01-06",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 474,
       "slug": "metal-gear-solid-2-substance"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-06",
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Doom (1993)",
-    "date": "2024-01-01",
-    "platform": "DOS",
     "igdb": {
       "id": 673,
       "slug": "doom"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-01",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "SimCity 2000",
-    "date": "2024-01-01",
-    "platform": "DOS",
     "igdb": {
       "id": 330,
       "slug": "simcity-2000"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2024-01-01",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Fort Solis",
-    "date": "2023-12-30",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 204356,
       "slug": "fort-solis"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-12-30",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Metal Gear Solid",
-    "date": "2023-12-29",
-    "platform": "PlayStation",
     "igdb": {
       "id": 375,
       "slug": "metal-gear-solid"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-12-29",
+        "platform": "PlayStation"
+      }
+    ]
   },
   {
     "name": "Slay the Princess",
-    "date": "2023-12-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 210395,
       "slug": "slay-the-princess"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-12-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Lake",
-    "date": "2023-12-19",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 127743,
       "slug": "lake"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-12-19",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Cloudpunk",
-    "date": "2023-12-08",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 111837,
       "slug": "cloudpunk"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-12-08",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Flashback: The Quest for Identity",
-    "date": "2023-11-26",
-    "platform": "Sega Mega Drive/Genesis",
     "igdb": {
       "id": 4275,
       "slug": "flashback-the-quest-for-identity"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-11-26",
+        "platform": "Sega Mega Drive/Genesis"
+      }
+    ]
   },
   {
     "name": "Out of This World",
-    "date": "2023-11-19",
-    "platform": "3DO Interactive Multiplayer",
     "igdb": {
       "id": 343405,
       "slug": "out-of-this-world--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-11-19",
+        "platform": "3DO Interactive Multiplayer"
+      }
+    ]
   },
   {
     "name": "Mothered",
-    "date": "2023-11-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 192700,
       "slug": "mothered"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-11-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Refunct",
-    "date": "2023-11-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 13542,
       "slug": "refunct"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-11-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "No One Lives Under the Lighthouse",
-    "date": "2023-10-28",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 131660,
       "slug": "no-one-lives-under-the-lighthouse"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-10-28",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Storm Boy",
-    "date": "2023-10-26",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 106978,
       "slug": "storm-boy"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-10-26",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Suicide of Rachel Foster",
-    "date": "2023-10-15",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 121947,
       "slug": "the-suicide-of-rachel-foster"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-10-15",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tunic",
-    "date": "2023-10-08",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 23733,
       "slug": "tunic"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-10-08",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Cocoon",
-    "date": "2023-10-04",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 204627,
       "slug": "cocoon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-10-04",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "F-Zero 99",
-    "date": "2023-09-24",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 266686,
       "slug": "f-zero-99"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-09-24",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Pony Island",
-    "date": "2023-09-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15734,
       "slug": "pony-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-09-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life: Opposing Force",
-    "date": "2023-09-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 232,
       "slug": "half-life-opposing-force"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-09-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life: Blue Shift",
-    "date": "2023-08-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2549,
       "slug": "half-life-blue-shift"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Black Mesa",
-    "date": "2023-08-22",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6739,
       "slug": "black-mesa"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Stasis: Bone Totem",
-    "date": "2023-08-22",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 140866,
       "slug": "stasis-bone-totem"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Duck Hunt",
-    "date": "2023-08-22",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 2741,
       "slug": "duck-hunt"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Mario Bros.",
-    "date": "2023-08-22",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 172201,
       "slug": "mario-bros--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Popeye",
-    "date": "2023-08-22",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 229982,
       "slug": "popeye--6"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Pro Wrestling",
-    "date": "2023-08-22",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 9512,
       "slug": "pro-wrestling"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-22",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Broken Sword: The Smoking Mirror",
-    "date": "2023-08-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1150,
       "slug": "broken-sword-the-smoking-mirror"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Disney's DuckTales 2",
-    "date": "2023-08-10",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 6488,
       "slug": "disneys-ducktales-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-10",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "DuckTales: Remastered",
-    "date": "2023-08-09",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2904,
       "slug": "ducktales-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-09",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Planet of Lana",
-    "date": "2023-08-06",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 152071,
       "slug": "planet-of-lana"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-08-06",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Oxenfree II: Lost Signals",
-    "date": "2023-07-27",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 145784,
       "slug": "oxenfree-ii-lost-signals"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-07-27",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Dredge",
-    "date": "2023-07-13",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 164867,
       "slug": "dredge"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-07-13",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Broken Sword: Shadow of the Templars - The Director's Cut",
-    "date": "2023-06-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 21127,
       "slug": "broken-sword-shadow-of-the-templars-the-directors-cut"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-06-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Tears of the Kingdom",
-    "date": "2023-06-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 119388,
       "slug": "the-legend-of-zelda-tears-of-the-kingdom"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-06-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Bramble: The Mountain King",
-    "date": "2023-05-06",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 152124,
       "slug": "bramble-the-mountain-king"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-05-06",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Syberia: The World Before",
-    "date": "2023-04-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 121763,
       "slug": "syberia-the-world-before"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-04-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Syberia 3",
-    "date": "2023-04-12",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 13163,
       "slug": "syberia-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-04-12",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy",
-    "date": "2023-03-27",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 28125,
       "slug": "laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-03-27",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Metroid II: Return of Samus",
-    "date": "2023-02-28",
-    "platform": "Game Boy",
     "igdb": {
       "id": 1102,
       "slug": "metroid-ii-return-of-samus"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-02-28",
+        "platform": "Game Boy"
+      }
+    ]
   },
   {
     "name": "Metroid Prime Remastered",
-    "date": "2023-02-26",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 236663,
       "slug": "metroid-prime-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-02-26",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Donkey Kong Country Returns 3D",
-    "date": "2023-01-30",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 20110,
       "slug": "donkey-kong-country-returns-3d"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2023-01-30",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Sports Story",
-    "date": "2022-12-30",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 127303,
       "slug": "sports-story"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-12-30",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Finding Paradise",
-    "date": "2022-12-05",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 36044,
       "slug": "finding-paradise"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-12-05",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Donkey Kong Country",
-    "date": "2022-11-27",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1090,
       "slug": "donkey-kong-country"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-27",
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Donkey Kong",
-    "date": "2022-11-20",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 141959,
       "slug": "donkey-kong--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-20",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Soccer",
-    "date": "2022-11-20",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 86375,
       "slug": "soccer--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-20",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Somerville",
-    "date": "2022-11-19",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 41025,
       "slug": "somerville"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-19",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Lunistice",
-    "date": "2022-11-13",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 165287,
       "slug": "lunistice--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-13",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros.: The Lost Levels",
-    "date": "2022-11-13",
-    "platform": "Family Computer Disk System",
     "igdb": {
       "id": 1066,
       "slug": "super-mario-bros-the-lost-levels"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-13",
+        "platform": "Family Computer Disk System"
+      }
+    ]
   },
   {
     "name": "A Plague Tale: Requiem",
-    "date": "2022-11-11",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 152242,
       "slug": "a-plague-tale-requiem"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-11-11",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Stray",
-    "date": "2022-10-16",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 110248,
       "slug": "stray"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-10-16",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time 3D",
-    "date": "2022-10-12",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1039,
       "slug": "the-legend-of-zelda-ocarina-of-time-3d"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-10-12",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "The Quarry",
-    "date": "2022-10-04",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 194404,
       "slug": "the-quarry"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-10-04",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "The Excavation of Hob's Barrow",
-    "date": "2022-10-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 210665,
       "slug": "the-excavation-of-hobs-barrow"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-10-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Darq",
-    "date": "2022-10-01",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 68271,
       "slug": "darq"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-10-01",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Return to Monkey Island",
-    "date": "2022-09-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 195517,
       "slug": "return-to-monkey-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-09-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Subsurface Circular",
-    "date": "2022-09-11",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 54780,
       "slug": "subsurface-circular"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-09-11",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Toby: The Secret Mine",
-    "date": "2022-08-28",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 20342,
       "slug": "toby-the-secret-mine"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-08-28",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Inmost",
-    "date": "2022-08-26",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 107187,
       "slug": "inmost"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-08-26",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Blossom Tales 2: The Minotaur Prince",
-    "date": "2022-08-22",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 172489,
       "slug": "blossom-tales-2-the-minotaur-prince"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-08-22",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Strange Horticulture",
-    "date": "2022-06-13",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 186597,
       "slug": "strange-horticulture"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-06-13",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Norco",
-    "date": "2022-05-07",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 129097,
       "slug": "norco"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-05-07",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "A Memoir Blue",
-    "date": "2022-03-27",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 106856,
       "slug": "a-memoir-blue"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-03-27",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Far: Changing Tides",
-    "date": "2022-03-21",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 152259,
       "slug": "far-changing-tides"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-03-21",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Horizon Forbidden West",
-    "date": "2022-03-16",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 112874,
       "slug": "horizon-forbidden-west"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-03-16",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Mario Party Superstars",
-    "date": "2022-02-27",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 152354,
       "slug": "mario-party-superstars"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-02-27",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank: Rift Apart",
-    "date": "2022-02-17",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 134582,
       "slug": "ratchet-and-clank-rift-apart"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-02-17",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Contrast",
-    "date": "2022-02-04",
-    "platform": "Xbox One",
     "igdb": {
       "id": 3839,
       "slug": "contrast"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-02-04",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Leisure Suit Larry 1: In the Land of the Lounge Lizards",
-    "date": "2022-01-30",
-    "platform": "DOS",
     "igdb": {
       "id": 198430,
       "slug": "leisure-suit-larry-1-in-the-land-of-the-lounge-lizards"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-01-30",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Beyond a Steel Sky",
-    "date": "2022-01-29",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 116634,
       "slug": "beyond-a-steel-sky"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-01-29",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "The Pedestrian",
-    "date": "2022-01-19",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 25837,
       "slug": "the-pedestrian"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-01-19",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Disco Elysium: The Final Cut",
-    "date": "2022-01-14",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 141540,
       "slug": "disco-elysium-the-final-cut"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-01-14",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Astro's Playroom",
-    "date": "2022-01-13",
-    "platform": "PlayStation 5",
     "igdb": {
       "id": 134597,
       "slug": "astros-playroom"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2022-01-13",
+        "platform": "PlayStation 5"
+      }
+    ]
   },
   {
     "name": "Death's Door",
-    "date": "2021-12-17",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 145099,
       "slug": "deaths-door"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-12-17",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Resident Evil 3",
-    "date": "2021-11-27",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 115115,
       "slug": "resident-evil-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-11-27",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "The Forgotten City",
-    "date": "2021-11-15",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 103320,
       "slug": "the-forgotten-city"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-11-15",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Behind the Frame: The Finest Scenery",
-    "date": "2021-11-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 148499,
       "slug": "behind-the-frame-the-finest-scenery"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-11-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Metroid: Samus Returns",
-    "date": "2021-10-18",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 37140,
       "slug": "metroid-samus-returns"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-10-18",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Metroid Dread",
-    "date": "2021-10-13",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 15698,
       "slug": "metroid-dread"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-10-13",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Art of Rally",
-    "date": "2021-09-11",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 118607,
       "slug": "art-of-rally"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-09-11",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "The Dig",
-    "date": "2021-09-11",
-    "platform": "DOS",
     "igdb": {
       "id": 207,
       "slug": "the-dig"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-09-11",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Psychonauts 2",
-    "date": "2021-09-01",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 14741,
       "slug": "psychonauts-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-09-01",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition",
-    "date": "2021-08-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 7859,
       "slug": "gabriel-knight-sins-of-the-fathers-20th-anniversary-edition--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Overboard!",
-    "date": "2021-08-19",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 151067,
       "slug": "overboard--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-19",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Axiom Verge 2",
-    "date": "2021-08-19",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 127269,
       "slug": "axiom-verge-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-19",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Picross S: Genesis & Master System Edition",
-    "date": "2021-08-08",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 137139,
       "slug": "picross-s-genesis-and-master-system-edition"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-08",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Whispers of a Machine",
-    "date": "2021-08-03",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 27278,
       "slug": "whispers-of-a-machine"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-03",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Omno",
-    "date": "2021-08-01",
-    "platform": "Xbox One",
     "igdb": {
       "id": 111661,
       "slug": "omno"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-08-01",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Strangeland",
-    "date": "2021-07-23",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 103219,
       "slug": "strangeland"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-07-23",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Everhood",
-    "date": "2021-07-18",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 132083,
       "slug": "everhood"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-07-18",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Doki Doki Literature Club Plus!",
-    "date": "2021-07-06",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 152122,
       "slug": "doki-doki-literature-club-plus"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-07-06",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Links 386 Pro",
-    "date": "2021-06-24",
-    "platform": "DOS",
     "igdb": {
       "id": 22611,
       "slug": "links-386-pro"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-06-24",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Mass Effect Legendary Edition",
-    "date": "2021-05-31",
-    "platform": "Xbox One",
     "igdb": {
       "id": 140839,
       "slug": "mass-effect-legendary-edition"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-05-31",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "There Is No Game: Wrong Dimension",
-    "date": "2021-05-18",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 132907,
       "slug": "there-is-no-game-wrong-dimension"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-05-18",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Rain on Your Parade",
-    "date": "2021-05-15",
-    "platform": "Xbox One",
     "igdb": {
       "id": 129057,
       "slug": "rain-on-your-parade"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-05-15",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Resident Evil Village",
-    "date": "2021-05-13",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 55163,
       "slug": "resident-evil-village"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-05-13",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Her Story",
-    "date": "2021-04-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 11346,
       "slug": "her-story"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-04-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Florence",
-    "date": "2021-04-25",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 87672,
       "slug": "florence"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-04-25",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Gorogoa",
-    "date": "2021-04-24",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9136,
       "slug": "gorogoa"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-04-24",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Carto",
-    "date": "2021-04-22",
-    "platform": "Xbox One",
     "igdb": {
       "id": 101448,
       "slug": "carto"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-04-22",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Illusion of Gaia",
-    "date": "2021-04-09",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 3016,
       "slug": "illusion-of-gaia"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-04-09",
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Soul Blazer",
-    "date": "2021-03-24",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 11616,
       "slug": "soul-blazer"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-03-24",
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The First Tree",
-    "date": "2021-03-11",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 20909,
       "slug": "the-first-tree"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-03-11",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "2064: Read Only Memories Integral",
-    "date": "2021-03-02",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 84927,
       "slug": "2064-read-only-memories-integral"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-03-02",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Little Nightmares II",
-    "date": "2021-02-21",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 121760,
       "slug": "little-nightmares-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-02-21",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Immortals Fenyx Rising",
-    "date": "2021-02-15",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 119357,
       "slug": "immortals-fenyx-rising"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-02-15",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Lonely Mountains: Downhill",
-    "date": "2021-02-07",
-    "platform": "Xbox One",
     "igdb": {
       "id": 29144,
       "slug": "lonely-mountains-downhill"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-02-07",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Donut County",
-    "date": "2021-02-03",
-    "platform": "Xbox One",
     "igdb": {
       "id": 55080,
       "slug": "donut-county"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-02-03",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "The Medium",
-    "date": "2021-02-02",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 133308,
       "slug": "the-medium"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-02-02",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Bolo",
-    "date": "2021-01-29",
-    "platform": "Mac",
     "igdb": {
       "id": 95468,
       "slug": "bolo--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-01-29",
+        "platform": "Mac"
+      }
+    ]
   },
   {
     "name": "Ys: Book I & II",
-    "date": "2021-01-22",
-    "platform": "Turbografx-16/PC Engine CD",
     "igdb": {
       "id": 70166,
       "slug": "ys-book-i-and-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-01-22",
+        "platform": "Turbografx-16/PC Engine CD"
+      }
+    ]
   },
   {
     "name": "Cyberpunk 2077",
-    "date": "2021-01-09",
-    "platform": "Xbox Series X|S",
     "igdb": {
       "id": 1877,
       "slug": "cyberpunk-2077"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-01-09",
+        "platform": "Xbox Series X|S"
+      }
+    ]
   },
   {
     "name": "Picross S5",
-    "date": "2021-01-01",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 141323,
       "slug": "picross-s5"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2021-01-01",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "The Last Campfire",
-    "date": "2020-12-31",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 113115,
       "slug": "the-last-campfire"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-12-31",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Röki",
-    "date": "2020-12-29",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 28528,
       "slug": "roki"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-12-29",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Star Wars Jedi: Fallen Order",
-    "date": "2020-12-11",
-    "platform": "Xbox One",
     "igdb": {
       "id": 74701,
       "slug": "star-wars-jedi-fallen-order"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-12-11",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Crash Bandicoot 4: It's About Time",
-    "date": "2020-11-30",
-    "platform": "Xbox One",
     "igdb": {
       "id": 135254,
       "slug": "crash-bandicoot-4-its-about-time"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-11-30",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Super Mario Party",
-    "date": "2020-11-25",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 103339,
       "slug": "super-mario-party"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-11-25",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "New Super Luigi U",
-    "date": "2020-11-02",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 2173,
       "slug": "new-super-luigi-u"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-11-02",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Olympic Decathlon",
-    "date": "2020-10-13",
-    "platform": "DOS",
     "igdb": {
       "id": 78618,
       "slug": "olympic-decathlon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-10-13",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Circus Charlie",
-    "date": "2020-10-11",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 25692,
       "slug": "circus-charlie"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-10-11",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario 3D All-Stars",
-    "date": "2020-10-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 138225,
       "slug": "super-mario-3d-all-stars"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-10-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. 35",
-    "date": "2020-10-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 138235,
       "slug": "super-mario-bros-35"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-10-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "BS Zelda no Densetsu",
-    "date": "2020-09-21",
-    "platform": "Satellaview",
     "igdb": {
       "id": 38319,
       "slug": "bs-zelda-no-densetsu"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-09-21",
+        "platform": "Satellaview"
+      }
+    ]
   },
   {
     "name": "Zelda II: The Adventure of Link",
-    "date": "2020-09-21",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1025,
       "slug": "zelda-ii-the-adventure-of-link"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-09-21",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Among Us",
-    "date": "2020-09-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 111469,
       "slug": "among-us"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-09-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tell Me Why",
-    "date": "2020-09-13",
-    "platform": "Xbox One",
     "igdb": {
       "id": 125628,
       "slug": "tell-me-why"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-09-13",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Unavowed",
-    "date": "2020-09-03",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 27867,
       "slug": "unavowed"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-09-03",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Broken Age",
-    "date": "2020-08-20",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 3087,
       "slug": "broken-age"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-08-20",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Carrion",
-    "date": "2020-08-06",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 90055,
       "slug": "carrion"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-08-06",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Creaks",
-    "date": "2020-08-02",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 110834,
       "slug": "creaks"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-08-02",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Paper Mario: The Origami King",
-    "date": "2020-07-29",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 133923,
       "slug": "paper-mario-the-origami-king"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-07-29",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Observation",
-    "date": "2020-07-15",
-    "platform": "Xbox One",
     "igdb": {
       "id": 110807,
       "slug": "observation"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-07-15",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "The Last of Us Part II",
-    "date": "2020-07-07",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 26192,
       "slug": "the-last-of-us-part-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-07-07",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Outer Wilds",
-    "date": "2020-06-07",
-    "platform": "Xbox One",
     "igdb": {
       "id": 11737,
       "slug": "outer-wilds"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-06-07",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Pikuniku",
-    "date": "2020-05-09",
-    "platform": "Xbox One",
     "igdb": {
       "id": 55190,
       "slug": "pikuniku"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-05-09",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Deliver Us the Moon",
-    "date": "2020-05-07",
-    "platform": "Xbox One",
     "igdb": {
       "id": 20326,
       "slug": "deliver-us-the-moon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-05-07",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Observer",
-    "date": "2020-05-02",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 19545,
       "slug": "observer"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-05-02",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "A Short Hike",
-    "date": "2020-04-19",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 116753,
       "slug": "a-short-hike"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-04-19",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "A Plague Tale: Innocence",
-    "date": "2020-04-15",
-    "platform": "Xbox One",
     "igdb": {
       "id": 27316,
       "slug": "a-plague-tale-innocence"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-04-15",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "The Last Door",
-    "date": "2020-04-08",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 235984,
       "slug": "the-last-door--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-04-08",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Complex",
-    "date": "2020-04-03",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 119178,
       "slug": "the-complex"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-04-03",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Ori and the Will of the Wisps",
-    "date": "2020-03-31",
-    "platform": "Xbox One",
     "igdb": {
       "id": 37001,
       "slug": "ori-and-the-will-of-the-wisps"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-03-31",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Beautiful Desolation",
-    "date": "2020-03-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 56914,
       "slug": "beautiful-desolation"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-03-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Ghost Trick: Phantom Detective",
-    "date": "2020-02-27",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1348,
       "slug": "ghost-trick-phantom-detective"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-02-27",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Shenmue III",
-    "date": "2020-02-16",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11542,
       "slug": "shenmue-iii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-02-16",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Life Is Strange 2",
-    "date": "2020-01-28",
-    "platform": "Xbox One",
     "igdb": {
       "id": 62151,
       "slug": "life-is-strange-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-01-28",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Katana Zero",
-    "date": "2020-01-16",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 20150,
       "slug": "katana-zero"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2020-01-16",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Death Stranding",
-    "date": "2019-12-14",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 19564,
       "slug": "death-stranding"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-12-14",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Sayonara Wild Hearts",
-    "date": "2019-12-14",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 113107,
       "slug": "sayonara-wild-hearts"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-12-14",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "The Outer Worlds",
-    "date": "2019-10-31",
-    "platform": "Xbox One",
     "igdb": {
       "id": 113114,
       "slug": "the-outer-worlds"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-31",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Fez",
-    "date": "2019-10-31",
-    "platform": "PlayStation Vita",
     "igdb": {
       "id": 1991,
       "slug": "fez"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-31",
+        "platform": "PlayStation Vita"
+      }
+    ]
   },
   {
     "name": "Untitled Goose Game",
-    "date": "2019-10-19",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 72813,
       "slug": "untitled-goose-game"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-19",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "The Curse of Monkey Island",
-    "date": "2019-10-15",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 62,
       "slug": "the-curse-of-monkey-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-15",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Day of the Tentacle",
-    "date": "2019-10-09",
-    "platform": "DOS",
     "igdb": {
       "id": 193,
       "slug": "day-of-the-tentacle"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-09",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Cave Story 3D",
-    "date": "2019-10-06",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 11783,
       "slug": "cave-story-3d"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-06",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Link's Awakening",
-    "date": "2019-10-02",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 115284,
       "slug": "the-legend-of-zelda-links-awakening--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-10-02",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Samorost",
-    "date": "2019-09-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15731,
       "slug": "samorost"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-09-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Samorost 2",
-    "date": "2019-09-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 8621,
       "slug": "samorost-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-09-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Blade Runner",
-    "date": "2019-09-19",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 322,
       "slug": "blade-runner"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-09-19",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Metro Redux",
-    "date": "2019-09-04",
-    "platform": "Xbox One",
     "igdb": {
       "id": 6880,
       "slug": "metro-redux"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-09-04",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Far: Lone Sails",
-    "date": "2019-08-25",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 19520,
       "slug": "far-lone-sails"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-25",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Old Man's Journey",
-    "date": "2019-08-22",
-    "platform": "Xbox One",
     "igdb": {
       "id": 21604,
       "slug": "old-mans-journey"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-22",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Bloodstained: Ritual of the Night",
-    "date": "2019-08-22",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 10760,
       "slug": "bloodstained-ritual-of-the-night"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-22",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Beyond: Two Souls",
-    "date": "2019-08-12",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1342,
       "slug": "beyond-two-souls"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-12",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Way Remastered",
-    "date": "2019-08-05",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 96202,
       "slug": "the-way-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-05",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Xeodrifter",
-    "date": "2019-08-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 8506,
       "slug": "xeodrifter"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Transistor",
-    "date": "2019-08-01",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 3022,
       "slug": "transistor"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-08-01",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Box Boy! + Box Girl!",
-    "date": "2019-07-23",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 115281,
       "slug": "box-boy-plus-box-girl"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-23",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Gato Roboto",
-    "date": "2019-07-20",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 107317,
       "slug": "gato-roboto"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-20",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Timespinner",
-    "date": "2019-07-16",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 28952,
       "slug": "timespinner"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-16",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Into the Breach",
-    "date": "2019-07-14",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 27117,
       "slug": "into-the-breach"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-14",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Super Mario Maker 2",
-    "date": "2019-07-07",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 115276,
       "slug": "super-mario-maker-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-07",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda",
-    "date": "2019-07-06",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 116419,
       "slug": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-07-06",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "L.A. Noire",
-    "date": "2019-06-25",
-    "platform": "Xbox One",
     "igdb": {
       "id": 59849,
       "slug": "la-noire"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-06-25",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Yoshi's Crafted World",
-    "date": "2019-04-08",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 37135,
       "slug": "yoshis-crafted-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-04-08",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Trüberbrook",
-    "date": "2019-03-18",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 70396,
       "slug": "truberbrook"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-03-18",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tetris 99",
-    "date": "2019-03-01",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 115282,
       "slug": "tetris-99"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-03-01",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "The Gardens Between",
-    "date": "2019-02-28",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 27324,
       "slug": "the-gardens-between"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-02-28",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Resident Evil 2",
-    "date": "2019-02-03",
-    "platform": "Xbox One",
     "igdb": {
       "id": 19686,
       "slug": "resident-evil-2--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2019-02-03",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Gris",
-    "date": "2018-12-20",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 22917,
       "slug": "gris"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-12-20",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Katamari Damacy Reroll",
-    "date": "2018-12-14",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 109458,
       "slug": "katamari-damacy-reroll"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-12-14",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Dead Space 3",
-    "date": "2018-12-11",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 1216,
       "slug": "dead-space-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-12-11",
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Super Smash Bros. Ultimate",
-    "date": "2018-12-08",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 90101,
       "slug": "super-smash-bros-ultimate"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-12-08",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Red Dead Redemption 2",
-    "date": "2018-11-25",
-    "platform": "Xbox One",
     "igdb": {
       "id": 25076,
       "slug": "red-dead-redemption-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-11-25",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Forza Horizon 4",
-    "date": "2018-10-16",
-    "platform": "Xbox One",
     "igdb": {
       "id": 82090,
       "slug": "forza-horizon-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-10-16",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Yoku's Island Express",
-    "date": "2018-10-05",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 27367,
       "slug": "yokus-island-express"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-10-05",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Unravel Two",
-    "date": "2018-10-02",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 19241,
       "slug": "unravel-two"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-10-02",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Shadow of the Tomb Raider",
-    "date": "2018-09-23",
-    "platform": "Xbox One",
     "igdb": {
       "id": 37777,
       "slug": "shadow-of-the-tomb-raider"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-09-23",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Shenmue I & II",
-    "date": "2018-09-11",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 96391,
       "slug": "shenmue-i-and-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-09-11",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Octopath Traveler",
-    "date": "2018-08-15",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 26765,
       "slug": "octopath-traveler"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-08-15",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Mario Tennis Aces",
-    "date": "2018-07-15",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 81145,
       "slug": "mario-tennis-aces"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-07-15",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Shadow Complex",
-    "date": "2018-06-30",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 11328,
       "slug": "shadow-complex"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-30",
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
-    "date": "2018-06-27",
-    "platform": "Game Boy Color",
     "igdb": {
       "id": 1032,
       "slug": "the-legend-of-zelda-oracle-of-seasons"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-27",
+        "platform": "Game Boy Color"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
-    "date": "2018-06-14",
-    "platform": "Game Boy Color",
     "igdb": {
       "id": 1041,
       "slug": "the-legend-of-zelda-oracle-of-ages"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-14",
+        "platform": "Game Boy Color"
+      }
+    ]
   },
   {
     "name": "Kung Fu",
-    "date": "2018-06-08",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 214458,
       "slug": "kung-fu"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-08",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Mega Man",
-    "date": "2018-06-07",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1714,
       "slug": "mega-man"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-07",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Detroit: Become Human",
-    "date": "2018-06-01",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 14362,
       "slug": "detroit-become-human--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-06-01",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Bloodstained: Curse of the Moon",
-    "date": "2018-05-27",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 101176,
       "slug": "bloodstained-curse-of-the-moon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-27",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Forgotton Anne",
-    "date": "2018-05-23",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 24426,
       "slug": "forgotton-anne"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Anticipation",
-    "date": "2018-05-23",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 8946,
       "slug": "anticipation"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Balloon Fight",
-    "date": "2018-05-23",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 2735,
       "slug": "balloon-fight"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Ice Climber",
-    "date": "2018-05-23",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 3666,
       "slug": "ice-climber"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Nintendo World Cup",
-    "date": "2018-05-23",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 10633,
       "slug": "nintendo-world-cup"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Tennis",
-    "date": "2018-05-23",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
-      "id": 295670,
-      "slug": "tennis--18"
-    }
+      "id": 74548,
+      "slug": "tennis--3"
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-23",
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Monkey Island 2: LeChuck's Revenge",
-    "date": "2018-05-20",
-    "platform": "DOS",
     "igdb": {
       "id": 61,
       "slug": "monkey-island-2-lechuck-s-revenge"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-20",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Axiom Verge",
-    "date": "2018-05-16",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 8652,
       "slug": "axiom-verge"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-16",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "God of War (2018)",
-    "date": "2018-05-03",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 19560,
       "slug": "god-of-war--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-05-03",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Gears of War 4",
-    "date": "2018-04-24",
-    "platform": "Xbox One",
     "igdb": {
       "id": 11186,
       "slug": "gears-of-war-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-04-24",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "Far Cry 5",
-    "date": "2018-04-17",
-    "platform": "Xbox One",
     "igdb": {
       "id": 28552,
       "slug": "far-cry-5"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-04-17",
+        "platform": "Xbox One"
+      }
+    ]
   },
   {
     "name": "SteamWorld Dig",
-    "date": "2018-04-05",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 5772,
       "slug": "steamworld-dig"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-04-05",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "SteamWorld Dig 2",
-    "date": "2018-04-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 27433,
       "slug": "steamworld-dig-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-04-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Detention",
-    "date": "2018-03-10",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 26776,
       "slug": "detention"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-03-10",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Snatcher",
-    "date": "2018-02-07",
-    "platform": "Sega CD",
     "igdb": {
       "id": 5451,
       "slug": "snatcher"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-02-07",
+        "platform": "Sega CD"
+      }
+    ]
   },
   {
     "name": "Celeste",
-    "date": "2018-02-02",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 26226,
       "slug": "celeste"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-02-02",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Primordia",
-    "date": "2018-01-27",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 7635,
       "slug": "primordia"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-27",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Hellblade: Senua's Sacrifice",
-    "date": "2018-01-22",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7603,
       "slug": "hellblade-senuas-sacrifice"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-22",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Picross S+",
-    "date": "2018-01-14",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 266419,
       "slug": "picross-s-plus"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-14",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Life is Strange: Before the Storm",
-    "date": "2018-01-07",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 29004,
       "slug": "life-is-strange-before-the-storm"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-07",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Quake III Arena",
-    "date": "2018-01-07",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 355,
       "slug": "quake-iii-arena"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-07",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Worms",
-    "date": "2018-01-07",
-    "platform": "DOS",
     "igdb": {
       "id": 9331,
       "slug": "worms"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-07",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Worms Armageddon",
-    "date": "2018-01-07",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 948,
       "slug": "worms-armageddon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-07",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tennis 2K2",
-    "date": "2018-01-07",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 45843,
       "slug": "tennis-2k2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-07",
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Blossom Tales: The Sleeping King",
-    "date": "2018-01-01",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 27994,
       "slug": "blossom-tales-the-sleeping-king"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2018-01-01",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "RiME",
-    "date": "2017-12-23",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7621,
       "slug": "rime"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-12-23",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Last Day of June",
-    "date": "2017-12-21",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 36543,
       "slug": "last-day-of-june"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-12-21",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Wolfenstein II: The New Colossus",
-    "date": "2017-12-14",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 36952,
       "slug": "wolfenstein-ii-the-new-colossus"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-12-14",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Technobabylon",
-    "date": "2017-12-04",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 13232,
       "slug": "technobabylon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-12-04",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Super Mario Odyssey",
-    "date": "2017-11-20",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 26758,
       "slug": "super-mario-odyssey"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-11-20",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Mario Party 10",
-    "date": "2017-10-15",
-    "platform": "Wii U",
     "igdb": {
       "id": 7340,
       "slug": "mario-party-10"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-10-15",
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Golf Story",
-    "date": "2017-10-03",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 35626,
       "slug": "golf-story"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-10-03",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Cayne",
-    "date": "2017-09-16",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 26968,
       "slug": "cayne"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-09-16",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Uncharted: The Lost Legacy",
-    "date": "2017-09-09",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 26193,
       "slug": "uncharted-the-lost-legacy"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-09-09",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Thimbleweed Park",
-    "date": "2017-09-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 10232,
       "slug": "thimbleweed-park"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-09-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Little Nightmares",
-    "date": "2017-08-19",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 9174,
       "slug": "little-nightmares"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-08-19",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: The Wind Waker HD",
-    "date": "2017-08-12",
-    "platform": "Wii U",
     "igdb": {
       "id": 2276,
       "slug": "the-legend-of-zelda-the-wind-waker-hd"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-08-12",
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Donkey Kong Country: Tropical Freeze",
-    "date": "2017-07-29",
-    "platform": "Wii U",
     "igdb": {
       "id": 2923,
       "slug": "donkey-kong-country-tropical-freeze"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-07-29",
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Heavy Rain",
-    "date": "2017-06-28",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 493,
       "slug": "heavy-rain"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-06-28",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Walking Dead: A New Frontier",
-    "date": "2017-06-07",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 19000,
       "slug": "the-walking-dead-a-new-frontier"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-06-07",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Terranigma",
-    "date": "2017-05-30",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 9633,
       "slug": "terranigma"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-05-30",
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "What Remains of Edith Finch",
-    "date": "2017-05-01",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11233,
       "slug": "what-remains-of-edith-finch"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-05-01",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Night in the Woods",
-    "date": "2017-04-29",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 10148,
       "slug": "night-in-the-woods"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-04-29",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Horizon Zero Dawn",
-    "date": "2017-04-20",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11156,
       "slug": "horizon-zero-dawn"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-04-20",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Breath of the Wild",
-    "date": "2017-03-19",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 7346,
       "slug": "the-legend-of-zelda-breath-of-the-wild"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-03-19",
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Kirby's Dream Land",
-    "date": "2017-03-02",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1063,
       "slug": "kirby-s-dream-land"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-03-02",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Kirby: Planet Robobot",
-    "date": "2017-03-01",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 18221,
       "slug": "kirby-planet-robobot"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-03-01",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Chase: Cold Case Investigations - Distant Memories",
-    "date": "2017-02-26",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 25039,
       "slug": "chase-cold-case-investigations-distant-memories"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-26",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "New Super Mario Bros. 2",
-    "date": "2017-02-25",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1080,
       "slug": "new-super-mario-bros-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-25",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Mario Party 4",
-    "date": "2017-02-25",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2330,
       "slug": "mario-party-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-25",
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Pilotwings Resort",
-    "date": "2017-02-19",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 6862,
       "slug": "pilotwings-resort"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-19",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Retro City Rampage",
-    "date": "2017-02-15",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 8063,
       "slug": "retro-city-rampage"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-15",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Star Fox 64 3D",
-    "date": "2017-02-10",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 6890,
       "slug": "star-fox-64-3d"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-10",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Poochy & Yoshi's Woolly World",
-    "date": "2017-02-09",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 27033,
       "slug": "poochy-and-yoshis-woolly-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-02-09",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Oxenfree",
-    "date": "2017-01-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 14587,
       "slug": "oxenfree"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-01-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto: Chinatown Wars",
-    "date": "2017-01-26",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 3270,
       "slug": "grand-theft-auto-chinatown-wars"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-01-26",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Last Window: The Secret of Cape West",
-    "date": "2017-01-19",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 22958,
       "slug": "last-window-the-secret-of-cape-west"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-01-19",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Hotel Dusk: Room 215",
-    "date": "2017-01-07",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 9249,
       "slug": "hotel-dusk-room-215"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2017-01-07",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "The Last Guardian",
-    "date": "2016-12-27",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 117,
       "slug": "the-last-guardian"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-12-27",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Super Mario Run",
-    "date": "2016-12-18",
-    "platform": "iOS",
     "igdb": {
       "id": 23796,
       "slug": "super-mario-run"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-12-18",
+        "platform": "iOS"
+      }
+    ]
   },
   {
     "name": "Titanfall 2",
-    "date": "2016-12-12",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 17447,
       "slug": "titanfall-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-12-12",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Owlboy",
-    "date": "2016-11-25",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 12597,
       "slug": "owlboy"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-11-25",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Rise of the Tomb Raider",
-    "date": "2016-11-13",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7323,
       "slug": "rise-of-the-tomb-raider"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-11-13",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "PlayStation VR Worlds",
-    "date": "2016-10-16",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 24781,
       "slug": "playstation-vr-worlds"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-10-16",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Rez Infinite",
-    "date": "2016-10-16",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 19746,
       "slug": "rez-infinite"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-10-16",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Kathy Rain",
-    "date": "2016-10-12",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 18997,
       "slug": "kathy-rain"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-10-12",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Shardlight",
-    "date": "2016-10-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 16478,
       "slug": "shardlight"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-10-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Turing Test",
-    "date": "2016-09-24",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 18311,
       "slug": "the-turing-test"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-09-24",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Stasis",
-    "date": "2016-09-17",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
-      "id": 223055,
-      "slug": "stasis"
-    }
+      "id": 9661,
+      "slug": "stasis--1"
+    },
+    "playthroughs": [
+      {
+        "date": "2016-09-17",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Last of Us: Left Behind",
-    "date": "2016-08-28",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11790,
       "slug": "the-last-of-us-left-behind"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-08-28",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Alan Wake",
-    "date": "2016-08-10",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1062,
       "slug": "alan-wake"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-08-10",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Abzu",
-    "date": "2016-08-03",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7352,
       "slug": "abzu"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-08-03",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Inside",
-    "date": "2016-07-26",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 80481,
       "slug": "inside--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-07-26",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Gravity Rush Remastered",
-    "date": "2016-07-08",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 12529,
       "slug": "gravity-rush-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-07-08",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Uncharted 4: A Thief's End",
-    "date": "2016-06-30",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7331,
       "slug": "uncharted-4-a-thief-s-end"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-06-30",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Doom (2016)",
-    "date": "2016-06-01",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7351,
       "slug": "doom--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-06-01",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank (2016)",
-    "date": "2016-05-13",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11065,
       "slug": "ratchet-and-clank"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-05-13",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Soma",
-    "date": "2016-05-03",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 9727,
       "slug": "soma"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-05-03",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Among the Sleep",
-    "date": "2016-04-16",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7642,
       "slug": "among-the-sleep"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-04-16",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Dink Smallwood",
-    "date": "2016-04-01",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 11345,
       "slug": "dink-smallwood"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-04-01",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Never Alone: Kisima Ingitchuna",
-    "date": "2016-03-26",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7618,
       "slug": "never-alone-kisima-ingitchuna"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-03-26",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. Deluxe",
-    "date": "2016-03-26",
-    "platform": "Game Boy Color",
     "igdb": {
       "id": 49877,
       "slug": "super-mario-bros-deluxe"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-03-26",
+        "platform": "Game Boy Color"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Link's Awakening DX",
-    "date": "2016-03-26",
-    "platform": "Game Boy Color",
     "igdb": {
       "id": 1027,
       "slug": "the-legend-of-zelda-link-s-awakening-dx"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-03-26",
+        "platform": "Game Boy Color"
+      }
+    ]
   },
   {
     "name": "Unravel",
-    "date": "2016-02-28",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 11170,
       "slug": "unravel"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-02-28",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Firewatch",
-    "date": "2016-02-22",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 9730,
       "slug": "firewatch"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-02-22",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Witness",
-    "date": "2016-02-13",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 5601,
       "slug": "the-witness"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-02-13",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Trace Memory",
-    "date": "2016-01-31",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 18595,
       "slug": "trace-memory"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-31",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Mario Kart 64",
-    "date": "2016-01-31",
-    "platform": "Nintendo 64",
     "igdb": {
       "id": 2342,
       "slug": "mario-kart-64"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-31",
+        "platform": "Nintendo 64"
+      }
+    ]
   },
   {
     "name": "Kanji Sono Mama Rakubiki Jiten",
-    "date": "2016-01-29",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 67029,
       "slug": "kanji-sono-mama-rakubiki-jiten"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-29",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Spirit Tracks",
-    "date": "2016-01-29",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1038,
       "slug": "the-legend-of-zelda-spirit-tracks"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-29",
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Undertale",
-    "date": "2016-01-21",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 12517,
       "slug": "undertale"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-21",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "You Have to Burn the Rope",
-    "date": "2016-01-15",
-    "platform": "Web browser",
     "igdb": {
       "id": 218417,
       "slug": "you-have-to-burn-the-rope--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-15",
+        "platform": "Web browser"
+      }
+    ]
   },
   {
     "name": "The Talos Principle",
-    "date": "2016-01-12",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7386,
       "slug": "the-talos-principle"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-12",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Warlords II",
-    "date": "2016-01-05",
-    "platform": "DOS",
     "igdb": {
       "id": 50357,
       "slug": "warlords-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-05",
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Dungeons & Dragons: Shadow over Mystara",
-    "date": "2016-01-05",
-    "platform": "Arcade",
     "igdb": {
       "id": 10253,
       "slug": "dungeons-and-dragons-shadow-over-mystara"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-05",
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Golden Axe",
-    "date": "2016-01-05",
-    "platform": "Arcade",
     "igdb": {
       "id": 5565,
       "slug": "golden-axe"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-05",
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "A Bird Story",
-    "date": "2016-01-04",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 8794,
       "slug": "a-bird-story"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-04",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Splatoon",
-    "date": "2016-01-03",
-    "platform": "Wii U",
     "igdb": {
       "id": 7335,
       "slug": "splatoon"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-03",
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Ori and the Blind Forest",
-    "date": "2016-01-02",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 7344,
       "slug": "ori-and-the-blind-forest"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2016-01-02",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "To the Moon",
-    "date": "2015-12-29",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 339932,
       "slug": "to-the-moon--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-12-29",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Until Dawn",
-    "date": "2015-12-26",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7609,
       "slug": "until-dawn"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-12-26",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Final Fantasy VII",
-    "date": "2015-12-22",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 207026,
       "slug": "final-fantasy-vii--6"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-12-22",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Fallout 4",
-    "date": "2015-12-08",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 9630,
       "slug": "fallout-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-12-08",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Life Is Strange",
-    "date": "2015-11-07",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7599,
       "slug": "life-is-strange"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-11-07",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Super Mario Maker",
-    "platform": "Wii U",
     "igdb": {
       "id": 7339,
       "slug": "super-mario-maker"
     },
-    "date": "2015-10-11"
+    "playthroughs": [
+      {
+        "date": "2015-10-11",
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "platform": "Turbografx-16/PC Engine CD",
     "igdb": {
       "id": 206524,
       "slug": "ys-iii-wanderers-from-ys--3"
     },
-    "date": "2015-10-11"
+    "playthroughs": [
+      {
+        "date": "2015-10-11",
+        "platform": "Turbografx-16/PC Engine CD"
+      }
+    ]
   },
   {
     "name": "Batman: Arkham Knight",
-    "date": "2015-10-09",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 5503,
       "slug": "batman-arkham-knight"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-10-09",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Ys: Memories of Celceta",
-    "date": "2015-09-04",
-    "platform": "PlayStation Vita",
     "igdb": {
       "id": 15457,
       "slug": "ys-memories-of-celceta"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-09-04",
+        "platform": "PlayStation Vita"
+      }
+    ]
   },
   {
     "name": "Everybody's Gone to the Rapture",
-    "date": "2015-08-13",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7405,
       "slug": "everybody-s-gone-to-the-rapture"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-08-13",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Limbo",
-    "date": "2015-08-11",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 1331,
       "slug": "limbo"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-08-11",
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "The Vanishing of Ethan Carter",
-    "date": "2015-08-10",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 2939,
       "slug": "the-vanishing-of-ethan-carter"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-08-10",
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Uncharted: Golden Abyss",
-    "date": "2015-08-07",
-    "platform": "PlayStation Vita",
     "igdb": {
       "id": 998,
       "slug": "uncharted-golden-abyss"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-08-07",
+        "platform": "PlayStation Vita"
+      }
+    ]
   },
   {
     "name": "Tearaway",
-    "date": "2015-08-02",
-    "platform": "PlayStation Vita",
     "igdb": {
       "id": 6363,
       "slug": "tearaway"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-08-02",
+        "platform": "PlayStation Vita"
+      }
+    ]
   },
   {
     "name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
-    "date": "2015-07-30",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1402,
       "slug": "professor-layton-vs-phoenix-wright-ace-attorney"
-    }
+    },
+    "playthroughs": [
+      {
+        "date": "2015-07-30",
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Monument Valley",
-    "platform": "iOS",
     "igdb": {
       "id": 8900,
       "slug": "monument-valley"
     },
-    "date": "2015-07-22"
+    "playthroughs": [
+      {
+        "date": "2015-07-22",
+        "platform": "iOS"
+      }
+    ]
   },
   {
     "name": "We Love Katamari",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 6454,
       "slug": "we-love-katamari"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Disney's Chip 'n Dale Rescue Rangers",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 6490,
       "slug": "disneys-chip-n-dale-rescue-rangers--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Wave Race: Blue Storm",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 4232,
       "slug": "wave-race-blue-storm"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Gears of War",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 547,
       "slug": "gears-of-war"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Gears of War 2",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 548,
       "slug": "gears-of-war-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Mirror's Edge",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 1051,
       "slug": "mirror-s-edge"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Actual Sunlight",
-    "platform": "PlayStation Vita",
     "igdb": {
       "id": 13230,
       "slug": "actual-sunlight"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation Vita"
+      }
+    ]
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 201313,
       "slug": "ys-iii-wanderers-from-ys--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Counter-Strike: Source",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 307,
       "slug": "counter-strike-source"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Counter-Strike",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 241,
       "slug": "counter-strike"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Serious Sam: The First Encounter",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 857,
       "slug": "serious-sam-the-first-encounter"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Team Fortress Classic",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6359,
       "slug": "team-fortress-classic"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Unreal Tournament",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15263,
       "slug": "unreal-tournament--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "World of Warcraft",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 123,
       "slug": "world-of-warcraft"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Year Walk",
-    "platform": "iOS",
     "igdb": {
       "id": 6171,
       "slug": "year-walk"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "iOS"
+      }
+    ]
   },
   {
     "name": "Carmageddon",
-    "platform": "DOS",
     "igdb": {
       "id": 626,
       "slug": "carmageddon"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Carmageddon II: Carpocalypse Now",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 951,
       "slug": "carmageddon-ii-carpocalypse-now"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Puzzle Quest: Challenge of the Warlords",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2370,
       "slug": "puzzle-quest-challenge-of-the-warlords"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sid Meier's Civilization",
-    "platform": "DOS",
     "igdb": {
       "id": 902,
       "slug": "sid-meiers-civilization"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Sid Meier's Civilization II",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 634,
       "slug": "sid-meiers-civilization-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sid Meier's Civilization IV",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 293,
       "slug": "sid-meier-s-civilization-iv"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sid Meier's Civilization V",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 866,
       "slug": "sid-meier-s-civilization-v"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Virtua Cop",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6289,
       "slug": "virtua-cop"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Warlords",
-    "platform": "DOS",
     "igdb": {
       "id": 69606,
       "slug": "warlords--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Final Fantasy Adventure",
-    "platform": "Game Boy",
     "igdb": {
       "id": 407,
       "slug": "final-fantasy-adventure"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy"
+      }
+    ]
   },
   {
     "name": "Tetris",
-    "platform": "Game Boy",
     "igdb": {
       "id": 326807,
       "slug": "tetris--41"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy"
+      }
+    ]
   },
   {
     "name": "E.T. the Extra-Terrestrial",
-    "platform": "Atari 2600",
     "igdb": {
       "id": 6706,
       "slug": "e-t-the-extra-terrestrial"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Atari 2600"
+      }
+    ]
   },
   {
     "name": "RalliSport Challenge 2",
-    "platform": "Xbox",
     "igdb": {
       "id": 5997,
       "slug": "rallisport-challenge-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox"
+      }
+    ]
   },
   {
     "name": "Super Paper Mario",
-    "platform": "Wii",
     "igdb": {
       "id": 2191,
       "slug": "super-paper-mario"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Street Fighter II",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 321621,
       "slug": "street-fighter-ii--11"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Command & Conquer",
-    "platform": "DOS",
     "igdb": {
       "id": 647,
       "slug": "command-conquer"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Sam & Max: Beyond Time and Space",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 854,
       "slug": "sam-max-beyond-time-and-space"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sam & Max: Save the World",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 862,
       "slug": "sam-max-save-the-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sam & Max: The Devil's Playhouse",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9534,
       "slug": "sam-and-max-the-devils-playhouse"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Silver",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 7042,
       "slug": "silver"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Soldier of Fortune",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3111,
       "slug": "soldier-of-fortune"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Typing of the Dead",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 11605,
       "slug": "the-typing-of-the-dead"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Virtua Cop 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2470,
       "slug": "virtua-cop-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Winter Games",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 344065,
       "slug": "winter-games--13"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Animal Crossing: Wild World",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 2645,
       "slug": "animal-crossing-wild-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Tetris DS",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 18599,
       "slug": "tetris-ds"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Yoshi Touch & Go",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 18329,
       "slug": "yoshi-touch-and-go"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Ikaruga",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 200996,
       "slug": "ikaruga--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Power Stone",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 4355,
       "slug": "power-stone"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Power Stone 2",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 13106,
       "slug": "power-stone-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "The House of the Dead 2",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 13777,
       "slug": "the-house-of-the-dead-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Virtua Tennis",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 6291,
       "slug": "virtua-tennis"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Jak and Daxter: The Precursor Legacy",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1528,
       "slug": "jak-and-daxter-the-precursor-legacy"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank: Going Commando",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1770,
       "slug": "ratchet-clank-going-commando"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank: Size Matters",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1791,
       "slug": "ratchet-clank-size-matters"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank: Up Your Arsenal",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1773,
       "slug": "ratchet-clank-up-your-arsenal"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "NHL 96",
-    "platform": "DOS",
     "igdb": {
       "id": 11650,
       "slug": "nhl-96"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Nine Hours, Nine Persons, Nine Doors",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 9543,
       "slug": "nine-hours-nine-persons-nine-doors"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Metal Slug",
-    "platform": "Arcade",
     "igdb": {
       "id": 1404,
       "slug": "metal-slug"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Kingdom Hearts",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1219,
       "slug": "kingdom-hearts"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Portal",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 71,
       "slug": "portal"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sopwith",
-    "platform": "DOS",
     "igdb": {
       "id": 24424,
       "slug": "sopwith"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "New Super Mario Bros. U",
-    "platform": "Wii U",
     "igdb": {
       "id": 2171,
       "slug": "new-super-mario-bros-u"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Skyward Sword",
-    "platform": "Wii",
     "igdb": {
       "id": 534,
       "slug": "the-legend-of-zelda-skyward-sword"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Final Fantasy: Mystic Quest",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 415,
       "slug": "final-fantasy-mystic-quest"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Disney's Goof Troop",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 8163,
       "slug": "disneys-goof-troop"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The Blackwell Deception",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9037,
       "slug": "the-blackwell-deception"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Blackwell Unbound",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9041,
       "slug": "blackwell-unbound"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Secret Files 2: Puritas Cordis",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 5146,
       "slug": "secret-files-2-puritas-cordis"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Secret Files: Tunguska",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 5145,
       "slug": "secret-files-tunguska"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Tales of Monkey Island",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 64,
       "slug": "tales-of-monkey-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Blackwell Convergence",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9039,
       "slug": "the-blackwell-convergence"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Blackwell Legacy",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 9043,
       "slug": "the-blackwell-legacy"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Blades of Steel",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 280812,
       "slug": "blades-of-steel--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1022,
       "slug": "the-legend-of-zelda"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: A Link to the Past & Four Swords",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 77336,
       "slug": "the-legend-of-zelda-a-link-to-the-past-and-four-swords"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Bionic Commando Rearmed",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 15856,
       "slug": "bionic-commando-rearmed"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Batman: Arkham Asylum",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 500,
       "slug": "batman-arkham-asylum"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Batman: Arkham City",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 501,
       "slug": "batman-arkham-city"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Batman: Arkham Origins",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 2003,
       "slug": "batman-arkham-origins"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "BioShock Infinite",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 538,
       "slug": "bioshock-infinite"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Dead Space",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 37,
       "slug": "dead-space"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Dead Space 2",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 38,
       "slug": "dead-space-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Fallout 3",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 15,
       "slug": "fallout-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Prince of Persia",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 2438,
       "slug": "prince-of-persia"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Red Dead Redemption",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 434,
       "slug": "red-dead-redemption"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Resident Evil 5",
-    "platform": "Xbox 360",
     "igdb": {
       "id": 847,
       "slug": "resident-evil-5"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
   },
   {
     "name": "Burnout 3: Takedown",
-    "platform": "Xbox",
     "igdb": {
       "id": 5761,
       "slug": "burnout-3-takedown"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox"
+      }
+    ]
   },
   {
     "name": "I-Ninja",
-    "platform": "Xbox",
     "igdb": {
       "id": 3951,
       "slug": "i-ninja"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox"
+      }
+    ]
   },
   {
     "name": "Prince of Persia: The Sands of Time",
-    "platform": "Xbox",
     "igdb": {
       "id": 836,
       "slug": "prince-of-persia-the-sands-of-time"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox"
+      }
+    ]
   },
   {
     "name": "Captain Toad: Treasure Tracker",
-    "platform": "Wii U",
     "igdb": {
       "id": 7337,
       "slug": "captain-toad-treasure-tracker"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Mario Kart 8",
-    "platform": "Wii U",
     "igdb": {
       "id": 2350,
       "slug": "mario-kart-8"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "NES Remix",
-    "platform": "Wii U",
     "igdb": {
       "id": 6401,
       "slug": "nes-remix"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "NES Remix 2",
-    "platform": "Wii U",
     "igdb": {
       "id": 6402,
       "slug": "nes-remix-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Shovel Knight",
-    "platform": "Wii U",
     "igdb": {
       "id": 7444,
       "slug": "shovel-knight"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Super Mario 3D World",
-    "platform": "Wii U",
     "igdb": {
       "id": 2180,
       "slug": "super-mario-3d-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Super Smash Bros. for Wii U",
-    "platform": "Wii U",
     "igdb": {
       "id": 9602,
       "slug": "super-smash-bros-for-wii-u"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U"
+      }
+    ]
   },
   {
     "name": "Metroid: Other M",
-    "platform": "Wii",
     "igdb": {
       "id": 1113,
       "slug": "metroid-other-m"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "New Super Mario Bros. Wii",
-    "platform": "Wii",
     "igdb": {
       "id": 2178,
       "slug": "new-super-mario-bros-wii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Super Mario Galaxy",
-    "platform": "Wii",
     "igdb": {
       "id": 1077,
       "slug": "super-mario-galaxy"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Super Mario Galaxy 2",
-    "platform": "Wii",
     "igdb": {
       "id": 1078,
       "slug": "super-mario-galaxy-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Super Smash Bros. Brawl",
-    "platform": "Wii",
     "igdb": {
       "id": 1628,
       "slug": "super-smash-bros-brawl"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii"
+      }
+    ]
   },
   {
     "name": "Chrono Trigger",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1802,
       "slug": "chrono-trigger"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Final Fantasy II",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 387,
       "slug": "final-fantasy-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Final Fantasy III",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 426,
       "slug": "final-fantasy-iii--7"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Bomberman",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 3450,
       "slug": "super-bomberman"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario All-Stars",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 5199,
       "slug": "super-mario-all-stars"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario World",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1070,
       "slug": "super-mario-world"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario World 2: Yoshi's Island",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1073,
       "slug": "super-mario-world-2-yoshi-s-island"
-    }
-  },
-  {
-    "name": "Super Metroid",
-    "platform": "Super Nintendo Entertainment System",
-    "igdb": {
-      "id": 1103,
-      "slug": "super-metroid"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Soccer",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 77457,
       "slug": "super-soccer--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 14697,
       "slug": "teenage-mutant-ninja-turtles-iv-turtles-in-time"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: A Link to the Past",
-    "platform": "Super Nintendo Entertainment System",
     "igdb": {
       "id": 1026,
       "slug": "the-legend-of-zelda-a-link-to-the-past"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "BS Zelda no Densetsu: Inishie no Sekiban",
-    "platform": "Satellaview",
     "igdb": {
       "id": 42308,
       "slug": "bs-zelda-no-densetsu-inishie-no-sekiban"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Satellaview"
+      }
+    ]
   },
   {
     "name": "Alien: Isolation",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 4754,
       "slug": "alien-isolation"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Bastion",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1983,
       "slug": "bastion"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Brothers: A Tale of Two Sons",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1334,
       "slug": "brothers-a-tale-of-two-sons"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Grim Fandango Remastered",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 8682,
       "slug": "grim-fandango-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Hotline Miami",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1384,
       "slug": "hotline-miami"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Hotline Miami 2: Wrong Number",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 2126,
       "slug": "hotline-miami-2-wrong-number"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Binding of Isaac: Rebirth",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 7789,
       "slug": "the-binding-of-isaac-rebirth"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Order: 1886",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 3048,
       "slug": "the-order-1886"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Walking Dead: Season Two",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 3097,
       "slug": "the-walking-dead-season-two"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Witcher 3: Wild Hunt",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1942,
       "slug": "the-witcher-3-wild-hunt"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Watch Dogs",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 1121,
       "slug": "watch-dogs"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Wolfenstein: The Old Blood",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 9192,
       "slug": "wolfenstein-the-old-blood"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "The Last of Us Remastered",
-    "platform": "PlayStation 4",
     "igdb": {
       "id": 6036,
       "slug": "the-last-of-us-remastered"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto V",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 1020,
       "slug": "grand-theft-auto-v"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Journey",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 1352,
       "slug": "journey"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "The Last of Us",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 1009,
       "slug": "the-last-of-us"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Tomb Raider",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 912,
       "slug": "tomb-raider"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Uncharted 2: Among Thieves",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 565,
       "slug": "uncharted-2-among-thieves"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Uncharted 3: Drake's Deception",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 512,
       "slug": "uncharted-3-drake-s-deception"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Uncharted: Drake's Fortune",
-    "platform": "PlayStation 3",
     "igdb": {
       "id": 431,
       "slug": "uncharted-drake-s-fortune"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3"
+      }
+    ]
   },
   {
     "name": "Katamari Damacy",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 6453,
       "slug": "katamari-damacy"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Castlevania: Lament of Innocence",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1135,
       "slug": "castlevania-lament-of-innocence"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "God of War (2005)",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 549,
       "slug": "god-of-war"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ico",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 7170,
       "slug": "ico"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Jak 3",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1530,
       "slug": "jak-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Maximo vs. Army of Zin",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 43642,
       "slug": "maximo-vs-army-of-zin"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ōkami",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1271,
       "slug": "okami"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Ratchet & Clank (2002)",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 1289,
       "slug": "ratchet-clank"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Shadow of the Colossus",
-    "platform": "PlayStation 2",
     "igdb": {
       "id": 2207,
       "slug": "shadow-of-the-colossus"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2"
+      }
+    ]
   },
   {
     "name": "Castlevania: Symphony of the Night",
-    "platform": "PlayStation",
     "igdb": {
       "id": 1128,
       "slug": "castlevania-symphony-of-the-night"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation"
+      }
+    ]
   },
   {
     "name": "Crash Bandicoot",
-    "platform": "PlayStation",
     "igdb": {
       "id": 1185,
       "slug": "crash-bandicoot"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation"
+      }
+    ]
   },
   {
     "name": "Beneath a Steel Sky",
-    "platform": "DOS",
     "igdb": {
       "id": 612,
       "slug": "beneath-a-steel-sky"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Call of Juarez: Gunslinger",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1976,
       "slug": "call-of-juarez-gunslinger"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Command & Conquer: Red Alert",
-    "platform": "DOS",
     "igdb": {
       "id": 295,
       "slug": "command-conquer-red-alert"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Dark Messiah of Might and Magic",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2369,
       "slug": "dark-messiah-of-might-and-magic"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Dead Island",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 536,
       "slug": "dead-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Dear Esther",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 273899,
       "slug": "dear-esther--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Defense Grid: The Awakening",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 8190,
       "slug": "defense-grid-the-awakening"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Deus Ex: Human Revolution",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 43,
       "slug": "deus-ex-human-revolution"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Doom II: Hell on Earth",
-    "platform": "DOS",
     "igdb": {
       "id": 312,
       "slug": "doom-ii-hell-on-earth"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Dreamfall: The Longest Journey",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1961,
       "slug": "dreamfall-the-longest-journey"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Duke Nukem 3D",
-    "platform": "DOS",
     "igdb": {
       "id": 342,
       "slug": "duke-nukem-3d"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Fallout: New Vegas",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 16,
       "slug": "fallout-new-vegas"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Far Cry 3",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 529,
       "slug": "far-cry-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Full Throttle",
-    "platform": "DOS",
     "igdb": {
       "id": 180,
       "slug": "full-throttle"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Gone Home",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1906,
       "slug": "gone-home"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto",
-    "platform": "DOS",
     "igdb": {
       "id": 980,
       "slug": "grand-theft-auto"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Grand Theft Auto 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 819,
       "slug": "grand-theft-auto-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Gunpoint",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3242,
       "slug": "gunpoint"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 231,
       "slug": "half-life"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 233,
       "slug": "half-life-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life 2: Episode One",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 338,
       "slug": "half-life-2-episode-one"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life 2: Episode Two",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 247,
       "slug": "half-life-2-episode-two"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Half-Life 2: Lost Coast",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 10395,
       "slug": "half-life-2-lost-coast"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Hard Reset",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 532,
       "slug": "hard-reset"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Indiana Jones and the Fate of Atlantis",
-    "platform": "DOS",
     "igdb": {
       "id": 184,
       "slug": "indiana-jones-and-the-fate-of-atlantis--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Indiana Jones and the Last Crusade: The Graphic Adventure",
-    "platform": "DOS",
     "igdb": {
       "id": 186,
       "slug": "indiana-jones-and-the-last-crusade-the-graphic-adventure"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Loom",
-    "platform": "DOS",
     "igdb": {
       "id": 191,
       "slug": "loom"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Machinarium",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2990,
       "slug": "machinarium"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Mass Effect 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 74,
       "slug": "mass-effect-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Metro: Last Light",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 539,
       "slug": "metro-last-light"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Need for Speed III: Hot Pursuit",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 92,
       "slug": "need-for-speed-iii-hot-pursuit"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Puzzle Agent",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15995,
       "slug": "puzzle-agent"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Outrun",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 325048,
       "slug": "outrun--16"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Plants vs. Zombies",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1277,
       "slug": "plants-vs-zombies"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      },
+      {
+        "platform": "iOS"
+      }
+    ]
   },
   {
     "name": "Portal 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 72,
       "slug": "portal-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Puzzle Agent 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6778,
       "slug": "puzzle-agent-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Quake II",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 286,
       "slug": "quake-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Rage",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 509,
       "slug": "rage"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Red Faction",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6273,
       "slug": "red-faction"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Return to Castle Wolfenstein",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 281,
       "slug": "return-to-castle-wolfenstein"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Sam & Max Hit the Road",
-    "platform": "DOS",
     "igdb": {
       "id": 202,
       "slug": "sam-max-hit-the-road"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Shatter",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 405413,
       "slug": "shatter--4"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Simon the Sorcerer",
-    "platform": "DOS",
     "igdb": {
       "id": 459,
       "slug": "simon-the-sorcerer"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",
-    "platform": "DOS",
     "igdb": {
       "id": 460,
       "slug": "simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Singularity",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 226920,
       "slug": "singularity--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Spec Ops: The Line",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1377,
       "slug": "spec-ops-the-line"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "StarCraft II: Wings of Liberty",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 239,
       "slug": "starcraft-ii-wings-of-liberty"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Syberia",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 890,
       "slug": "syberia"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Syberia II",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 6185,
       "slug": "syberia-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Team Fortress 2",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 891,
       "slug": "team-fortress-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "TechnoMage: Return of Eternity",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 44906,
       "slug": "technomage-return-of-eternity"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Elder Scrolls V: Skyrim",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 472,
       "slug": "the-elder-scrolls-v-skyrim"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Longest Journey",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 895,
       "slug": "the-longest-journey"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Secret of Monkey Island",
-    "platform": "DOS",
     "igdb": {
       "id": 60,
       "slug": "the-secret-of-monkey-island"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "The Stanley Parable",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 3035,
       "slug": "the-stanley-parable"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Walking Dead",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1871,
       "slug": "the-walking-dead"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "The Witcher 2: Assassins of Kings",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 478,
       "slug": "the-witcher-2-assassins-of-kings"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Torchlight",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2480,
       "slug": "torchlight"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Torchlight II",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 1337,
       "slug": "torchlight-ii"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Warcraft II: Beyond the Dark Portal",
-    "platform": "DOS",
     "igdb": {
       "id": 131,
       "slug": "warcraft-ii-beyond-the-dark-portal"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Warcraft II: Tides of Darkness",
-    "platform": "DOS",
     "igdb": {
       "id": 130,
       "slug": "warcraft-ii-tides-of-darkness"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Wolfenstein 3D",
-    "platform": "DOS",
     "igdb": {
       "id": 262516,
       "slug": "wolfenstein-3d--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   },
   {
     "name": "Wolfenstein: The New Order",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 2031,
       "slug": "wolfenstein-the-new-order"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Ys Origin",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 10949,
       "slug": "ys-origin"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Ys: The Oath in Felghana",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 15455,
       "slug": "ys-the-oath-in-felghana"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Zombie Driver",
-    "platform": "PC (Microsoft Windows)",
     "igdb": {
       "id": 20668,
       "slug": "zombie-driver"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
   },
   {
     "name": "Super Mario 3D World + Bowser's Fury",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 138227,
       "slug": "super-mario-3d-world-plus-bowsers-fury"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Mario Kart 8 Deluxe",
-    "platform": "Nintendo Switch",
     "igdb": {
       "id": 26764,
       "slug": "mario-kart-8-deluxe"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Switch"
+      }
+    ]
   },
   {
     "name": "Bubble Bobble",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 194444,
       "slug": "bubble-bobble--3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Contra",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 186207,
       "slug": "contra--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Disney's DuckTales",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 6487,
       "slug": "disneys-ducktales--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Excitebike",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 4600,
       "slug": "excitebike"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Ice Hockey",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 18532,
       "slug": "ice-hockey"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Kid Icarus",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 3663,
       "slug": "kid-icarus"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Life Force",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 174945,
       "slug": "life-force"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Mega Man 2",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1715,
       "slug": "mega-man-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Metroid",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1101,
       "slug": "metroid"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Rygar",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 28841,
       "slug": "rygar--1"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros.",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 358,
       "slug": "super-mario-bros"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. / Duck Hunt",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 69638,
       "slug": "super-mario-bros-slash-duck-hunt"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. 2",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1067,
       "slug": "super-mario-bros-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Super Mario Bros. 3",
-    "platform": "Nintendo Entertainment System",
     "igdb": {
       "id": 1068,
       "slug": "super-mario-bros-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System"
+      }
+    ]
   },
   {
     "name": "Castlevania: Order of Ecclesia",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1141,
       "slug": "castlevania-order-of-ecclesia"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Castlevania: Portrait of Ruin",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1138,
       "slug": "castlevania-portrait-of-ruin"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Feel the Magic: XY/XX",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 18331,
       "slug": "feel-the-magic-xy-slash-xx"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Mario & Luigi: Bowser's Inside Story",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 3363,
       "slug": "mario-luigi-bowser-s-inside-story"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Mario & Luigi: Partners in Time",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 3364,
       "slug": "mario-luigi-partners-in-time"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Mario Kart DS",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 2345,
       "slug": "mario-kart-ds"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "New Super Mario Bros.",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1076,
       "slug": "new-super-mario-bros"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Osu! Tatakae! Ouendan",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 24645,
       "slug": "osu-tatakae-ouendan"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Curious Village",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1397,
       "slug": "professor-layton-and-the-curious-village"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Diabolical Box",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1398,
       "slug": "professor-layton-and-the-diabolical-box"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Last Specter",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1400,
       "slug": "professor-layton-and-the-last-specter"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Unwound Future",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1399,
       "slug": "professor-layton-and-the-unwound-future"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Super Mario 64 DS",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 22301,
       "slug": "super-mario-64-ds"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Super Princess Peach",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 20497,
       "slug": "super-princess-peach"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Phantom Hourglass",
-    "platform": "Nintendo DS",
     "igdb": {
       "id": 1037,
       "slug": "the-legend-of-zelda-phantom-hourglass"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS"
+      }
+    ]
   },
   {
     "name": "Super Mario 64",
-    "platform": "Nintendo 64",
     "igdb": {
       "id": 1074,
       "slug": "super-mario-64"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 64"
+      }
+    ]
   },
   {
     "name": "Luigi's Mansion: Dark Moon",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 2476,
       "slug": "luigi-s-mansion-dark-moon"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Azran Legacy",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1403,
       "slug": "professor-layton-and-the-azran-legacy"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Professor Layton and the Miracle Mask",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1401,
       "slug": "professor-layton-and-the-miracle-mask"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Super Mario 3D Land",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 1079,
       "slug": "super-mario-3d-land"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: A Link Between Worlds",
-    "platform": "Nintendo 3DS",
     "igdb": {
       "id": 2909,
       "slug": "the-legend-of-zelda-a-link-between-worlds"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Luigi's Mansion",
-    "platform": "Nintendo 3DS",
     "igdb": {
-      "id": 2485,
-      "slug": "luigi-s-mansion"
-    }
+      "id": 90109,
+      "slug": "luigis-mansion"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS"
+      }
+    ]
   },
   {
     "name": "Metal Slug 4",
-    "platform": "Arcade",
     "igdb": {
       "id": 1409,
       "slug": "metal-slug-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Metal Slug 5",
-    "platform": "Arcade",
     "igdb": {
       "id": 1410,
       "slug": "metal-slug-5"
-    }
-  },
-  {
-    "name": "Plants vs. Zombies",
-    "platform": "iOS",
-    "igdb": {
-      "id": 1277,
-      "slug": "plants-vs-zombies"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: The Wind Waker",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1033,
       "slug": "the-legend-of-zelda-the-wind-waker"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Beyond Good & Evil",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1341,
       "slug": "beyond-good-evil"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "F-Zero GX",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 3492,
       "slug": "f-zero-gx"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Luigi's Mansion",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2485,
       "slug": "luigi-s-mansion"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Mario Kart: Double Dash!!",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2344,
       "slug": "mario-kart-double-dash"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Paper Mario: The Thousand-Year Door",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 3349,
       "slug": "paper-mario-the-thousand-year-door"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Resident Evil 4 (2005)",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 974,
       "slug": "resident-evil-4"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Star Fox Adventures",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 2686,
       "slug": "star-fox-adventures"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Super Mario Sunshine",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1075,
       "slug": "super-mario-sunshine"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Super Smash Bros. Melee",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1627,
       "slug": "super-smash-bros-melee"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: Twilight Princess",
-    "platform": "Nintendo GameCube",
     "igdb": {
       "id": 1036,
       "slug": "the-legend-of-zelda-twilight-princess"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
+      }
+    ]
   },
   {
     "name": "Castlevania: Aria of Sorrow",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1134,
       "slug": "castlevania-aria-of-sorrow"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Castlevania: Circle of the Moon",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1132,
       "slug": "castlevania-circle-of-the-moon"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Castlevania: Harmony of Dissonance",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1133,
       "slug": "castlevania-harmony-of-dissonance"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Mario & Luigi: Superstar Saga",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 3351,
       "slug": "mario-luigi-superstar-saga"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Metroid Fusion",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1104,
       "slug": "metroid-fusion"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Metroid: Zero Mission",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1107,
       "slug": "metroid-zero-mission"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "The Legend of Zelda: The Minish Cap",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1035,
       "slug": "the-legend-of-zelda-the-minish-cap"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "WarioWare: Twisted!",
-    "platform": "Game Boy Advance",
     "igdb": {
       "id": 1704,
       "slug": "warioware-twisted"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance"
+      }
+    ]
   },
   {
     "name": "Super Mario Land",
-    "platform": "Game Boy",
     "igdb": {
       "id": 1069,
       "slug": "super-mario-land"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy"
+      }
+    ]
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
-    "platform": "Game Boy",
     "igdb": {
       "id": 1071,
       "slug": "super-mario-land-2-6-golden-coins"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy"
+      }
+    ]
   },
   {
     "name": "Rayman 2: The Great Escape",
-    "platform": "Dreamcast",
     "igdb": {
       "id": 193314,
       "slug": "rayman-2-the-great-escape--2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast"
+      }
+    ]
   },
   {
     "name": "Cadillacs and Dinosaurs",
-    "platform": "Arcade",
     "igdb": {
       "id": 5368,
       "slug": "cadillacs-and-dinosaurs"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Metal Slug 2",
-    "platform": "Arcade",
     "igdb": {
       "id": 1407,
       "slug": "metal-slug-2"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Metal Slug 3",
-    "platform": "Arcade",
     "igdb": {
       "id": 1408,
       "slug": "metal-slug-3"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Metal Slug 6",
-    "platform": "Arcade",
     "igdb": {
       "id": 1411,
       "slug": "metal-slug-6"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   },
   {
     "name": "Metal Slug X",
-    "platform": "Arcade",
     "igdb": {
       "id": 18840,
       "slug": "metal-slug-x"
-    }
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   }
 ]
