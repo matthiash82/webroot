@@ -8500,5 +8500,29 @@
         "platform": "DOS"
       }
     ]
+  },
+  {
+    "name": "F-Zero",
+    "igdb": {
+      "id": 3490,
+      "slug": "f-zero"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Kart",
+    "igdb": {
+      "id": 2332,
+      "slug": "super-mario-kart"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System"
+      }
+    ]
   }
 ]
