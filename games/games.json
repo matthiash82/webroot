@@ -2473,19 +2473,6 @@
     ]
   },
   {
-    "name": "Bolo",
-    "igdb": {
-      "id": 95468,
-      "slug": "bolo--1"
-    },
-    "playthroughs": [
-      {
-        "date": "2021-01-29",
-        "platform": "Mac"
-      }
-    ]
-  },
-  {
     "name": "Ys: Book I & II",
     "igdb": {
       "id": 70166,
@@ -8491,6 +8478,18 @@
     "playthroughs": [
       {
         "platform": "Arcade"
+      }
+    ]
+  },
+  {
+    "name": "Bolo",
+    "igdb": {
+      "id": 95468,
+      "slug": "bolo--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Mac"
       }
     ]
   }
