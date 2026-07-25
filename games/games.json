@@ -8536,5 +8536,17 @@
         "platform": "Arcade"
       }
     ]
+  },
+  {
+    "name": "Until Dawn: Rush of Blood",
+    "igdb": {
+      "id": 14366,
+      "slug": "until-dawn-rush-of-blood"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation VR"
+      }
+    ]
   }
 ]
