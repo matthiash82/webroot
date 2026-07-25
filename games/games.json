@@ -4462,19 +4462,6 @@
     ]
   },
   {
-    "name": "Dink Smallwood",
-    "igdb": {
-      "id": 11345,
-      "slug": "dink-smallwood"
-    },
-    "playthroughs": [
-      {
-        "date": "2016-04-01",
-        "platform": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
     "name": "Never Alone: Kisima Ingitchuna",
     "igdb": {
       "id": 7618,
@@ -8487,6 +8474,18 @@
     "playthroughs": [
       {
         "platform": "Xbox 360"
+      }
+    ]
+  },
+  {
+    "name": "Dink Smallwood",
+    "igdb": {
+      "id": 11345,
+      "slug": "dink-smallwood"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)"
       }
     ]
   }
