@@ -8488,5 +8488,17 @@
         "platform": "PC (Microsoft Windows)"
       }
     ]
+  },
+  {
+    "name": "Quake",
+    "igdb": {
+      "id": 333,
+      "slug": "quake"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS"
+      }
+    ]
   }
 ]
