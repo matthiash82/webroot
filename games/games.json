@@ -3500,19 +3500,6 @@
     ]
   },
   {
-    "name": "Shadow Complex",
-    "igdb": {
-      "id": 11328,
-      "slug": "shadow-complex"
-    },
-    "playthroughs": [
-      {
-        "date": "2018-06-30",
-        "platform": "Xbox 360"
-      }
-    ]
-  },
-  {
     "name": "The Legend of Zelda: Oracle of Seasons",
     "igdb": {
       "id": 1032,
@@ -4796,19 +4783,6 @@
       {
         "date": "2015-08-13",
         "platform": "PlayStation 4"
-      }
-    ]
-  },
-  {
-    "name": "Limbo",
-    "igdb": {
-      "id": 1331,
-      "slug": "limbo"
-    },
-    "playthroughs": [
-      {
-        "date": "2015-08-11",
-        "platform": "Xbox 360"
       }
     ]
   },
@@ -8489,6 +8463,30 @@
     "playthroughs": [
       {
         "platform": "Nintendo GameCube"
+      }
+    ]
+  },
+  {
+    "name": "Limbo",
+    "igdb": {
+      "id": 1331,
+      "slug": "limbo"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
+      }
+    ]
+  },
+  {
+    "name": "Shadow Complex",
+    "igdb": {
+      "id": 11328,
+      "slug": "shadow-complex"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360"
       }
     ]
   }
