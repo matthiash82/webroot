@@ -7215,14 +7215,14 @@
     ]
   },
   {
-    "name": "Outrun",
+    "name": "OutRun",
     "igdb": {
-      "id": 325048,
-      "slug": "outrun--16"
+      "id": 307924,
+      "slug": "outrun--10"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)"
+        "platform": "DOS"
       }
     ]
   },
