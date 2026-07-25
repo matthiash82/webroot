@@ -4098,19 +4098,6 @@
     ]
   },
   {
-    "name": "Mario Party 4",
-    "igdb": {
-      "id": 2330,
-      "slug": "mario-party-4"
-    },
-    "playthroughs": [
-      {
-        "date": "2017-02-25",
-        "platform": "Nintendo GameCube"
-      }
-    ]
-  },
-  {
     "name": "Pilotwings Resort",
     "igdb": {
       "id": 6862,
@@ -8490,6 +8477,18 @@
     "playthroughs": [
       {
         "platform": "Mac"
+      }
+    ]
+  },
+  {
+    "name": "Mario Party 4",
+    "igdb": {
+      "id": 2330,
+      "slug": "mario-party-4"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube"
       }
     ]
   }
