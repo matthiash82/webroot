@@ -8524,5 +8524,17 @@
         "platform": "Super Nintendo Entertainment System"
       }
     ]
+  },
+  {
+    "name": "Final Fight",
+    "igdb": {
+      "id": 1655,
+      "slug": "final-fight"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade"
+      }
+    ]
   }
 ]
