@@ -5621,12 +5621,12 @@
   {
     "name": "Winter Games",
     "igdb": {
-      "id": 344065,
-      "slug": "winter-games--13"
+      "id": 281646,
+      "slug": "winter-games--11"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)"
+        "platform": "DOS"
       }
     ]
   },
