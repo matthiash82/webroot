@@ -8548,5 +8548,17 @@
         "platform": "PlayStation VR"
       }
     ]
+  },
+  {
+    "name": "Zelda",
+    "igdb": {
+      "id": 152362,
+      "slug": "zelda--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game & Watch"
+      }
+    ]
   }
 ]
