@@ -8560,5 +8560,17 @@
         "platform": "Game & Watch"
       }
     ]
+  },
+  {
+    "name": "Donkey Kong Hockey",
+    "igdb": {
+      "id": 131899,
+      "slug": "donkey-kong-hockey"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game & Watch"
+      }
+    ]
   }
 ]
