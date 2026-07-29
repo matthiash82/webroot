@@ -1,5 +1,18 @@
 [
   {
+    "name": "Castlevania: Rondo of Blood",
+    "igdb": {
+      "id": 1139,
+      "slug": "castlevania-rondo-of-blood--2"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-07-29",
+        "platform": "Turbografx-16/PC Engine CD"
+      }
+    ]
+  },
+  {
     "name": "Crusader of Centy",
     "igdb": {
       "id": 4552,
