@@ -9337,5 +9337,31 @@
         "releaseYear": 1990
       }
     ]
+  },
+  {
+    "name": "Liero",
+    "igdb": {
+      "id": 9078,
+      "slug": "liero"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1998
+      }
+    ]
+  },
+  {
+    "name": "Worms 2",
+    "igdb": {
+      "id": 947,
+      "slug": "worms-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1997
+      }
+    ]
   }
 ]
