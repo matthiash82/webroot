@@ -9298,5 +9298,44 @@
         "releaseYear": 1985
       }
     ]
+  },
+  {
+    "name": "3D Pinball: Space Cadet",
+    "igdb": {
+      "id": 79247,
+      "slug": "3d-pinball-space-cadet"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Minesweeper",
+    "igdb": {
+      "id": 5421,
+      "slug": "microsoft-minesweeper"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Solitaire",
+    "igdb": {
+      "id": 8177,
+      "slug": "microsoft-solitaire"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1990
+      }
+    ]
   }
 ]
