@@ -1,5 +1,18 @@
 [
   {
+    "name": "Dispatch",
+    "igdb": {
+      "id": 325609,
+      "slug": "dispatch--3"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-07",
+        "platform": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
     "name": "Castlevania: Rondo of Blood",
     "igdb": {
       "id": 1139,
