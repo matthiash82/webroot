@@ -30,9 +30,10 @@
 
   /* Main column */
   .controls {
-    display: grid; grid-template-columns: 1fr 220px; gap: 10px;
+    display: grid; grid-template-columns: 1fr 220px 170px 170px; gap: 10px;
     padding: 4px 0 12px; margin-bottom: 8px; border-bottom: 1px solid var(--border);
   }
+  @media (max-width: 1100px) { .controls { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 640px) { .controls { grid-template-columns: 1fr; } }
   input, select {
     width: 100%; padding: 9px 11px; font-size: 14px; color: var(--text);
@@ -137,6 +138,8 @@
       <div class="controls">
         <input id="q" type="search" placeholder="Search title or release year…" autocomplete="off" spellcheck="false">
         <select id="platform"><option value="">All platforms</option></select>
+        <select id="playYear"><option value="">All playthrough years</option></select>
+        <select id="releaseYear"><option value="">All release years</option></select>
       </div>
       <div id="view"></div>
     </main>
@@ -175,6 +178,8 @@ function setFor(kind) { return SETS[kind]; }
 const els = {
   q: document.getElementById("q"),
   platform: document.getElementById("platform"),
+  playYear: document.getElementById("playYear"),
+  releaseYear: document.getElementById("releaseYear"),
   view: document.getElementById("view"),
   count: document.getElementById("count"),
   side: document.getElementById("side"),
@@ -198,9 +203,13 @@ function platformIcon(p) {
     ` onerror="this.onerror=null;this.src='assets/platforms/_fallback.svg'">`;
 }
 
-function populatePlatformSelect() {
+// Each dropdown mirrors one sidebar summary: platform, completion (playthrough) year, release year.
+function populateSelects() {
   const platforms = [...new Set(GAMES.map(g => g.platform))].sort((a, b) => a.localeCompare(b));
   for (const p of platforms) els.platform.add(new Option(p, p));
+  for (const y of sortYearsDesc([...new Set(GAMES.map(yearOf))])) els.playYear.add(new Option(y, y));
+  const rel = [...new Set(GAMES.map(g => String(g.releaseYear)))].sort((a, b) => Number(b) - Number(a));
+  for (const y of rel) els.releaseYear.add(new Option(y, y));
 }
 
 function miniTable(rows, max, kind, withIcon) {
@@ -301,6 +310,8 @@ function render() {
     ? `<span class="badge">${GAMES.length}</span> playthroughs`
     : `<span class="badge">${rows.length}</span> of ${GAMES.length}`;
   syncSelect(els.platform, selPlatforms);
+  syncSelect(els.playYear, selYears);
+  syncSelect(els.releaseYear, selReleaseYears);
   markActive();
 
   if (!rows.length) {
@@ -386,6 +397,8 @@ document.getElementById("viewtoggle").addEventListener("click", e => {
 
 els.q.addEventListener("input", render);
 els.platform.addEventListener("change", () => selectFromDropdown(els.platform, selPlatforms));
+els.playYear.addEventListener("change", () => selectFromDropdown(els.playYear, selYears));
+els.releaseYear.addEventListener("change", () => selectFromDropdown(els.releaseYear, selReleaseYears));
 
 // Click a summary row → single-select (toggles off if it's the only one). Ctrl/⌘-click → add/remove from the selection.
 els.side.addEventListener("click", e => {
@@ -421,7 +434,7 @@ function flattenPlaythroughs(games) {
 
 fetch("games.json")
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => { GAMES = flattenPlaythroughs(data); populatePlatformSelect(); renderSummaries(); render(); })
+  .then(data => { GAMES = flattenPlaythroughs(data); populateSelects(); renderSummaries(); render(); })
   .catch(err => {
     els.view.innerHTML = `<div class="error">
       <p>Could not load <code>games.json</code> (${esc(String(err))}).</p>

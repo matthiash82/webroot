@@ -9285,5 +9285,18 @@
         "releaseYear": 1984
       }
     ]
+  },
+  {
+    "name": "Pinball",
+    "igdb": {
+      "id": 86428,
+      "slug": "pinball--3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
   }
 ]
