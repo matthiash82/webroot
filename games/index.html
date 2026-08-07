@@ -233,8 +233,8 @@ function renderSummaries() {
   document.getElementById("platformTable").innerHTML =
     miniTable(plats.map(p => [p, platGames[p].size, p]), pMax, "platform", true);
 
-  // By release year: distinct games, newest-released first. Release year is a property of the game, so a game beaten
-  // more than once still counts once.
+  // By release year: distinct games, newest-released first. A game beaten more than once on the same platform counts
+  // once; one beaten on two platforms lands in each platform's release year.
   const relGames = {};
   for (const g of GAMES) { (relGames[g.releaseYear] ||= new Set()).add(g.igdb.id); }
   const rels = Object.keys(relGames).sort((a, b) => Number(b) - Number(a));
@@ -407,12 +407,13 @@ try { if (localStorage.getItem("klarade-view") === "list") view = "list"; } catc
 document.querySelectorAll("#viewtoggle button").forEach(x => x.classList.toggle("active", x.dataset.view === view));
 
 // games.json stores one object per game (unique igdb identity) with a nested playthroughs array; the UI works on one
-// row per playthrough, so flatten each game's playthroughs into flat {name, releaseYear, igdb, date, platform} rows here.
+// row per playthrough, so flatten each game's playthroughs into flat {name, igdb, date, platform, releaseYear} rows here.
+// releaseYear lives on the playthrough because it is the year the game released on that playthrough's platform.
 function flattenPlaythroughs(games) {
   const rows = [];
   for (const game of games) {
     for (const pt of game.playthroughs || []) {
-      rows.push({ name: game.name, releaseYear: game.releaseYear, igdb: game.igdb, date: pt.date, platform: pt.platform });
+      rows.push({ name: game.name, igdb: game.igdb, date: pt.date, platform: pt.platform, releaseYear: pt.releaseYear });
     }
   }
   return rows;
