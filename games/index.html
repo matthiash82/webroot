@@ -30,7 +30,7 @@
 
   /* Main column */
   .controls {
-    display: grid; grid-template-columns: 1fr 220px 130px; gap: 10px;
+    display: grid; grid-template-columns: 1fr 220px; gap: 10px;
     padding: 4px 0 12px; margin-bottom: 8px; border-bottom: 1px solid var(--border);
   }
   @media (max-width: 640px) { .controls { grid-template-columns: 1fr; } }
@@ -68,6 +68,7 @@
     background: #fff; border-radius: 3px; padding: 1px 2px; box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
     vertical-align: middle; margin-right: 9px; position: relative; z-index: 1;
   }
+  td.released { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
   td.date { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
   td.date .unknown { font-style: italic; opacity: 0.85; }
   .badge { display: inline-block; background: var(--accent-weak); color: var(--accent); border-radius: 999px; padding: 1px 9px; font-size: 12px; font-weight: 600; }
@@ -90,6 +91,7 @@
     font-size: 12px; line-height: 1.3; color: var(--text); text-align: center;
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
+  .cover-title .yr { color: var(--muted); font-variant-numeric: tabular-nums; }
   .cover-card:hover .cover-title { color: var(--accent); }
   .cover-platform { font-size: 11px; line-height: 1.25; color: var(--muted); text-align: center; margin-top: -2px; }
   .cover-date { font-size: 11px; line-height: 1.25; color: var(--muted); text-align: center; font-variant-numeric: tabular-nums; }
@@ -102,8 +104,8 @@
   .side { display: flex; flex-direction: column; gap: 16px; }
   .side-note { font-size: 12px; color: var(--muted); margin: 0 0 -4px; }
   .side-block { border: 1px solid var(--border); border-radius: 10px; background: var(--panel); padding: 12px 14px; }
-  .side-block h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 2px 0 0; }
-  .side-block .hint { font-size: 12px; color: var(--muted); margin: 0 0 8px; }
+  .side-block h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 2px 0 8px; }
+  .side-block .hint { font-size: 12px; color: var(--muted); margin: -6px 0 8px; }
   .mini { width: 100%; border-collapse: collapse; }
   .mini tr { cursor: pointer; }
   .mini td { padding: 4px 8px; border-bottom: 1px solid var(--border); font-size: 13px; }
@@ -133,9 +135,8 @@
   <div class="layout">
     <main>
       <div class="controls">
-        <input id="q" type="search" placeholder="Search title…" autocomplete="off" spellcheck="false">
+        <input id="q" type="search" placeholder="Search title or release year…" autocomplete="off" spellcheck="false">
         <select id="platform"><option value="">All platforms</option></select>
-        <select id="year"><option value="">All years</option></select>
       </div>
       <div id="view"></div>
     </main>
@@ -143,14 +144,18 @@
     <aside class="side" id="side">
       <p class="side-note">Click to filter · ⌘/Ctrl-click to select several</p>
       <div class="side-block">
-        <h2>By year</h2>
-        <p class="hint">playthroughs</p>
+        <h2>By playthrough</h2>
         <div id="yearTable"></div>
       </div>
       <div class="side-block">
         <h2>By platform</h2>
         <p class="hint">distinct games</p>
         <div id="platformTable"></div>
+      </div>
+      <div class="side-block">
+        <h2>By release year</h2>
+        <p class="hint">distinct games</p>
+        <div id="releaseTable"></div>
       </div>
     </aside>
   </div>
@@ -161,14 +166,15 @@ const IGDB = "https://www.igdb.com/games/";
 let GAMES = [];
 let sortKey = "date", sortDir = -1;  // default: newest first
 let view = "cover";                  // "list" | "cover"; cover is the default
-const selYears = new Set();          // empty set = no filter (all)
+const selYears = new Set();          // empty set = no filter (all); completion years
 const selPlatforms = new Set();
-function setFor(kind) { return kind === "year" ? selYears : selPlatforms; }
+const selReleaseYears = new Set();
+const SETS = { year: selYears, platform: selPlatforms, release: selReleaseYears };
+function setFor(kind) { return SETS[kind]; }
 
 const els = {
   q: document.getElementById("q"),
   platform: document.getElementById("platform"),
-  year: document.getElementById("year"),
   view: document.getElementById("view"),
   count: document.getElementById("count"),
   side: document.getElementById("side"),
@@ -192,11 +198,9 @@ function platformIcon(p) {
     ` onerror="this.onerror=null;this.src='assets/platforms/_fallback.svg'">`;
 }
 
-function populateSelects() {
+function populatePlatformSelect() {
   const platforms = [...new Set(GAMES.map(g => g.platform))].sort((a, b) => a.localeCompare(b));
-  const years = sortYearsDesc([...new Set(GAMES.map(yearOf))]);
   for (const p of platforms) els.platform.add(new Option(p, p));
-  for (const y of years) els.year.add(new Option(y, y));
 }
 
 function miniTable(rows, max, kind, withIcon) {
@@ -228,6 +232,15 @@ function renderSummaries() {
   const pMax = Math.max(1, ...plats.map(p => platGames[p].size));
   document.getElementById("platformTable").innerHTML =
     miniTable(plats.map(p => [p, platGames[p].size, p]), pMax, "platform", true);
+
+  // By release year: distinct games, newest-released first. Release year is a property of the game, so a game beaten
+  // more than once still counts once.
+  const relGames = {};
+  for (const g of GAMES) { (relGames[g.releaseYear] ||= new Set()).add(g.igdb.id); }
+  const rels = Object.keys(relGames).sort((a, b) => Number(b) - Number(a));
+  const rMax = Math.max(1, ...rels.map(r => relGames[r].size));
+  document.getElementById("releaseTable").innerHTML =
+    miniTable(rels.map(r => [r, relGames[r].size, r]), rMax, "release");
 }
 
 function markActive() {
@@ -255,7 +268,8 @@ function filtered() {
   let rows = GAMES.filter(g =>
     (selPlatforms.size === 0 || selPlatforms.has(g.platform)) &&
     (selYears.size === 0 || selYears.has(yearOf(g))) &&
-    (!q || norm(g.name).includes(q))
+    (selReleaseYears.size === 0 || selReleaseYears.has(String(g.releaseYear))) &&
+    (!q || norm(g.name).includes(q) || String(g.releaseYear).includes(q))
   );
   const dir = sortDir;
   rows = rows.slice().sort((a, b) => {
@@ -265,6 +279,10 @@ function filtered() {
       if (!ad) return 1;   // undated entries always sort last, regardless of direction
       if (!bd) return -1;
       return ad < bd ? -dir : dir;
+    }
+    if (sortKey === "released") {
+      if (a.releaseYear !== b.releaseYear) return a.releaseYear < b.releaseYear ? -dir : dir;
+      return (a.date || "") < (b.date || "") ? 1 : -1;  // tie-break newest completed first
     }
     const av = norm(sortKey === "name" ? a.name : a.platform);
     const bv = norm(sortKey === "name" ? b.name : b.platform);
@@ -283,7 +301,6 @@ function render() {
     ? `<span class="badge">${GAMES.length}</span> playthroughs`
     : `<span class="badge">${rows.length}</span> of ${GAMES.length}`;
   syncSelect(els.platform, selPlatforms);
-  syncSelect(els.year, selYears);
   markActive();
 
   if (!rows.length) {
@@ -301,6 +318,7 @@ function renderList(rows) {
       : esc(g.name);
     return `<tr>
       <td class="name">${name}</td>
+      <td class="released">${g.releaseYear}</td>
       <td class="platform"><button data-p="${esc(g.platform)}">${platformIcon(g.platform)}${esc(g.platform)}</button></td>
       <td class="date">${g.date ? esc(g.date) : '<span class="unknown">Unknown</span>'}</td>
     </tr>`;
@@ -309,6 +327,7 @@ function renderList(rows) {
   els.view.innerHTML = `<table class="list">
     <thead><tr>
       <th data-k="name">Title ${arrow("name")}</th>
+      <th data-k="released">Released ${arrow("released")}</th>
       <th data-k="platform">Platform ${arrow("platform")}</th>
       <th data-k="date">Completed ${arrow("date")}</th>
     </tr></thead>
@@ -319,7 +338,7 @@ function renderList(rows) {
     th.onclick = () => {
       const k = th.dataset.k;
       if (sortKey === k) sortDir = -sortDir;
-      else { sortKey = k; sortDir = k === "date" ? -1 : 1; }
+      else { sortKey = k; sortDir = (k === "date" || k === "released") ? -1 : 1; }
       render();
     };
   });
@@ -334,10 +353,10 @@ function renderCovers(rows) {
     const cover = g.igdb ? `assets/covers/${g.igdb.id}.jpg` : "";
     // onerror removes a missing poster so the tinted .cover-thumb box shows instead.
     const inner = `<span class="cover-thumb"><img src="${cover}" alt="" loading="lazy" onerror="this.remove()"></span>` +
-      `<span class="cover-title">${esc(g.name)}</span>` +
+      `<span class="cover-title">${esc(g.name)} <span class="yr">(${g.releaseYear})</span></span>` +
       `<span class="cover-platform">${esc(g.platform)}</span>` +
       `<span class="cover-date${g.date ? "" : " unknown"}">${g.date ? esc(g.date) : "Unknown"}</span>`;
-    const attrs = `title="${esc(g.name)} — ${esc(g.platform)}"`;
+    const attrs = `title="${esc(g.name)} (${g.releaseYear}) — ${esc(g.platform)}"`;
     return url
       ? `<a class="cover-card" href="${url}" target="_blank" rel="noopener" ${attrs}>${inner}</a>`
       : `<span class="cover-card" ${attrs}>${inner}</span>`;
@@ -345,7 +364,7 @@ function renderCovers(rows) {
   els.view.innerHTML = `<div class="cover-grid">${cards}</div>`;
 }
 
-function resetFilters() { els.q.value = ""; selYears.clear(); selPlatforms.clear(); render(); }
+function resetFilters() { els.q.value = ""; selYears.clear(); selPlatforms.clear(); selReleaseYears.clear(); render(); }
 
 function selectFromDropdown(el, set) {
   const v = el.value;
@@ -367,7 +386,6 @@ document.getElementById("viewtoggle").addEventListener("click", e => {
 
 els.q.addEventListener("input", render);
 els.platform.addEventListener("change", () => selectFromDropdown(els.platform, selPlatforms));
-els.year.addEventListener("change", () => selectFromDropdown(els.year, selYears));
 
 // Click a summary row → single-select (toggles off if it's the only one). Ctrl/⌘-click → add/remove from the selection.
 els.side.addEventListener("click", e => {
@@ -389,12 +407,12 @@ try { if (localStorage.getItem("klarade-view") === "list") view = "list"; } catc
 document.querySelectorAll("#viewtoggle button").forEach(x => x.classList.toggle("active", x.dataset.view === view));
 
 // games.json stores one object per game (unique igdb identity) with a nested playthroughs array; the UI works on one
-// row per playthrough, so flatten each game's playthroughs into flat {name, igdb, date, platform} rows here.
+// row per playthrough, so flatten each game's playthroughs into flat {name, releaseYear, igdb, date, platform} rows here.
 function flattenPlaythroughs(games) {
   const rows = [];
   for (const game of games) {
     for (const pt of game.playthroughs || []) {
-      rows.push({ name: game.name, igdb: game.igdb, date: pt.date, platform: pt.platform });
+      rows.push({ name: game.name, releaseYear: game.releaseYear, igdb: game.igdb, date: pt.date, platform: pt.platform });
     }
   }
   return rows;
@@ -402,7 +420,7 @@ function flattenPlaythroughs(games) {
 
 fetch("games.json")
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => { GAMES = flattenPlaythroughs(data); populateSelects(); renderSummaries(); render(); })
+  .then(data => { GAMES = flattenPlaythroughs(data); populatePlatformSelect(); renderSummaries(); render(); })
   .catch(err => {
     els.view.innerHTML = `<div class="error">
       <p>Could not load <code>games.json</code> (${esc(String(err))}).</p>
