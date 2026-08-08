@@ -3100,14 +3100,14 @@
   {
     "name": "The Last Door",
     "igdb": {
-      "id": 235984,
-      "slug": "the-last-door--1"
+      "id": 9072,
+      "slug": "the-last-door"
     },
     "playthroughs": [
       {
         "date": "2020-04-08",
         "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2022
+        "releaseYear": 2014
       }
     ]
   },
