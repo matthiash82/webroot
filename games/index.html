@@ -196,6 +196,14 @@ function sortYearsDesc(years) {
   });
 }
 function norm(s) { return (s || "").toLowerCase(); }
+// Rows the primary sort key can't separate fall back to title, then platform — always ascending, either direction.
+function byNameThenPlatform(a, b) {
+  const an = norm(a.name), bn = norm(b.name);
+  if (an !== bn) return an < bn ? -1 : 1;
+  const ap = norm(a.platform), bp = norm(b.platform);
+  if (ap !== bp) return ap < bp ? -1 : 1;
+  return 0;
+}
 function esc(s) { return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 function slug(s) { return (s || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""); }
 function platformIcon(p) {
@@ -284,7 +292,7 @@ function filtered() {
   rows = rows.slice().sort((a, b) => {
     if (sortKey === "date") {
       const ad = a.date || "", bd = b.date || "";
-      if (ad === bd) return 0;
+      if (ad === bd) return byNameThenPlatform(a, b);   // same day, and the whole undated bucket, go by title
       if (!ad) return 1;   // undated entries always sort last, regardless of direction
       if (!bd) return -1;
       return ad < bd ? -dir : dir;
