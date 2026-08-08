@@ -9363,5 +9363,18 @@
         "releaseYear": 1997
       }
     ]
+  },
+  {
+    "name": "Dune II: The Building of a Dynasty",
+    "igdb": {
+      "id": 86,
+      "slug": "dune-ii-the-building-of-a-dynasty"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1992
+      }
+    ]
   }
 ]
