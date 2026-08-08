@@ -9376,5 +9376,18 @@
         "releaseYear": 1992
       }
     ]
+  },
+  {
+    "name": "Cannon Fodder",
+    "igdb": {
+      "id": 5519,
+      "slug": "cannon-fodder"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1993
+      }
+    ]
   }
 ]
