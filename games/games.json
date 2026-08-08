@@ -5240,288 +5240,54 @@
     ]
   },
   {
-    "name": "Links 386 Pro",
+    "name": "3D Pinball: Space Cadet",
     "igdb": {
-      "id": 22611,
-      "slug": "links-386-pro"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "Olympic Decathlon",
-    "igdb": {
-      "id": 78618,
-      "slug": "olympic-decathlon"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1982
-      }
-    ]
-  },
-  {
-    "name": "Doom",
-    "igdb": {
-      "id": 673,
-      "slug": "doom"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "SimCity 2000",
-    "igdb": {
-      "id": 330,
-      "slug": "simcity-2000"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "Samorost",
-    "igdb": {
-      "id": 15731,
-      "slug": "samorost"
+      "id": 79247,
+      "slug": "3d-pinball-space-cadet"
     },
     "playthroughs": [
       {
         "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2021
-      }
-    ]
-  },
-  {
-    "name": "Samorost 2",
-    "igdb": {
-      "id": 8621,
-      "slug": "samorost-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Mario Kart 64",
-    "igdb": {
-      "id": 2342,
-      "slug": "mario-kart-64"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 64",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Kanji Sono Mama Rakubiki Jiten",
-    "igdb": {
-      "id": 67029,
-      "slug": "kanji-sono-mama-rakubiki-jiten"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Quake III Arena",
-    "igdb": {
-      "id": 355,
-      "slug": "quake-iii-arena"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Worms",
-    "igdb": {
-      "id": 9331,
-      "slug": "worms"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
         "releaseYear": 1995
       }
     ]
   },
   {
-    "name": "Worms Armageddon",
+    "name": "Actual Sunlight",
     "igdb": {
-      "id": 948,
-      "slug": "worms-armageddon"
+      "id": 13230,
+      "slug": "actual-sunlight"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
+        "platform": "PlayStation Vita",
+        "releaseYear": 2015
       }
     ]
   },
   {
-    "name": "Tennis 2K2",
+    "name": "Alien: Isolation",
     "igdb": {
-      "id": 45843,
-      "slug": "tennis-2k2"
+      "id": 4754,
+      "slug": "alien-isolation"
     },
     "playthroughs": [
       {
-        "platform": "Dreamcast",
-        "releaseYear": 2001
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
       }
     ]
   },
   {
-    "name": "Warlords II",
+    "name": "Animal Crossing: Wild World",
     "igdb": {
-      "id": 50357,
-      "slug": "warlords-ii"
+      "id": 2645,
+      "slug": "animal-crossing-wild-world"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "Dungeons & Dragons: Shadow over Mystara",
-    "igdb": {
-      "id": 10253,
-      "slug": "dungeons-and-dragons-shadow-over-mystara"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Golden Axe",
-    "igdb": {
-      "id": 5565,
-      "slug": "golden-axe"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "Duck Hunt",
-    "igdb": {
-      "id": 2741,
-      "slug": "duck-hunt"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "Mario Bros.",
-    "igdb": {
-      "id": 172201,
-      "slug": "mario-bros--2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1986
-      }
-    ]
-  },
-  {
-    "name": "Popeye",
-    "igdb": {
-      "id": 229982,
-      "slug": "popeye--6"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1986
-      }
-    ]
-  },
-  {
-    "name": "Pro Wrestling",
-    "igdb": {
-      "id": 9512,
-      "slug": "pro-wrestling"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1987
-      }
-    ]
-  },
-  {
-    "name": "Donkey Kong",
-    "igdb": {
-      "id": 141959,
-      "slug": "donkey-kong--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1986
-      }
-    ]
-  },
-  {
-    "name": "Soccer",
-    "igdb": {
-      "id": 86375,
-      "slug": "soccer--2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "Kung Fu",
-    "igdb": {
-      "id": 214458,
-      "slug": "kung-fu"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
       }
     ]
   },
@@ -5552,977 +5318,15 @@
     ]
   },
   {
-    "name": "Ice Climber",
+    "name": "Bastion",
     "igdb": {
-      "id": 3666,
-      "slug": "ice-climber"
+      "id": 1983,
+      "slug": "bastion"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "Nintendo World Cup",
-    "igdb": {
-      "id": 10633,
-      "slug": "nintendo-world-cup"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1990
-      }
-    ]
-  },
-  {
-    "name": "Tennis",
-    "igdb": {
-      "id": 74548,
-      "slug": "tennis--3"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "We Love Katamari",
-    "igdb": {
-      "id": 6454,
-      "slug": "we-love-katamari"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Disney's Chip 'n Dale Rescue Rangers",
-    "igdb": {
-      "id": 6490,
-      "slug": "disneys-chip-n-dale-rescue-rangers--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1990
-      }
-    ]
-  },
-  {
-    "name": "Wave Race: Blue Storm",
-    "igdb": {
-      "id": 4232,
-      "slug": "wave-race-blue-storm"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Gears of War",
-    "igdb": {
-      "id": 547,
-      "slug": "gears-of-war"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Gears of War 2",
-    "igdb": {
-      "id": 548,
-      "slug": "gears-of-war-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Mirror's Edge",
-    "igdb": {
-      "id": 1051,
-      "slug": "mirror-s-edge"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Actual Sunlight",
-    "igdb": {
-      "id": 13230,
-      "slug": "actual-sunlight"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation Vita",
+        "platform": "PlayStation 4",
         "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "Ys III: Wanderers from Ys",
-    "igdb": {
-      "id": 201313,
-      "slug": "ys-iii-wanderers-from-ys--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Counter-Strike: Source",
-    "igdb": {
-      "id": 307,
-      "slug": "counter-strike-source"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Counter-Strike",
-    "igdb": {
-      "id": 241,
-      "slug": "counter-strike"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "Serious Sam: The First Encounter",
-    "igdb": {
-      "id": 857,
-      "slug": "serious-sam-the-first-encounter"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Team Fortress Classic",
-    "igdb": {
-      "id": 6359,
-      "slug": "team-fortress-classic"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Unreal Tournament",
-    "igdb": {
-      "id": 272,
-      "slug": "unreal-tournament"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "World of Warcraft",
-    "igdb": {
-      "id": 123,
-      "slug": "world-of-warcraft"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Year Walk",
-    "igdb": {
-      "id": 6171,
-      "slug": "year-walk"
-    },
-    "playthroughs": [
-      {
-        "platform": "iOS",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Carmageddon",
-    "igdb": {
-      "id": 626,
-      "slug": "carmageddon"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1997
-      }
-    ]
-  },
-  {
-    "name": "Carmageddon II: Carpocalypse Now",
-    "igdb": {
-      "id": 951,
-      "slug": "carmageddon-ii-carpocalypse-now"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1998
-      }
-    ]
-  },
-  {
-    "name": "Puzzle Quest: Challenge of the Warlords",
-    "igdb": {
-      "id": 2370,
-      "slug": "puzzle-quest-challenge-of-the-warlords"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Sid Meier's Civilization",
-    "igdb": {
-      "id": 902,
-      "slug": "sid-meiers-civilization"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1991
-      }
-    ]
-  },
-  {
-    "name": "Sid Meier's Civilization II",
-    "igdb": {
-      "id": 634,
-      "slug": "sid-meiers-civilization-ii"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Sid Meier's Civilization IV",
-    "igdb": {
-      "id": 293,
-      "slug": "sid-meier-s-civilization-iv"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Sid Meier's Civilization V",
-    "igdb": {
-      "id": 866,
-      "slug": "sid-meier-s-civilization-v"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2010
-      }
-    ]
-  },
-  {
-    "name": "Virtua Cop",
-    "igdb": {
-      "id": 6289,
-      "slug": "virtua-cop"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Warlords",
-    "igdb": {
-      "id": 69606,
-      "slug": "warlords--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "Final Fantasy Adventure",
-    "igdb": {
-      "id": 407,
-      "slug": "final-fantasy-adventure"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy",
-        "releaseYear": 1991
-      }
-    ]
-  },
-  {
-    "name": "Tetris",
-    "igdb": {
-      "id": 86490,
-      "slug": "tetris--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "E.T. the Extra-Terrestrial",
-    "igdb": {
-      "id": 6706,
-      "slug": "e-t-the-extra-terrestrial"
-    },
-    "playthroughs": [
-      {
-        "platform": "Atari 2600",
-        "releaseYear": 1982
-      }
-    ]
-  },
-  {
-    "name": "RalliSport Challenge 2",
-    "igdb": {
-      "id": 5997,
-      "slug": "rallisport-challenge-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Super Paper Mario",
-    "igdb": {
-      "id": 2191,
-      "slug": "super-paper-mario"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Street Fighter II",
-    "igdb": {
-      "id": 321621,
-      "slug": "street-fighter-ii--11"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "Command & Conquer",
-    "igdb": {
-      "id": 647,
-      "slug": "command-conquer"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Sam & Max: Beyond Time and Space",
-    "igdb": {
-      "id": 854,
-      "slug": "sam-max-beyond-time-and-space"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Sam & Max: Save the World",
-    "igdb": {
-      "id": 862,
-      "slug": "sam-max-save-the-world"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Sam & Max: The Devil's Playhouse",
-    "igdb": {
-      "id": 9534,
-      "slug": "sam-and-max-the-devils-playhouse"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2010
-      }
-    ]
-  },
-  {
-    "name": "Silver",
-    "igdb": {
-      "id": 7042,
-      "slug": "silver"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Soldier of Fortune",
-    "igdb": {
-      "id": 3111,
-      "slug": "soldier-of-fortune"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "The Typing of the Dead",
-    "igdb": {
-      "id": 11605,
-      "slug": "the-typing-of-the-dead"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "Virtua Cop 2",
-    "igdb": {
-      "id": 2470,
-      "slug": "virtua-cop-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1997
-      }
-    ]
-  },
-  {
-    "name": "Winter Games",
-    "igdb": {
-      "id": 281646,
-      "slug": "winter-games--11"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1986
-      }
-    ]
-  },
-  {
-    "name": "Animal Crossing: Wild World",
-    "igdb": {
-      "id": 2645,
-      "slug": "animal-crossing-wild-world"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Tetris DS",
-    "igdb": {
-      "id": 18599,
-      "slug": "tetris-ds"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Yoshi Touch & Go",
-    "igdb": {
-      "id": 18329,
-      "slug": "yoshi-touch-and-go"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Ikaruga",
-    "igdb": {
-      "id": 200996,
-      "slug": "ikaruga--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Power Stone",
-    "igdb": {
-      "id": 4355,
-      "slug": "power-stone"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Power Stone 2",
-    "igdb": {
-      "id": 13106,
-      "slug": "power-stone-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "The House of the Dead 2",
-    "igdb": {
-      "id": 13777,
-      "slug": "the-house-of-the-dead-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Virtua Tennis",
-    "igdb": {
-      "id": 6291,
-      "slug": "virtua-tennis"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "Jak and Daxter: The Precursor Legacy",
-    "igdb": {
-      "id": 1528,
-      "slug": "jak-and-daxter-the-precursor-legacy"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Ratchet & Clank: Going Commando",
-    "igdb": {
-      "id": 1770,
-      "slug": "ratchet-clank-going-commando"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Ratchet & Clank: Size Matters",
-    "igdb": {
-      "id": 1791,
-      "slug": "ratchet-clank-size-matters"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Ratchet & Clank: Up Your Arsenal",
-    "igdb": {
-      "id": 1773,
-      "slug": "ratchet-clank-up-your-arsenal"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "NHL 96",
-    "igdb": {
-      "id": 11650,
-      "slug": "nhl-96"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Nine Hours, Nine Persons, Nine Doors",
-    "igdb": {
-      "id": 9543,
-      "slug": "nine-hours-nine-persons-nine-doors"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug",
-    "igdb": {
-      "id": 1404,
-      "slug": "metal-slug"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Kingdom Hearts",
-    "igdb": {
-      "id": 1219,
-      "slug": "kingdom-hearts"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Portal",
-    "igdb": {
-      "id": 71,
-      "slug": "portal"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Sopwith",
-    "igdb": {
-      "id": 24424,
-      "slug": "sopwith"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1984
-      }
-    ]
-  },
-  {
-    "name": "New Super Mario Bros. U",
-    "igdb": {
-      "id": 2171,
-      "slug": "new-super-mario-bros-u"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2012
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: Skyward Sword",
-    "igdb": {
-      "id": 534,
-      "slug": "the-legend-of-zelda-skyward-sword"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Final Fantasy: Mystic Quest",
-    "igdb": {
-      "id": 415,
-      "slug": "final-fantasy-mystic-quest"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "Disney's Goof Troop",
-    "igdb": {
-      "id": 8163,
-      "slug": "disneys-goof-troop"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "The Blackwell Deception",
-    "igdb": {
-      "id": 9037,
-      "slug": "the-blackwell-deception"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Blackwell Unbound",
-    "igdb": {
-      "id": 9041,
-      "slug": "blackwell-unbound"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Secret Files 2: Puritas Cordis",
-    "igdb": {
-      "id": 5146,
-      "slug": "secret-files-2-puritas-cordis"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Secret Files: Tunguska",
-    "igdb": {
-      "id": 5145,
-      "slug": "secret-files-tunguska"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Tales of Monkey Island",
-    "igdb": {
-      "id": 64,
-      "slug": "tales-of-monkey-island"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "The Blackwell Convergence",
-    "igdb": {
-      "id": 9039,
-      "slug": "the-blackwell-convergence"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "The Blackwell Legacy",
-    "igdb": {
-      "id": 9043,
-      "slug": "the-blackwell-legacy"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Blades of Steel",
-    "igdb": {
-      "id": 280812,
-      "slug": "blades-of-steel--2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1988
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda",
-    "igdb": {
-      "id": 1022,
-      "slug": "the-legend-of-zelda"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1987
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: A Link to the Past & Four Swords",
-    "igdb": {
-      "id": 77336,
-      "slug": "the-legend-of-zelda-a-link-to-the-past-and-four-swords"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Bionic Commando Rearmed",
-    "igdb": {
-      "id": 15856,
-      "slug": "bionic-commando-rearmed"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
       }
     ]
   },
@@ -6566,6 +5370,45 @@
     ]
   },
   {
+    "name": "Beneath a Steel Sky",
+    "igdb": {
+      "id": 612,
+      "slug": "beneath-a-steel-sky"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
+    "name": "Beyond Good & Evil",
+    "igdb": {
+      "id": 1341,
+      "slug": "beyond-good-evil"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Bionic Commando Rearmed",
+    "igdb": {
+      "id": 15856,
+      "slug": "bionic-commando-rearmed"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
     "name": "BioShock Infinite",
     "igdb": {
       "id": 538,
@@ -6579,444 +5422,54 @@
     ]
   },
   {
-    "name": "Dead Space",
+    "name": "Blackwell Unbound",
     "igdb": {
-      "id": 37,
-      "slug": "dead-space"
+      "id": 9041,
+      "slug": "blackwell-unbound"
     },
     "playthroughs": [
       {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Dead Space 2",
-    "igdb": {
-      "id": 38,
-      "slug": "dead-space-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Fallout 3",
-    "igdb": {
-      "id": 15,
-      "slug": "fallout-3"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Prince of Persia",
-    "igdb": {
-      "id": 2438,
-      "slug": "prince-of-persia"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Red Dead Redemption",
-    "igdb": {
-      "id": 434,
-      "slug": "red-dead-redemption"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2010
-      }
-    ]
-  },
-  {
-    "name": "Resident Evil 5",
-    "igdb": {
-      "id": 847,
-      "slug": "resident-evil-5"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Burnout 3: Takedown",
-    "igdb": {
-      "id": 5761,
-      "slug": "burnout-3-takedown"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "I-Ninja",
-    "igdb": {
-      "id": 3951,
-      "slug": "i-ninja"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Prince of Persia: The Sands of Time",
-    "igdb": {
-      "id": 836,
-      "slug": "prince-of-persia-the-sands-of-time"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Captain Toad: Treasure Tracker",
-    "igdb": {
-      "id": 7337,
-      "slug": "captain-toad-treasure-tracker"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Mario Kart 8",
-    "igdb": {
-      "id": 2350,
-      "slug": "mario-kart-8"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "NES Remix",
-    "igdb": {
-      "id": 6401,
-      "slug": "nes-remix"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "NES Remix 2",
-    "igdb": {
-      "id": 6402,
-      "slug": "nes-remix-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Shovel Knight",
-    "igdb": {
-      "id": 7444,
-      "slug": "shovel-knight"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Super Mario 3D World",
-    "igdb": {
-      "id": 2180,
-      "slug": "super-mario-3d-world"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Super Smash Bros. for Wii U",
-    "igdb": {
-      "id": 9602,
-      "slug": "super-smash-bros-for-wii-u"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii U",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Metroid: Other M",
-    "igdb": {
-      "id": 1113,
-      "slug": "metroid-other-m"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii",
-        "releaseYear": 2010
-      }
-    ]
-  },
-  {
-    "name": "New Super Mario Bros. Wii",
-    "igdb": {
-      "id": 2178,
-      "slug": "new-super-mario-bros-wii"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Super Mario Galaxy",
-    "igdb": {
-      "id": 1077,
-      "slug": "super-mario-galaxy"
-    },
-    "playthroughs": [
-      {
-        "platform": "Wii",
+        "platform": "PC (Microsoft Windows)",
         "releaseYear": 2007
       }
     ]
   },
   {
-    "name": "Super Mario Galaxy 2",
+    "name": "Blades of Steel",
     "igdb": {
-      "id": 1078,
-      "slug": "super-mario-galaxy-2"
+      "id": 280812,
+      "slug": "blades-of-steel--2"
     },
     "playthroughs": [
       {
-        "platform": "Wii",
-        "releaseYear": 2010
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
       }
     ]
   },
   {
-    "name": "Super Smash Bros. Brawl",
+    "name": "Blood",
     "igdb": {
-      "id": 1628,
-      "slug": "super-smash-bros-brawl"
+      "id": 7644,
+      "slug": "blood"
     },
     "playthroughs": [
       {
-        "platform": "Wii",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Chrono Trigger",
-    "igdb": {
-      "id": 1802,
-      "slug": "chrono-trigger"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Final Fantasy II",
-    "igdb": {
-      "id": 387,
-      "slug": "final-fantasy-ii"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1991
-      }
-    ]
-  },
-  {
-    "name": "Final Fantasy III",
-    "igdb": {
-      "id": 426,
-      "slug": "final-fantasy-iii--7"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1994
-      }
-    ]
-  },
-  {
-    "name": "Super Bomberman",
-    "igdb": {
-      "id": 3450,
-      "slug": "super-bomberman"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "Super Mario All-Stars",
-    "igdb": {
-      "id": 5199,
-      "slug": "super-mario-all-stars"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "Super Mario World",
-    "igdb": {
-      "id": 1070,
-      "slug": "super-mario-world"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1991
-      }
-    ]
-  },
-  {
-    "name": "Super Mario World 2: Yoshi's Island",
-    "igdb": {
-      "id": 1073,
-      "slug": "super-mario-world-2-yoshi-s-island"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Super Soccer",
-    "igdb": {
-      "id": 77457,
-      "slug": "super-soccer--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
-    "igdb": {
-      "id": 14697,
-      "slug": "teenage-mutant-ninja-turtles-iv-turtles-in-time"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: A Link to the Past",
-    "igdb": {
-      "id": 1026,
-      "slug": "the-legend-of-zelda-a-link-to-the-past"
-    },
-    "playthroughs": [
-      {
-        "platform": "Super Nintendo Entertainment System",
-        "releaseYear": 1992
-      }
-    ]
-  },
-  {
-    "name": "BS Zelda no Densetsu: Inishie no Sekiban",
-    "igdb": {
-      "id": 42308,
-      "slug": "bs-zelda-no-densetsu-inishie-no-sekiban"
-    },
-    "playthroughs": [
-      {
-        "platform": "Satellaview",
+        "platform": "DOS",
         "releaseYear": 1997
       }
     ]
   },
   {
-    "name": "Alien: Isolation",
+    "name": "Bolo",
     "igdb": {
-      "id": 4754,
-      "slug": "alien-isolation"
+      "id": 95468,
+      "slug": "bolo--1"
     },
     "playthroughs": [
       {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Bastion",
-    "igdb": {
-      "id": 1983,
-      "slug": "bastion"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
+        "platform": "Mac",
+        "releaseYear": 1987
       }
     ]
   },
@@ -7034,379 +5487,54 @@
     ]
   },
   {
-    "name": "Grim Fandango Remastered",
+    "name": "BS Zelda no Densetsu: Inishie no Sekiban",
     "igdb": {
-      "id": 8682,
-      "slug": "grim-fandango-remastered"
+      "id": 42308,
+      "slug": "bs-zelda-no-densetsu-inishie-no-sekiban"
     },
     "playthroughs": [
       {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "Hotline Miami",
-    "igdb": {
-      "id": 1384,
-      "slug": "hotline-miami"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Hotline Miami 2: Wrong Number",
-    "igdb": {
-      "id": 2126,
-      "slug": "hotline-miami-2-wrong-number"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "The Binding of Isaac: Rebirth",
-    "igdb": {
-      "id": 7789,
-      "slug": "the-binding-of-isaac-rebirth"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "The Order: 1886",
-    "igdb": {
-      "id": 3048,
-      "slug": "the-order-1886"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "The Walking Dead: Season Two",
-    "igdb": {
-      "id": 3097,
-      "slug": "the-walking-dead-season-two"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "The Witcher 3: Wild Hunt",
-    "igdb": {
-      "id": 1942,
-      "slug": "the-witcher-3-wild-hunt"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "Watch Dogs",
-    "igdb": {
-      "id": 1121,
-      "slug": "watch-dogs"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Wolfenstein: The Old Blood",
-    "igdb": {
-      "id": 9192,
-      "slug": "wolfenstein-the-old-blood"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2015
-      }
-    ]
-  },
-  {
-    "name": "The Last of Us Remastered",
-    "igdb": {
-      "id": 6036,
-      "slug": "the-last-of-us-remastered"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 4",
-        "releaseYear": 2014
-      }
-    ]
-  },
-  {
-    "name": "Grand Theft Auto V",
-    "igdb": {
-      "id": 1020,
-      "slug": "grand-theft-auto-v"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Journey",
-    "igdb": {
-      "id": 1352,
-      "slug": "journey"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2012
-      }
-    ]
-  },
-  {
-    "name": "The Last of Us",
-    "igdb": {
-      "id": 1009,
-      "slug": "the-last-of-us"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Tomb Raider",
-    "igdb": {
-      "id": 912,
-      "slug": "tomb-raider"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Uncharted 2: Among Thieves",
-    "igdb": {
-      "id": 565,
-      "slug": "uncharted-2-among-thieves"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Uncharted 3: Drake's Deception",
-    "igdb": {
-      "id": 512,
-      "slug": "uncharted-3-drake-s-deception"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Uncharted: Drake's Fortune",
-    "igdb": {
-      "id": 431,
-      "slug": "uncharted-drake-s-fortune"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 3",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Katamari Damacy",
-    "igdb": {
-      "id": 6453,
-      "slug": "katamari-damacy"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Lament of Innocence",
-    "igdb": {
-      "id": 1135,
-      "slug": "castlevania-lament-of-innocence"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "God of War",
-    "igdb": {
-      "id": 549,
-      "slug": "god-of-war"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Ico",
-    "igdb": {
-      "id": 7170,
-      "slug": "ico"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Jak 3",
-    "igdb": {
-      "id": 1530,
-      "slug": "jak-3"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Maximo vs. Army of Zin",
-    "igdb": {
-      "id": 43642,
-      "slug": "maximo-vs-army-of-zin"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Ōkami",
-    "igdb": {
-      "id": 1271,
-      "slug": "okami"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Ratchet & Clank",
-    "igdb": {
-      "id": 1289,
-      "slug": "ratchet-clank"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Shadow of the Colossus",
-    "igdb": {
-      "id": 2207,
-      "slug": "shadow-of-the-colossus"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation 2",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Symphony of the Night",
-    "igdb": {
-      "id": 1128,
-      "slug": "castlevania-symphony-of-the-night"
-    },
-    "playthroughs": [
-      {
-        "platform": "PlayStation",
+        "platform": "Satellaview",
         "releaseYear": 1997
       }
     ]
   },
   {
-    "name": "Crash Bandicoot",
+    "name": "Bubble Bobble",
     "igdb": {
-      "id": 1185,
-      "slug": "crash-bandicoot"
+      "id": 194444,
+      "slug": "bubble-bobble--3"
     },
     "playthroughs": [
       {
-        "platform": "PlayStation",
-        "releaseYear": 1996
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
       }
     ]
   },
   {
-    "name": "Beneath a Steel Sky",
+    "name": "Burnout 3: Takedown",
     "igdb": {
-      "id": 612,
-      "slug": "beneath-a-steel-sky"
+      "id": 5761,
+      "slug": "burnout-3-takedown"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1994
+        "platform": "Xbox",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Cadillacs and Dinosaurs",
+    "igdb": {
+      "id": 5368,
+      "slug": "cadillacs-and-dinosaurs"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1993
       }
     ]
   },
@@ -7424,6 +5552,175 @@
     ]
   },
   {
+    "name": "Cannon Fodder",
+    "igdb": {
+      "id": 5519,
+      "slug": "cannon-fodder"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1993
+      }
+    ]
+  },
+  {
+    "name": "Captain Toad: Treasure Tracker",
+    "igdb": {
+      "id": 7337,
+      "slug": "captain-toad-treasure-tracker"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Carmageddon",
+    "igdb": {
+      "id": 626,
+      "slug": "carmageddon"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1997
+      }
+    ]
+  },
+  {
+    "name": "Carmageddon II: Carpocalypse Now",
+    "igdb": {
+      "id": 951,
+      "slug": "carmageddon-ii-carpocalypse-now"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1998
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Aria of Sorrow",
+    "igdb": {
+      "id": 1134,
+      "slug": "castlevania-aria-of-sorrow"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Circle of the Moon",
+    "igdb": {
+      "id": 1132,
+      "slug": "castlevania-circle-of-the-moon"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Harmony of Dissonance",
+    "igdb": {
+      "id": 1133,
+      "slug": "castlevania-harmony-of-dissonance"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Lament of Innocence",
+    "igdb": {
+      "id": 1135,
+      "slug": "castlevania-lament-of-innocence"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Order of Ecclesia",
+    "igdb": {
+      "id": 1141,
+      "slug": "castlevania-order-of-ecclesia"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Portrait of Ruin",
+    "igdb": {
+      "id": 1138,
+      "slug": "castlevania-portrait-of-ruin"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Castlevania: Symphony of the Night",
+    "igdb": {
+      "id": 1128,
+      "slug": "castlevania-symphony-of-the-night"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation",
+        "releaseYear": 1997
+      }
+    ]
+  },
+  {
+    "name": "Chrono Trigger",
+    "igdb": {
+      "id": 1802,
+      "slug": "chrono-trigger"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "Command & Conquer",
+    "igdb": {
+      "id": 647,
+      "slug": "command-conquer"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
     "name": "Command & Conquer: Red Alert",
     "igdb": {
       "id": 295,
@@ -7432,6 +5729,58 @@
     "playthroughs": [
       {
         "platform": "DOS",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Contra",
+    "igdb": {
+      "id": 186207,
+      "slug": "contra--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
+      }
+    ]
+  },
+  {
+    "name": "Counter-Strike",
+    "igdb": {
+      "id": 241,
+      "slug": "counter-strike"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Counter-Strike: Source",
+    "igdb": {
+      "id": 307,
+      "slug": "counter-strike-source"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Crash Bandicoot",
+    "igdb": {
+      "id": 1185,
+      "slug": "crash-bandicoot"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation",
         "releaseYear": 1996
       }
     ]
@@ -7458,6 +5807,32 @@
     "playthroughs": [
       {
         "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "Dead Space",
+    "igdb": {
+      "id": 37,
+      "slug": "dead-space"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Dead Space 2",
+    "igdb": {
+      "id": 38,
+      "slug": "dead-space-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
         "releaseYear": 2011
       }
     ]
@@ -7502,6 +5877,97 @@
     ]
   },
   {
+    "name": "Dink Smallwood",
+    "igdb": {
+      "id": 11345,
+      "slug": "dink-smallwood"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1998
+      }
+    ]
+  },
+  {
+    "name": "Disney's Chip 'n Dale Rescue Rangers",
+    "igdb": {
+      "id": 6490,
+      "slug": "disneys-chip-n-dale-rescue-rangers--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Disney's DuckTales",
+    "igdb": {
+      "id": 6487,
+      "slug": "disneys-ducktales--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Disney's Goof Troop",
+    "igdb": {
+      "id": 8163,
+      "slug": "disneys-goof-troop"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1993
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong",
+    "igdb": {
+      "id": 141959,
+      "slug": "donkey-kong--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1986
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong Hockey",
+    "igdb": {
+      "id": 131899,
+      "slug": "donkey-kong-hockey"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game & Watch",
+        "releaseYear": 1984
+      }
+    ]
+  },
+  {
+    "name": "Doom",
+    "igdb": {
+      "id": 673,
+      "slug": "doom"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1993
+      }
+    ]
+  },
+  {
     "name": "Doom II: Hell on Earth",
     "igdb": {
       "id": 312,
@@ -7528,6 +5994,19 @@
     ]
   },
   {
+    "name": "Duck Hunt",
+    "igdb": {
+      "id": 2741,
+      "slug": "duck-hunt"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
     "name": "Duke Nukem 3D",
     "igdb": {
       "id": 342,
@@ -7537,6 +6016,97 @@
       {
         "platform": "DOS",
         "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Dune II: The Building of a Dynasty",
+    "igdb": {
+      "id": 86,
+      "slug": "dune-ii-the-building-of-a-dynasty"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
+    "name": "Dungeons & Dragons: Shadow over Mystara",
+    "igdb": {
+      "id": 10253,
+      "slug": "dungeons-and-dragons-shadow-over-mystara"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "igdb": {
+      "id": 6706,
+      "slug": "e-t-the-extra-terrestrial"
+    },
+    "playthroughs": [
+      {
+        "platform": "Atari 2600",
+        "releaseYear": 1982
+      }
+    ]
+  },
+  {
+    "name": "Excitebike",
+    "igdb": {
+      "id": 4600,
+      "slug": "excitebike"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
+    "name": "F-Zero",
+    "igdb": {
+      "id": 3490,
+      "slug": "f-zero"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
+    "name": "F-Zero GX",
+    "igdb": {
+      "id": 3492,
+      "slug": "f-zero-gx"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Fallout 3",
+    "igdb": {
+      "id": 15,
+      "slug": "fallout-3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
       }
     ]
   },
@@ -7567,6 +6137,84 @@
     ]
   },
   {
+    "name": "Feel the Magic: XY/XX",
+    "igdb": {
+      "id": 18331,
+      "slug": "feel-the-magic-xy-slash-xx"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Final Fantasy Adventure",
+    "igdb": {
+      "id": 407,
+      "slug": "final-fantasy-adventure"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
+    "name": "Final Fantasy II",
+    "igdb": {
+      "id": 387,
+      "slug": "final-fantasy-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
+    "name": "Final Fantasy III",
+    "igdb": {
+      "id": 426,
+      "slug": "final-fantasy-iii--7"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
+    "name": "Final Fantasy: Mystic Quest",
+    "igdb": {
+      "id": 415,
+      "slug": "final-fantasy-mystic-quest"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
+    "name": "Final Fight",
+    "igdb": {
+      "id": 1655,
+      "slug": "final-fight"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
     "name": "Full Throttle",
     "igdb": {
       "id": 180,
@@ -7576,6 +6224,58 @@
       {
         "platform": "DOS",
         "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "Gears of War",
+    "igdb": {
+      "id": 547,
+      "slug": "gears-of-war"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Gears of War 2",
+    "igdb": {
+      "id": 548,
+      "slug": "gears-of-war-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "God of War",
+    "igdb": {
+      "id": 549,
+      "slug": "god-of-war"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Golden Axe",
+    "igdb": {
+      "id": 5565,
+      "slug": "golden-axe"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1989
       }
     ]
   },
@@ -7615,6 +6315,32 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "igdb": {
+      "id": 1020,
+      "slug": "grand-theft-auto-v"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "Grim Fandango Remastered",
+    "igdb": {
+      "id": 8682,
+      "slug": "grim-fandango-remastered"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2015
       }
     ]
   },
@@ -7710,6 +6436,97 @@
     ]
   },
   {
+    "name": "Hotline Miami",
+    "igdb": {
+      "id": 1384,
+      "slug": "hotline-miami"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Hotline Miami 2: Wrong Number",
+    "igdb": {
+      "id": 2126,
+      "slug": "hotline-miami-2-wrong-number"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2015
+      }
+    ]
+  },
+  {
+    "name": "I-Ninja",
+    "igdb": {
+      "id": 3951,
+      "slug": "i-ninja"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Ice Climber",
+    "igdb": {
+      "id": 3666,
+      "slug": "ice-climber"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
+    "name": "Ice Hockey",
+    "igdb": {
+      "id": 18532,
+      "slug": "ice-hockey"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
+      }
+    ]
+  },
+  {
+    "name": "Ico",
+    "igdb": {
+      "id": 7170,
+      "slug": "ico"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Ikaruga",
+    "igdb": {
+      "id": 200996,
+      "slug": "ikaruga--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
     "name": "Indiana Jones and the Fate of Atlantis",
     "igdb": {
       "id": 184,
@@ -7736,6 +6553,162 @@
     ]
   },
   {
+    "name": "Jak 3",
+    "igdb": {
+      "id": 1530,
+      "slug": "jak-3"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Jak and Daxter: The Precursor Legacy",
+    "igdb": {
+      "id": 1528,
+      "slug": "jak-and-daxter-the-precursor-legacy"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Journey",
+    "igdb": {
+      "id": 1352,
+      "slug": "journey"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2012
+      }
+    ]
+  },
+  {
+    "name": "Kanji Sono Mama Rakubiki Jiten",
+    "igdb": {
+      "id": 67029,
+      "slug": "kanji-sono-mama-rakubiki-jiten"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Katamari Damacy",
+    "igdb": {
+      "id": 6453,
+      "slug": "katamari-damacy"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Kid Icarus",
+    "igdb": {
+      "id": 3663,
+      "slug": "kid-icarus"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "Kingdom Hearts",
+    "igdb": {
+      "id": 1219,
+      "slug": "kingdom-hearts"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Kung Fu",
+    "igdb": {
+      "id": 214458,
+      "slug": "kung-fu"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
+    "name": "Liero",
+    "igdb": {
+      "id": 9078,
+      "slug": "liero"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1998
+      }
+    ]
+  },
+  {
+    "name": "Life Force",
+    "igdb": {
+      "id": 174945,
+      "slug": "life-force"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
+      }
+    ]
+  },
+  {
+    "name": "Limbo",
+    "igdb": {
+      "id": 1331,
+      "slug": "limbo"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Links 386 Pro",
+    "igdb": {
+      "id": 22611,
+      "slug": "links-386-pro"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
     "name": "Loom",
     "igdb": {
       "id": 191,
@@ -7745,6 +6718,45 @@
       {
         "platform": "DOS",
         "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Luigi's Mansion",
+    "igdb": {
+      "id": 90109,
+      "slug": "luigis-mansion"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2018
+      }
+    ]
+  },
+  {
+    "name": "Luigi's Mansion",
+    "igdb": {
+      "id": 2485,
+      "slug": "luigi-s-mansion"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Luigi's Mansion: Dark Moon",
+    "igdb": {
+      "id": 2476,
+      "slug": "luigi-s-mansion-dark-moon"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2013
       }
     ]
   },
@@ -7762,6 +6774,136 @@
     ]
   },
   {
+    "name": "Mario & Luigi: Bowser's Inside Story",
+    "igdb": {
+      "id": 3363,
+      "slug": "mario-luigi-bowser-s-inside-story"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Mario & Luigi: Partners in Time",
+    "igdb": {
+      "id": 3364,
+      "slug": "mario-luigi-partners-in-time"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Mario & Luigi: Superstar Saga",
+    "igdb": {
+      "id": 3351,
+      "slug": "mario-luigi-superstar-saga"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Mario Bros.",
+    "igdb": {
+      "id": 172201,
+      "slug": "mario-bros--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1986
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart 64",
+    "igdb": {
+      "id": 2342,
+      "slug": "mario-kart-64"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 64",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart 8",
+    "igdb": {
+      "id": 2350,
+      "slug": "mario-kart-8"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart 8 Deluxe",
+    "igdb": {
+      "id": 26764,
+      "slug": "mario-kart-8-deluxe"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Switch",
+        "releaseYear": 2017
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart DS",
+    "igdb": {
+      "id": 2345,
+      "slug": "mario-kart-ds"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Mario Kart: Double Dash!!",
+    "igdb": {
+      "id": 2344,
+      "slug": "mario-kart-double-dash"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Mario Party 4",
+    "igdb": {
+      "id": 2330,
+      "slug": "mario-party-4"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
     "name": "Mass Effect 2",
     "igdb": {
       "id": 74,
@@ -7771,6 +6913,123 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Maximo vs. Army of Zin",
+    "igdb": {
+      "id": 43642,
+      "slug": "maximo-vs-army-of-zin"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Mega Man 2",
+    "igdb": {
+      "id": 1715,
+      "slug": "mega-man-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug",
+    "igdb": {
+      "id": 1404,
+      "slug": "metal-slug"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug 2",
+    "igdb": {
+      "id": 1407,
+      "slug": "metal-slug-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1998
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug 3",
+    "igdb": {
+      "id": 1408,
+      "slug": "metal-slug-3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug 4",
+    "igdb": {
+      "id": 1409,
+      "slug": "metal-slug-4"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug 5",
+    "igdb": {
+      "id": 1410,
+      "slug": "metal-slug-5"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug 6",
+    "igdb": {
+      "id": 1411,
+      "slug": "metal-slug-6"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Metal Slug X",
+    "igdb": {
+      "id": 18840,
+      "slug": "metal-slug-x"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1999
       }
     ]
   },
@@ -7788,6 +7047,97 @@
     ]
   },
   {
+    "name": "Metroid",
+    "igdb": {
+      "id": 1101,
+      "slug": "metroid"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "Metroid Fusion",
+    "igdb": {
+      "id": 1104,
+      "slug": "metroid-fusion"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Metroid: Other M",
+    "igdb": {
+      "id": 1113,
+      "slug": "metroid-other-m"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii",
+        "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Metroid: Zero Mission",
+    "igdb": {
+      "id": 1107,
+      "slug": "metroid-zero-mission"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Minesweeper",
+    "igdb": {
+      "id": 5421,
+      "slug": "microsoft-minesweeper"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Solitaire",
+    "igdb": {
+      "id": 8177,
+      "slug": "microsoft-solitaire"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Mirror's Edge",
+    "igdb": {
+      "id": 1051,
+      "slug": "mirror-s-edge"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
     "name": "Need for Speed III: Hot Pursuit",
     "igdb": {
       "id": 92,
@@ -7801,15 +7151,132 @@
     ]
   },
   {
-    "name": "Puzzle Agent",
+    "name": "NES Remix",
     "igdb": {
-      "id": 15995,
-      "slug": "puzzle-agent"
+      "id": 6401,
+      "slug": "nes-remix"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2010
+        "platform": "Wii U",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "NES Remix 2",
+    "igdb": {
+      "id": 6402,
+      "slug": "nes-remix-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "New Super Mario Bros.",
+    "igdb": {
+      "id": 1076,
+      "slug": "new-super-mario-bros"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "New Super Mario Bros. U",
+    "igdb": {
+      "id": 2171,
+      "slug": "new-super-mario-bros-u"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2012
+      }
+    ]
+  },
+  {
+    "name": "New Super Mario Bros. Wii",
+    "igdb": {
+      "id": 2178,
+      "slug": "new-super-mario-bros-wii"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "NHL 96",
+    "igdb": {
+      "id": 11650,
+      "slug": "nhl-96"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "Nine Hours, Nine Persons, Nine Doors",
+    "igdb": {
+      "id": 9543,
+      "slug": "nine-hours-nine-persons-nine-doors"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Nintendo World Cup",
+    "igdb": {
+      "id": 10633,
+      "slug": "nintendo-world-cup"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "Olympic Decathlon",
+    "igdb": {
+      "id": 78618,
+      "slug": "olympic-decathlon"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1982
+      }
+    ]
+  },
+  {
+    "name": "Osu! Tatakae! Ouendan",
+    "igdb": {
+      "id": 24645,
+      "slug": "osu-tatakae-ouendan"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
       }
     ]
   },
@@ -7823,6 +7290,32 @@
       {
         "platform": "DOS",
         "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Paper Mario: The Thousand-Year Door",
+    "igdb": {
+      "id": 3349,
+      "slug": "paper-mario-the-thousand-year-door"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Pinball",
+    "igdb": {
+      "id": 86428,
+      "slug": "pinball--3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
       }
     ]
   },
@@ -7844,6 +7337,32 @@
     ]
   },
   {
+    "name": "Popeye",
+    "igdb": {
+      "id": 229982,
+      "slug": "popeye--6"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1986
+      }
+    ]
+  },
+  {
+    "name": "Portal",
+    "igdb": {
+      "id": 71,
+      "slug": "portal"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
     "name": "Portal 2",
     "igdb": {
       "id": 72,
@@ -7853,6 +7372,162 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "Power Stone",
+    "igdb": {
+      "id": 4355,
+      "slug": "power-stone"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "Power Stone 2",
+    "igdb": {
+      "id": 13106,
+      "slug": "power-stone-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Prince of Persia",
+    "igdb": {
+      "id": 2438,
+      "slug": "prince-of-persia"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Prince of Persia: The Sands of Time",
+    "igdb": {
+      "id": 836,
+      "slug": "prince-of-persia-the-sands-of-time"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Pro Wrestling",
+    "igdb": {
+      "id": 9512,
+      "slug": "pro-wrestling"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Azran Legacy",
+    "igdb": {
+      "id": 1403,
+      "slug": "professor-layton-and-the-azran-legacy"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Curious Village",
+    "igdb": {
+      "id": 1397,
+      "slug": "professor-layton-and-the-curious-village"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Diabolical Box",
+    "igdb": {
+      "id": 1398,
+      "slug": "professor-layton-and-the-diabolical-box"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Last Specter",
+    "igdb": {
+      "id": 1400,
+      "slug": "professor-layton-and-the-last-specter"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Miracle Mask",
+    "igdb": {
+      "id": 1401,
+      "slug": "professor-layton-and-the-miracle-mask"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "Professor Layton and the Unwound Future",
+    "igdb": {
+      "id": 1399,
+      "slug": "professor-layton-and-the-unwound-future"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Puzzle Agent",
+    "igdb": {
+      "id": 15995,
+      "slug": "puzzle-agent"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2010
       }
     ]
   },
@@ -7870,6 +7545,32 @@
     ]
   },
   {
+    "name": "Puzzle Quest: Challenge of the Warlords",
+    "igdb": {
+      "id": 2370,
+      "slug": "puzzle-quest-challenge-of-the-warlords"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Quake",
+    "igdb": {
+      "id": 333,
+      "slug": "quake"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
     "name": "Quake II",
     "igdb": {
       "id": 286,
@@ -7879,6 +7580,19 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 1997
+      }
+    ]
+  },
+  {
+    "name": "Quake III Arena",
+    "igdb": {
+      "id": 355,
+      "slug": "quake-iii-arena"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
       }
     ]
   },
@@ -7896,6 +7610,97 @@
     ]
   },
   {
+    "name": "RalliSport Challenge 2",
+    "igdb": {
+      "id": 5997,
+      "slug": "rallisport-challenge-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Ratchet & Clank",
+    "igdb": {
+      "id": 1289,
+      "slug": "ratchet-clank"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Ratchet & Clank: Going Commando",
+    "igdb": {
+      "id": 1770,
+      "slug": "ratchet-clank-going-commando"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2003
+      }
+    ]
+  },
+  {
+    "name": "Ratchet & Clank: Size Matters",
+    "igdb": {
+      "id": 1791,
+      "slug": "ratchet-clank-size-matters"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Ratchet & Clank: Up Your Arsenal",
+    "igdb": {
+      "id": 1773,
+      "slug": "ratchet-clank-up-your-arsenal"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Rayman 2: The Great Escape",
+    "igdb": {
+      "id": 193314,
+      "slug": "rayman-2-the-great-escape--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Red Dead Redemption",
+    "igdb": {
+      "id": 434,
+      "slug": "red-dead-redemption"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2010
+      }
+    ]
+  },
+  {
     "name": "Red Faction",
     "igdb": {
       "id": 6273,
@@ -7905,6 +7710,32 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Resident Evil 4",
+    "igdb": {
+      "id": 974,
+      "slug": "resident-evil-4"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Resident Evil 5",
+    "igdb": {
+      "id": 847,
+      "slug": "resident-evil-5"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2009
       }
     ]
   },
@@ -7922,6 +7753,19 @@
     ]
   },
   {
+    "name": "Rygar",
+    "igdb": {
+      "id": 28841,
+      "slug": "rygar--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
     "name": "Sam & Max Hit the Road",
     "igdb": {
       "id": 202,
@@ -7935,6 +7779,149 @@
     ]
   },
   {
+    "name": "Sam & Max: Beyond Time and Space",
+    "igdb": {
+      "id": 854,
+      "slug": "sam-max-beyond-time-and-space"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Sam & Max: Save the World",
+    "igdb": {
+      "id": 862,
+      "slug": "sam-max-save-the-world"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Sam & Max: The Devil's Playhouse",
+    "igdb": {
+      "id": 9534,
+      "slug": "sam-and-max-the-devils-playhouse"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Samorost",
+    "igdb": {
+      "id": 15731,
+      "slug": "samorost"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2021
+      }
+    ]
+  },
+  {
+    "name": "Samorost 2",
+    "igdb": {
+      "id": 8621,
+      "slug": "samorost-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Secret Files 2: Puritas Cordis",
+    "igdb": {
+      "id": 5146,
+      "slug": "secret-files-2-puritas-cordis"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Secret Files: Tunguska",
+    "igdb": {
+      "id": 5145,
+      "slug": "secret-files-tunguska"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Serious Sam: The First Encounter",
+    "igdb": {
+      "id": 857,
+      "slug": "serious-sam-the-first-encounter"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Shadow Complex",
+    "igdb": {
+      "id": 11328,
+      "slug": "shadow-complex"
+    },
+    "playthroughs": [
+      {
+        "platform": "Xbox 360",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Shadow of the Colossus",
+    "igdb": {
+      "id": 2207,
+      "slug": "shadow-of-the-colossus"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Shadow Warrior",
+    "igdb": {
+      "id": 2947,
+      "slug": "shadow-warrior"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1997
+      }
+    ]
+  },
+  {
     "name": "Shatter",
     "igdb": {
       "id": 13101,
@@ -7944,6 +7931,97 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Shovel Knight",
+    "igdb": {
+      "id": 7444,
+      "slug": "shovel-knight"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Sid Meier's Civilization",
+    "igdb": {
+      "id": 902,
+      "slug": "sid-meiers-civilization"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
+    "name": "Sid Meier's Civilization II",
+    "igdb": {
+      "id": 634,
+      "slug": "sid-meiers-civilization-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Sid Meier's Civilization IV",
+    "igdb": {
+      "id": 293,
+      "slug": "sid-meier-s-civilization-iv"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Sid Meier's Civilization V",
+    "igdb": {
+      "id": 866,
+      "slug": "sid-meier-s-civilization-v"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2010
+      }
+    ]
+  },
+  {
+    "name": "Silver",
+    "igdb": {
+      "id": 7042,
+      "slug": "silver"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "SimCity 2000",
+    "igdb": {
+      "id": 330,
+      "slug": "simcity-2000"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1993
       }
     ]
   },
@@ -7987,6 +8065,45 @@
     ]
   },
   {
+    "name": "Soccer",
+    "igdb": {
+      "id": 86375,
+      "slug": "soccer--2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
+    "name": "Soldier of Fortune",
+    "igdb": {
+      "id": 3111,
+      "slug": "soldier-of-fortune"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Sopwith",
+    "igdb": {
+      "id": 24424,
+      "slug": "sopwith"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1984
+      }
+    ]
+  },
+  {
     "name": "Spec Ops: The Line",
     "igdb": {
       "id": 1377,
@@ -7996,6 +8113,19 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2012
+      }
+    ]
+  },
+  {
+    "name": "Star Fox Adventures",
+    "igdb": {
+      "id": 2686,
+      "slug": "star-fox-adventures"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2002
       }
     ]
   },
@@ -8013,249 +8143,54 @@
     ]
   },
   {
-    "name": "Syberia",
+    "name": "Street Fighter II",
     "igdb": {
-      "id": 890,
-      "slug": "syberia"
+      "id": 321621,
+      "slug": "street-fighter-ii--11"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Syberia II",
-    "igdb": {
-      "id": 6185,
-      "slug": "syberia-ii"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Team Fortress 2",
-    "igdb": {
-      "id": 891,
-      "slug": "team-fortress-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "TechnoMage: Return of Eternity",
-    "igdb": {
-      "id": 44906,
-      "slug": "technomage-return-of-eternity"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "The Elder Scrolls V: Skyrim",
-    "igdb": {
-      "id": 472,
-      "slug": "the-elder-scrolls-v-skyrim"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "The Longest Journey",
-    "igdb": {
-      "id": 895,
-      "slug": "the-longest-journey"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "The Secret of Monkey Island",
-    "igdb": {
-      "id": 60,
-      "slug": "the-secret-of-monkey-island"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1990
-      }
-    ]
-  },
-  {
-    "name": "The Stanley Parable",
-    "igdb": {
-      "id": 3035,
-      "slug": "the-stanley-parable"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "The Walking Dead",
-    "igdb": {
-      "id": 1871,
-      "slug": "the-walking-dead"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2012
-      }
-    ]
-  },
-  {
-    "name": "The Witcher 2: Assassins of Kings",
-    "igdb": {
-      "id": 478,
-      "slug": "the-witcher-2-assassins-of-kings"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Torchlight",
-    "igdb": {
-      "id": 2480,
-      "slug": "torchlight"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Torchlight II",
-    "igdb": {
-      "id": 1337,
-      "slug": "torchlight-ii"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2012
-      }
-    ]
-  },
-  {
-    "name": "Warcraft II: Beyond the Dark Portal",
-    "igdb": {
-      "id": 131,
-      "slug": "warcraft-ii-beyond-the-dark-portal"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Warcraft II: Tides of Darkness",
-    "igdb": {
-      "id": 130,
-      "slug": "warcraft-ii-tides-of-darkness"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1995
-      }
-    ]
-  },
-  {
-    "name": "Wolfenstein 3D",
-    "igdb": {
-      "id": 262516,
-      "slug": "wolfenstein-3d--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
+        "platform": "Super Nintendo Entertainment System",
         "releaseYear": 1992
       }
     ]
   },
   {
-    "name": "Wolfenstein: The New Order",
+    "name": "Super Bomberman",
     "igdb": {
-      "id": 2031,
-      "slug": "wolfenstein-the-new-order"
+      "id": 3450,
+      "slug": "super-bomberman"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2014
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1993
       }
     ]
   },
   {
-    "name": "Ys Origin",
+    "name": "Super Mario 3D Land",
     "igdb": {
-      "id": 10949,
-      "slug": "ys-origin"
+      "id": 1079,
+      "slug": "super-mario-3d-land"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2006
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2011
       }
     ]
   },
   {
-    "name": "Ys: The Oath in Felghana",
+    "name": "Super Mario 3D World",
     "igdb": {
-      "id": 15455,
-      "slug": "ys-the-oath-in-felghana"
+      "id": 2180,
+      "slug": "super-mario-3d-world"
     },
     "playthroughs": [
       {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Zombie Driver",
-    "igdb": {
-      "id": 20668,
-      "slug": "zombie-driver"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 2009
+        "platform": "Wii U",
+        "releaseYear": 2013
       }
     ]
   },
@@ -8273,145 +8208,41 @@
     ]
   },
   {
-    "name": "Mario Kart 8 Deluxe",
+    "name": "Super Mario 64",
     "igdb": {
-      "id": 26764,
-      "slug": "mario-kart-8-deluxe"
+      "id": 1074,
+      "slug": "super-mario-64"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo Switch",
-        "releaseYear": 2017
+        "platform": "Nintendo 64",
+        "releaseYear": 1996
       }
     ]
   },
   {
-    "name": "Bubble Bobble",
+    "name": "Super Mario 64 DS",
     "igdb": {
-      "id": 194444,
-      "slug": "bubble-bobble--3"
+      "id": 22301,
+      "slug": "super-mario-64-ds"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1988
+        "platform": "Nintendo DS",
+        "releaseYear": 2004
       }
     ]
   },
   {
-    "name": "Contra",
+    "name": "Super Mario All-Stars",
     "igdb": {
-      "id": 186207,
-      "slug": "contra--1"
+      "id": 5199,
+      "slug": "super-mario-all-stars"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1988
-      }
-    ]
-  },
-  {
-    "name": "Disney's DuckTales",
-    "igdb": {
-      "id": 6487,
-      "slug": "disneys-ducktales--2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "Excitebike",
-    "igdb": {
-      "id": 4600,
-      "slug": "excitebike"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "Ice Hockey",
-    "igdb": {
-      "id": 18532,
-      "slug": "ice-hockey"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1988
-      }
-    ]
-  },
-  {
-    "name": "Kid Icarus",
-    "igdb": {
-      "id": 3663,
-      "slug": "kid-icarus"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1987
-      }
-    ]
-  },
-  {
-    "name": "Life Force",
-    "igdb": {
-      "id": 174945,
-      "slug": "life-force"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1988
-      }
-    ]
-  },
-  {
-    "name": "Mega Man 2",
-    "igdb": {
-      "id": 1715,
-      "slug": "mega-man-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "Metroid",
-    "igdb": {
-      "id": 1101,
-      "slug": "metroid"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1987
-      }
-    ]
-  },
-  {
-    "name": "Rygar",
-    "igdb": {
-      "id": 28841,
-      "slug": "rygar--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1987
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1993
       }
     ]
   },
@@ -8468,561 +8299,41 @@
     ]
   },
   {
-    "name": "Castlevania: Order of Ecclesia",
+    "name": "Super Mario Galaxy",
     "igdb": {
-      "id": 1141,
-      "slug": "castlevania-order-of-ecclesia"
+      "id": 1077,
+      "slug": "super-mario-galaxy"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo DS",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Portrait of Ruin",
-    "igdb": {
-      "id": 1138,
-      "slug": "castlevania-portrait-of-ruin"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Feel the Magic: XY/XX",
-    "igdb": {
-      "id": 18331,
-      "slug": "feel-the-magic-xy-slash-xx"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Mario & Luigi: Bowser's Inside Story",
-    "igdb": {
-      "id": 3363,
-      "slug": "mario-luigi-bowser-s-inside-story"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Mario & Luigi: Partners in Time",
-    "igdb": {
-      "id": 3364,
-      "slug": "mario-luigi-partners-in-time"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Mario Kart DS",
-    "igdb": {
-      "id": 2345,
-      "slug": "mario-kart-ds"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "New Super Mario Bros.",
-    "igdb": {
-      "id": 1076,
-      "slug": "new-super-mario-bros"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Osu! Tatakae! Ouendan",
-    "igdb": {
-      "id": 24645,
-      "slug": "osu-tatakae-ouendan"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Professor Layton and the Curious Village",
-    "igdb": {
-      "id": 1397,
-      "slug": "professor-layton-and-the-curious-village"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
+        "platform": "Wii",
         "releaseYear": 2007
       }
     ]
   },
   {
-    "name": "Professor Layton and the Diabolical Box",
+    "name": "Super Mario Galaxy 2",
     "igdb": {
-      "id": 1398,
-      "slug": "professor-layton-and-the-diabolical-box"
+      "id": 1078,
+      "slug": "super-mario-galaxy-2"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo DS",
-        "releaseYear": 2007
+        "platform": "Wii",
+        "releaseYear": 2010
       }
     ]
   },
   {
-    "name": "Professor Layton and the Last Specter",
+    "name": "Super Mario Kart",
     "igdb": {
-      "id": 1400,
-      "slug": "professor-layton-and-the-last-specter"
+      "id": 2332,
+      "slug": "super-mario-kart"
     },
     "playthroughs": [
       {
-        "platform": "Nintendo DS",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Professor Layton and the Unwound Future",
-    "igdb": {
-      "id": 1399,
-      "slug": "professor-layton-and-the-unwound-future"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2008
-      }
-    ]
-  },
-  {
-    "name": "Super Mario 64 DS",
-    "igdb": {
-      "id": 22301,
-      "slug": "super-mario-64-ds"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Super Princess Peach",
-    "igdb": {
-      "id": 20497,
-      "slug": "super-princess-peach"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: Phantom Hourglass",
-    "igdb": {
-      "id": 1037,
-      "slug": "the-legend-of-zelda-phantom-hourglass"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo DS",
-        "releaseYear": 2007
-      }
-    ]
-  },
-  {
-    "name": "Super Mario 64",
-    "igdb": {
-      "id": 1074,
-      "slug": "super-mario-64"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 64",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "Luigi's Mansion: Dark Moon",
-    "igdb": {
-      "id": 2476,
-      "slug": "luigi-s-mansion-dark-moon"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Professor Layton and the Azran Legacy",
-    "igdb": {
-      "id": 1403,
-      "slug": "professor-layton-and-the-azran-legacy"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Professor Layton and the Miracle Mask",
-    "igdb": {
-      "id": 1401,
-      "slug": "professor-layton-and-the-miracle-mask"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "Super Mario 3D Land",
-    "igdb": {
-      "id": 1079,
-      "slug": "super-mario-3d-land"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2011
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: A Link Between Worlds",
-    "igdb": {
-      "id": 2909,
-      "slug": "the-legend-of-zelda-a-link-between-worlds"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2013
-      }
-    ]
-  },
-  {
-    "name": "Luigi's Mansion",
-    "igdb": {
-      "id": 90109,
-      "slug": "luigis-mansion"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo 3DS",
-        "releaseYear": 2018
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug 4",
-    "igdb": {
-      "id": 1409,
-      "slug": "metal-slug-4"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug 5",
-    "igdb": {
-      "id": 1410,
-      "slug": "metal-slug-5"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: The Wind Waker",
-    "igdb": {
-      "id": 1033,
-      "slug": "the-legend-of-zelda-the-wind-waker"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Beyond Good & Evil",
-    "igdb": {
-      "id": 1341,
-      "slug": "beyond-good-evil"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "F-Zero GX",
-    "igdb": {
-      "id": 3492,
-      "slug": "f-zero-gx"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Luigi's Mansion",
-    "igdb": {
-      "id": 2485,
-      "slug": "luigi-s-mansion"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Mario Kart: Double Dash!!",
-    "igdb": {
-      "id": 2344,
-      "slug": "mario-kart-double-dash"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Paper Mario: The Thousand-Year Door",
-    "igdb": {
-      "id": 3349,
-      "slug": "paper-mario-the-thousand-year-door"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "Resident Evil 4",
-    "igdb": {
-      "id": 974,
-      "slug": "resident-evil-4"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2005
-      }
-    ]
-  },
-  {
-    "name": "Star Fox Adventures",
-    "igdb": {
-      "id": 2686,
-      "slug": "star-fox-adventures"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Super Mario Sunshine",
-    "igdb": {
-      "id": 1075,
-      "slug": "super-mario-sunshine"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Super Smash Bros. Melee",
-    "igdb": {
-      "id": 1627,
-      "slug": "super-smash-bros-melee"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: Twilight Princess",
-    "igdb": {
-      "id": 1036,
-      "slug": "the-legend-of-zelda-twilight-princess"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo GameCube",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Aria of Sorrow",
-    "igdb": {
-      "id": 1134,
-      "slug": "castlevania-aria-of-sorrow"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Circle of the Moon",
-    "igdb": {
-      "id": 1132,
-      "slug": "castlevania-circle-of-the-moon"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2001
-      }
-    ]
-  },
-  {
-    "name": "Castlevania: Harmony of Dissonance",
-    "igdb": {
-      "id": 1133,
-      "slug": "castlevania-harmony-of-dissonance"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Mario & Luigi: Superstar Saga",
-    "igdb": {
-      "id": 3351,
-      "slug": "mario-luigi-superstar-saga"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2003
-      }
-    ]
-  },
-  {
-    "name": "Metroid Fusion",
-    "igdb": {
-      "id": 1104,
-      "slug": "metroid-fusion"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2002
-      }
-    ]
-  },
-  {
-    "name": "Metroid: Zero Mission",
-    "igdb": {
-      "id": 1107,
-      "slug": "metroid-zero-mission"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "The Legend of Zelda: The Minish Cap",
-    "igdb": {
-      "id": 1035,
-      "slug": "the-legend-of-zelda-the-minish-cap"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2004
-      }
-    ]
-  },
-  {
-    "name": "WarioWare: Twisted!",
-    "igdb": {
-      "id": 1704,
-      "slug": "warioware-twisted"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game Boy Advance",
-        "releaseYear": 2004
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1992
       }
     ]
   },
@@ -9053,101 +8364,10 @@
     ]
   },
   {
-    "name": "Rayman 2: The Great Escape",
+    "name": "Super Mario Sunshine",
     "igdb": {
-      "id": 193314,
-      "slug": "rayman-2-the-great-escape--2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Dreamcast",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "Cadillacs and Dinosaurs",
-    "igdb": {
-      "id": 5368,
-      "slug": "cadillacs-and-dinosaurs"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1993
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug 2",
-    "igdb": {
-      "id": 1407,
-      "slug": "metal-slug-2"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1998
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug 3",
-    "igdb": {
-      "id": 1408,
-      "slug": "metal-slug-3"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 2000
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug 6",
-    "igdb": {
-      "id": 1411,
-      "slug": "metal-slug-6"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 2006
-      }
-    ]
-  },
-  {
-    "name": "Metal Slug X",
-    "igdb": {
-      "id": 18840,
-      "slug": "metal-slug-x"
-    },
-    "playthroughs": [
-      {
-        "platform": "Arcade",
-        "releaseYear": 1999
-      }
-    ]
-  },
-  {
-    "name": "Bolo",
-    "igdb": {
-      "id": 95468,
-      "slug": "bolo--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Mac",
-        "releaseYear": 1987
-      }
-    ]
-  },
-  {
-    "name": "Mario Party 4",
-    "igdb": {
-      "id": 2330,
-      "slug": "mario-party-4"
+      "id": 1075,
+      "slug": "super-mario-sunshine"
     },
     "playthroughs": [
       {
@@ -9157,62 +8377,10 @@
     ]
   },
   {
-    "name": "Limbo",
+    "name": "Super Mario World",
     "igdb": {
-      "id": 1331,
-      "slug": "limbo"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2010
-      }
-    ]
-  },
-  {
-    "name": "Shadow Complex",
-    "igdb": {
-      "id": 11328,
-      "slug": "shadow-complex"
-    },
-    "playthroughs": [
-      {
-        "platform": "Xbox 360",
-        "releaseYear": 2009
-      }
-    ]
-  },
-  {
-    "name": "Dink Smallwood",
-    "igdb": {
-      "id": 11345,
-      "slug": "dink-smallwood"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1998
-      }
-    ]
-  },
-  {
-    "name": "Quake",
-    "igdb": {
-      "id": 333,
-      "slug": "quake"
-    },
-    "playthroughs": [
-      {
-        "platform": "DOS",
-        "releaseYear": 1996
-      }
-    ]
-  },
-  {
-    "name": "F-Zero",
-    "igdb": {
-      "id": 3490,
-      "slug": "f-zero"
+      "id": 1070,
+      "slug": "super-mario-world"
     },
     "playthroughs": [
       {
@@ -9222,10 +8390,88 @@
     ]
   },
   {
-    "name": "Super Mario Kart",
+    "name": "Super Mario World 2: Yoshi's Island",
     "igdb": {
-      "id": 2332,
-      "slug": "super-mario-kart"
+      "id": 1073,
+      "slug": "super-mario-world-2-yoshi-s-island"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "Super Paper Mario",
+    "igdb": {
+      "id": 2191,
+      "slug": "super-paper-mario"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Super Princess Peach",
+    "igdb": {
+      "id": 20497,
+      "slug": "super-princess-peach"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Super Smash Bros. Brawl",
+    "igdb": {
+      "id": 1628,
+      "slug": "super-smash-bros-brawl"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii",
+        "releaseYear": 2008
+      }
+    ]
+  },
+  {
+    "name": "Super Smash Bros. for Wii U",
+    "igdb": {
+      "id": 9602,
+      "slug": "super-smash-bros-for-wii-u"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii U",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Super Smash Bros. Melee",
+    "igdb": {
+      "id": 1627,
+      "slug": "super-smash-bros-melee"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Super Soccer",
+    "igdb": {
+      "id": 77457,
+      "slug": "super-soccer--1"
     },
     "playthroughs": [
       {
@@ -9235,15 +8481,574 @@
     ]
   },
   {
-    "name": "Final Fight",
+    "name": "Syberia",
     "igdb": {
-      "id": 1655,
-      "slug": "final-fight"
+      "id": 890,
+      "slug": "syberia"
     },
     "playthroughs": [
       {
-        "platform": "Arcade",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "Syberia II",
+    "igdb": {
+      "id": 6185,
+      "slug": "syberia-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Tales of Monkey Island",
+    "igdb": {
+      "id": 64,
+      "slug": "tales-of-monkey-island"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Team Fortress 2",
+    "igdb": {
+      "id": 891,
+      "slug": "team-fortress-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Team Fortress Classic",
+    "igdb": {
+      "id": 6359,
+      "slug": "team-fortress-classic"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "TechnoMage: Return of Eternity",
+    "igdb": {
+      "id": 44906,
+      "slug": "technomage-return-of-eternity"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+    "igdb": {
+      "id": 14697,
+      "slug": "teenage-mutant-ninja-turtles-iv-turtles-in-time"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
+    "name": "Tennis",
+    "igdb": {
+      "id": 74548,
+      "slug": "tennis--3"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
+    "name": "Tennis 2K2",
+    "igdb": {
+      "id": 45843,
+      "slug": "tennis-2k2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "Tetris",
+    "igdb": {
+      "id": 86490,
+      "slug": "tetris--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy",
         "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Tetris DS",
+    "igdb": {
+      "id": 18599,
+      "slug": "tetris-ds"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "The Binding of Isaac: Rebirth",
+    "igdb": {
+      "id": 7789,
+      "slug": "the-binding-of-isaac-rebirth"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "The Blackwell Convergence",
+    "igdb": {
+      "id": 9039,
+      "slug": "the-blackwell-convergence"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "The Blackwell Deception",
+    "igdb": {
+      "id": 9037,
+      "slug": "the-blackwell-deception"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "The Blackwell Legacy",
+    "igdb": {
+      "id": 9043,
+      "slug": "the-blackwell-legacy"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "igdb": {
+      "id": 472,
+      "slug": "the-elder-scrolls-v-skyrim"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "The House of the Dead 2",
+    "igdb": {
+      "id": 13777,
+      "slug": "the-house-of-the-dead-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "The Last of Us",
+    "igdb": {
+      "id": 1009,
+      "slug": "the-last-of-us"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "The Last of Us Remastered",
+    "igdb": {
+      "id": 6036,
+      "slug": "the-last-of-us-remastered"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda",
+    "igdb": {
+      "id": 1022,
+      "slug": "the-legend-of-zelda"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: A Link Between Worlds",
+    "igdb": {
+      "id": 2909,
+      "slug": "the-legend-of-zelda-a-link-between-worlds"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo 3DS",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: A Link to the Past",
+    "igdb": {
+      "id": 1026,
+      "slug": "the-legend-of-zelda-a-link-to-the-past"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "igdb": {
+      "id": 77336,
+      "slug": "the-legend-of-zelda-a-link-to-the-past-and-four-swords"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Phantom Hourglass",
+    "igdb": {
+      "id": 1037,
+      "slug": "the-legend-of-zelda-phantom-hourglass"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo DS",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Skyward Sword",
+    "igdb": {
+      "id": 534,
+      "slug": "the-legend-of-zelda-skyward-sword"
+    },
+    "playthroughs": [
+      {
+        "platform": "Wii",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: The Minish Cap",
+    "igdb": {
+      "id": 1035,
+      "slug": "the-legend-of-zelda-the-minish-cap"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: The Wind Waker",
+    "igdb": {
+      "id": 1033,
+      "slug": "the-legend-of-zelda-the-wind-waker"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2002
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "igdb": {
+      "id": 1036,
+      "slug": "the-legend-of-zelda-twilight-princess"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "The Longest Journey",
+    "igdb": {
+      "id": 895,
+      "slug": "the-longest-journey"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "The Order: 1886",
+    "igdb": {
+      "id": 3048,
+      "slug": "the-order-1886"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2015
+      }
+    ]
+  },
+  {
+    "name": "The Secret of Monkey Island",
+    "igdb": {
+      "id": 60,
+      "slug": "the-secret-of-monkey-island"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1990
+      }
+    ]
+  },
+  {
+    "name": "The Stanley Parable",
+    "igdb": {
+      "id": 3035,
+      "slug": "the-stanley-parable"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "The Typing of the Dead",
+    "igdb": {
+      "id": 11605,
+      "slug": "the-typing-of-the-dead"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "The Walking Dead",
+    "igdb": {
+      "id": 1871,
+      "slug": "the-walking-dead"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2012
+      }
+    ]
+  },
+  {
+    "name": "The Walking Dead: Season Two",
+    "igdb": {
+      "id": 3097,
+      "slug": "the-walking-dead-season-two"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "The Witcher 2: Assassins of Kings",
+    "igdb": {
+      "id": 478,
+      "slug": "the-witcher-2-assassins-of-kings"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt",
+    "igdb": {
+      "id": 1942,
+      "slug": "the-witcher-3-wild-hunt"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2015
+      }
+    ]
+  },
+  {
+    "name": "Tomb Raider",
+    "igdb": {
+      "id": 912,
+      "slug": "tomb-raider"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Torchlight",
+    "igdb": {
+      "id": 2480,
+      "slug": "torchlight"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Torchlight II",
+    "igdb": {
+      "id": 1337,
+      "slug": "torchlight-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2012
+      }
+    ]
+  },
+  {
+    "name": "Uncharted 2: Among Thieves",
+    "igdb": {
+      "id": 565,
+      "slug": "uncharted-2-among-thieves"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Uncharted 3: Drake's Deception",
+    "igdb": {
+      "id": 512,
+      "slug": "uncharted-3-drake-s-deception"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "Uncharted: Drake's Fortune",
+    "igdb": {
+      "id": 431,
+      "slug": "uncharted-drake-s-fortune"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 3",
+        "releaseYear": 2007
+      }
+    ]
+  },
+  {
+    "name": "Unreal Tournament",
+    "igdb": {
+      "id": 272,
+      "slug": "unreal-tournament"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
       }
     ]
   },
@@ -9261,93 +9066,223 @@
     ]
   },
   {
-    "name": "Zelda",
+    "name": "Virtua Cop",
     "igdb": {
-      "id": 152362,
-      "slug": "zelda--1"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game & Watch",
-        "releaseYear": 1989
-      }
-    ]
-  },
-  {
-    "name": "Donkey Kong Hockey",
-    "igdb": {
-      "id": 131899,
-      "slug": "donkey-kong-hockey"
-    },
-    "playthroughs": [
-      {
-        "platform": "Game & Watch",
-        "releaseYear": 1984
-      }
-    ]
-  },
-  {
-    "name": "Pinball",
-    "igdb": {
-      "id": 86428,
-      "slug": "pinball--3"
-    },
-    "playthroughs": [
-      {
-        "platform": "Nintendo Entertainment System",
-        "releaseYear": 1985
-      }
-    ]
-  },
-  {
-    "name": "3D Pinball: Space Cadet",
-    "igdb": {
-      "id": 79247,
-      "slug": "3d-pinball-space-cadet"
+      "id": 6289,
+      "slug": "virtua-cop"
     },
     "playthroughs": [
       {
         "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
+    "name": "Virtua Cop 2",
+    "igdb": {
+      "id": 2470,
+      "slug": "virtua-cop-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1997
+      }
+    ]
+  },
+  {
+    "name": "Virtua Tennis",
+    "igdb": {
+      "id": 6291,
+      "slug": "virtua-tennis"
+    },
+    "playthroughs": [
+      {
+        "platform": "Dreamcast",
+        "releaseYear": 2000
+      }
+    ]
+  },
+  {
+    "name": "Warcraft II: Beyond the Dark Portal",
+    "igdb": {
+      "id": 131,
+      "slug": "warcraft-ii-beyond-the-dark-portal"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
         "releaseYear": 1995
       }
     ]
   },
   {
-    "name": "Microsoft Minesweeper",
+    "name": "Warcraft II: Tides of Darkness",
     "igdb": {
-      "id": 5421,
-      "slug": "microsoft-minesweeper"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1990
-      }
-    ]
-  },
-  {
-    "name": "Microsoft Solitaire",
-    "igdb": {
-      "id": 8177,
-      "slug": "microsoft-solitaire"
-    },
-    "playthroughs": [
-      {
-        "platform": "PC (Microsoft Windows)",
-        "releaseYear": 1990
-      }
-    ]
-  },
-  {
-    "name": "Liero",
-    "igdb": {
-      "id": 9078,
-      "slug": "liero"
+      "id": 130,
+      "slug": "warcraft-ii-tides-of-darkness"
     },
     "playthroughs": [
       {
         "platform": "DOS",
-        "releaseYear": 1998
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
+    "name": "WarioWare: Twisted!",
+    "igdb": {
+      "id": 1704,
+      "slug": "warioware-twisted"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game Boy Advance",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Warlords",
+    "igdb": {
+      "id": 69606,
+      "slug": "warlords--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Warlords II",
+    "igdb": {
+      "id": 50357,
+      "slug": "warlords-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1993
+      }
+    ]
+  },
+  {
+    "name": "Watch Dogs",
+    "igdb": {
+      "id": 1121,
+      "slug": "watch-dogs"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Wave Race: Blue Storm",
+    "igdb": {
+      "id": 4232,
+      "slug": "wave-race-blue-storm"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo GameCube",
+        "releaseYear": 2001
+      }
+    ]
+  },
+  {
+    "name": "We Love Katamari",
+    "igdb": {
+      "id": 6454,
+      "slug": "we-love-katamari"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Winter Games",
+    "igdb": {
+      "id": 281646,
+      "slug": "winter-games--11"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1986
+      }
+    ]
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "igdb": {
+      "id": 262516,
+      "slug": "wolfenstein-3d--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
+    "name": "Wolfenstein: The New Order",
+    "igdb": {
+      "id": 2031,
+      "slug": "wolfenstein-the-new-order"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
+    "name": "Wolfenstein: The Old Blood",
+    "igdb": {
+      "id": 9192,
+      "slug": "wolfenstein-the-old-blood"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 4",
+        "releaseYear": 2015
+      }
+    ]
+  },
+  {
+    "name": "World of Warcraft",
+    "igdb": {
+      "id": 123,
+      "slug": "world-of-warcraft"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2004
+      }
+    ]
+  },
+  {
+    "name": "Worms",
+    "igdb": {
+      "id": 9331,
+      "slug": "worms"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
       }
     ]
   },
@@ -9365,54 +9300,119 @@
     ]
   },
   {
-    "name": "Dune II: The Building of a Dynasty",
+    "name": "Worms Armageddon",
     "igdb": {
-      "id": 86,
-      "slug": "dune-ii-the-building-of-a-dynasty"
+      "id": 948,
+      "slug": "worms-armageddon"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1992
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1999
       }
     ]
   },
   {
-    "name": "Cannon Fodder",
+    "name": "Year Walk",
     "igdb": {
-      "id": 5519,
-      "slug": "cannon-fodder"
+      "id": 6171,
+      "slug": "year-walk"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1993
+        "platform": "iOS",
+        "releaseYear": 2013
       }
     ]
   },
   {
-    "name": "Blood",
+    "name": "Yoshi Touch & Go",
     "igdb": {
-      "id": 7644,
-      "slug": "blood"
+      "id": 18329,
+      "slug": "yoshi-touch-and-go"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1997
+        "platform": "Nintendo DS",
+        "releaseYear": 2005
       }
     ]
   },
   {
-    "name": "Shadow Warrior",
+    "name": "Ys III: Wanderers from Ys",
     "igdb": {
-      "id": 2947,
-      "slug": "shadow-warrior"
+      "id": 201313,
+      "slug": "ys-iii-wanderers-from-ys--1"
     },
     "playthroughs": [
       {
-        "platform": "DOS",
-        "releaseYear": 1997
+        "platform": "PlayStation 2",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Ys Origin",
+    "igdb": {
+      "id": 10949,
+      "slug": "ys-origin"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2006
+      }
+    ]
+  },
+  {
+    "name": "Ys: The Oath in Felghana",
+    "igdb": {
+      "id": 15455,
+      "slug": "ys-the-oath-in-felghana"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2005
+      }
+    ]
+  },
+  {
+    "name": "Zelda",
+    "igdb": {
+      "id": 152362,
+      "slug": "zelda--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Game & Watch",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Zombie Driver",
+    "igdb": {
+      "id": 20668,
+      "slug": "zombie-driver"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2009
+      }
+    ]
+  },
+  {
+    "name": "Ōkami",
+    "igdb": {
+      "id": 1271,
+      "slug": "okami"
+    },
+    "playthroughs": [
+      {
+        "platform": "PlayStation 2",
+        "releaseYear": 2006
       }
     ]
   }
