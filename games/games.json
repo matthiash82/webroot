@@ -9389,5 +9389,18 @@
         "releaseYear": 1993
       }
     ]
+  },
+  {
+    "name": "Blood",
+    "igdb": {
+      "id": 7644,
+      "slug": "blood"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1997
+      }
+    ]
   }
 ]
