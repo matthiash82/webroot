@@ -9402,5 +9402,18 @@
         "releaseYear": 1997
       }
     ]
+  },
+  {
+    "name": "Shadow Warrior",
+    "igdb": {
+      "id": 2947,
+      "slug": "shadow-warrior"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1997
+      }
+    ]
   }
 ]
