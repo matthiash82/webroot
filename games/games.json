@@ -1,5 +1,19 @@
 [
   {
+    "name": "Doctor Hauzer",
+    "igdb": {
+      "id": 4278,
+      "slug": "doctor-hauzer"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-09",
+        "platform": "3DO Interactive Multiplayer",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
     "name": "Dispatch",
     "igdb": {
       "id": 325609,
