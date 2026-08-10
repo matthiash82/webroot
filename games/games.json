@@ -5384,6 +5384,19 @@
     ]
   },
   {
+    "name": "BC Racers",
+    "igdb": {
+      "id": 5362,
+      "slug": "bc-racers"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
     "name": "Beneath a Steel Sky",
     "igdb": {
       "id": 612,
