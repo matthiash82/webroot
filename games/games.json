@@ -8105,6 +8105,19 @@
     ]
   },
   {
+    "name": "SkiFree",
+    "igdb": {
+      "id": 11681,
+      "slug": "skifree"
+    },
+    "playthroughs": [
+      {
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
     "name": "Soccer",
     "igdb": {
       "id": 86375,
