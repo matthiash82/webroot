@@ -8599,6 +8599,19 @@
     ]
   },
   {
+    "name": "Tapper",
+    "igdb": {
+      "id": 23048,
+      "slug": "tapper"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1983
+      }
+    ]
+  },
+  {
     "name": "Team Fortress 2",
     "igdb": {
       "id": 891,
