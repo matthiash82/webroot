@@ -7871,6 +7871,19 @@
     ]
   },
   {
+    "name": "Screamer",
+    "igdb": {
+      "id": 7140,
+      "slug": "screamer"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
+      }
+    ]
+  },
+  {
     "name": "Secret Files 2: Puritas Cordis",
     "igdb": {
       "id": 5146,
