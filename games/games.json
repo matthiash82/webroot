@@ -7321,6 +7321,19 @@
     ]
   },
   {
+    "name": "Pac-Man",
+    "igdb": {
+      "id": 2750,
+      "slug": "pac-man"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1980
+      }
+    ]
+  },
+  {
     "name": "Paper Mario: The Thousand-Year Door",
     "igdb": {
       "id": 3349,
