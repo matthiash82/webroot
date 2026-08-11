@@ -6503,6 +6503,19 @@
     ]
   },
   {
+    "name": "Gun.Smoke",
+    "igdb": {
+      "id": 40965,
+      "slug": "gun-dot-smoke"
+    },
+    "playthroughs": [
+      {
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1988
+      }
+    ]
+  },
+  {
     "name": "Gunpoint",
     "igdb": {
       "id": 3242,
