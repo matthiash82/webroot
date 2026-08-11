@@ -8665,6 +8665,19 @@
     ]
   },
   {
+    "name": "Super Puzzle Fighter II Turbo",
+    "igdb": {
+      "id": 20803,
+      "slug": "super-puzzle-fighter-ii-turbo"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
     "name": "Super Smash Bros. Brawl",
     "igdb": {
       "id": 1628,
