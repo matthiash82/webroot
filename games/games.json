@@ -5268,6 +5268,19 @@
     ]
   },
   {
+    "name": "1942",
+    "igdb": {
+      "id": 6075,
+      "slug": "1942"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1984
+      }
+    ]
+  },
+  {
     "name": "3D Pinball: Space Cadet",
     "igdb": {
       "id": 79247,
