@@ -5294,6 +5294,19 @@
     ]
   },
   {
+    "name": "Alien vs. Predator",
+    "igdb": {
+      "id": 13679,
+      "slug": "alien-vs-predator--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
     "name": "Alien: Isolation",
     "igdb": {
       "id": 4754,
@@ -5777,6 +5790,19 @@
   {
     "name": "Contra",
     "igdb": {
+      "id": 4598,
+      "slug": "contra"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "Contra",
+    "igdb": {
       "id": 186207,
       "slug": "contra--1"
     },
@@ -6100,6 +6126,19 @@
     ]
   },
   {
+    "name": "Dungeons & Dragons: Tower of Doom",
+    "igdb": {
+      "id": 39328,
+      "slug": "dungeons-and-dragons-tower-of-doom"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
     "name": "E.T. the Extra-Terrestrial",
     "igdb": {
       "id": 6706,
@@ -6269,6 +6308,19 @@
     ]
   },
   {
+    "name": "Final Fight 2",
+    "igdb": {
+      "id": 1656,
+      "slug": "final-fight-2"
+    },
+    "playthroughs": [
+      {
+        "platform": "Super Nintendo Entertainment System",
+        "releaseYear": 1993
+      }
+    ]
+  },
+  {
     "name": "Frogger",
     "igdb": {
       "id": 6795,
@@ -6356,6 +6408,19 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2013
+      }
+    ]
+  },
+  {
+    "name": "Gradius",
+    "igdb": {
+      "id": 1476,
+      "slug": "gradius"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1985
       }
     ]
   },
@@ -7205,6 +7270,19 @@
     ]
   },
   {
+    "name": "Ms. Pac-Man",
+    "igdb": {
+      "id": 7452,
+      "slug": "ms-pac-man"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1982
+      }
+    ]
+  },
+  {
     "name": "Need for Speed III: Hot Pursuit",
     "igdb": {
       "id": 92,
@@ -7673,6 +7751,32 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 1999
+      }
+    ]
+  },
+  {
+    "name": "R-Type",
+    "igdb": {
+      "id": 6840,
+      "slug": "r-type"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1987
+      }
+    ]
+  },
+  {
+    "name": "Radiant Silvergun",
+    "igdb": {
+      "id": 5422,
+      "slug": "radiant-silvergun"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1998
       }
     ]
   },
@@ -8704,6 +8808,19 @@
     ]
   },
   {
+    "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+    "igdb": {
+      "id": 205211,
+      "slug": "teenage-mutant-ninja-turtles-turtles-in-time--1"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
     "name": "Tennis",
     "igdb": {
       "id": 74548,
@@ -8817,6 +8934,19 @@
       {
         "platform": "PC (Microsoft Windows)",
         "releaseYear": 2011
+      }
+    ]
+  },
+  {
+    "name": "The House of the Dead",
+    "igdb": {
+      "id": 2469,
+      "slug": "the-house-of-the-dead"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1996
       }
     ]
   },
@@ -9016,6 +9146,19 @@
     ]
   },
   {
+    "name": "The Simpsons Arcade Game",
+    "igdb": {
+      "id": 2826,
+      "slug": "the-simpsons-arcade-game"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1991
+      }
+    ]
+  },
+  {
     "name": "The Stanley Parable",
     "igdb": {
       "id": 3035,
@@ -9090,6 +9233,19 @@
       {
         "platform": "PlayStation 4",
         "releaseYear": 2015
+      }
+    ]
+  },
+  {
+    "name": "Time Crisis II",
+    "igdb": {
+      "id": 13893,
+      "slug": "time-crisis-ii"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1997
       }
     ]
   },
