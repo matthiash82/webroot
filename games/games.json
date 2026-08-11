@@ -6464,6 +6464,19 @@
     ]
   },
   {
+    "name": "Gun.Smoke",
+    "igdb": {
+      "id": 1288,
+      "slug": "gun-smoke"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1985
+      }
+    ]
+  },
+  {
     "name": "Gunpoint",
     "igdb": {
       "id": 3242,
