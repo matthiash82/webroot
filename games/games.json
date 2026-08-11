@@ -5972,6 +5972,19 @@
   {
     "name": "Donkey Kong",
     "igdb": {
+      "id": 1086,
+      "slug": "donkey-kong"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1981
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong",
+    "igdb": {
       "id": 141959,
       "slug": "donkey-kong--1"
     },
@@ -6252,6 +6265,19 @@
       {
         "platform": "Arcade",
         "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Frogger",
+    "igdb": {
+      "id": 6795,
+      "slug": "frogger"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1981
       }
     ]
   },
