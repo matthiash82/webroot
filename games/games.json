@@ -5593,6 +5593,19 @@
     ]
   },
   {
+    "name": "Bust-A-Move",
+    "igdb": {
+      "id": 28391,
+      "slug": "bust-a-move"
+    },
+    "playthroughs": [
+      {
+        "platform": "Arcade",
+        "releaseYear": 1994
+      }
+    ]
+  },
+  {
     "name": "Cadillacs and Dinosaurs",
     "igdb": {
       "id": 5368,
