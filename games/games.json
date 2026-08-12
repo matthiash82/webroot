@@ -1,5 +1,19 @@
 [
   {
+    "name": "Saturn Bomberman",
+    "igdb": {
+      "id": 28393,
+      "slug": "saturn-bomberman"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-12",
+        "platform": "Sega Saturn",
+        "releaseYear": 1996
+      }
+    ]
+  },
+  {
     "name": "Castlevania: Bloodlines",
     "igdb": {
       "id": 1127,
@@ -6330,6 +6344,19 @@
       {
         "platform": "Arcade",
         "releaseYear": 1989
+      }
+    ]
+  },
+  {
+    "name": "Flight of the Amazon Queen",
+    "igdb": {
+      "id": 8789,
+      "slug": "flight-of-the-amazon-queen"
+    },
+    "playthroughs": [
+      {
+        "platform": "DOS",
+        "releaseYear": 1995
       }
     ]
   },
