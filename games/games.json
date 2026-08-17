@@ -1,5 +1,19 @@
 [
   {
+    "name": "Kaeru no Tame ni Kane wa Naru",
+    "igdb": {
+      "id": 49078,
+      "slug": "kaeru-no-tame-ni-kane-wa-naru"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-17",
+        "platform": "Game Boy",
+        "releaseYear": 1992
+      }
+    ]
+  },
+  {
     "name": "Saturn Bomberman",
     "igdb": {
       "id": 28393,
