@@ -1,5 +1,19 @@
 [
   {
+    "name": "Gemini Rue",
+    "igdb": {
+      "id": 6325,
+      "slug": "gemini-rue"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-25",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2011
+      }
+    ]
+  },
+  {
     "name": "Kaeru no Tame ni Kane wa Naru",
     "igdb": {
       "id": 49078,
