@@ -1,5 +1,19 @@
 [
   {
+    "name": "The Blackwell Epiphany",
+    "igdb": {
+      "id": 8511,
+      "slug": "the-blackwell-epiphany"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-08-30",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2014
+      }
+    ]
+  },
+  {
     "name": "Gemini Rue",
     "igdb": {
       "id": 6325,
