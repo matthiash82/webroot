@@ -1,5 +1,19 @@
 [
   {
+    "name": "Resonance",
+    "igdb": {
+      "id": 6327,
+      "slug": "resonance"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-09-05",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2012
+      }
+    ]
+  },
+  {
     "name": "Shivah",
     "igdb": {
       "id": 7418,
