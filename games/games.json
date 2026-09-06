@@ -1,5 +1,19 @@
 [
   {
+    "name": "Shadowgate",
+    "igdb": {
+      "id": 8697,
+      "slug": "shadowgate"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-09-06",
+        "platform": "Nintendo Entertainment System",
+        "releaseYear": 1989
+      }
+    ]
+  },
+  {
     "name": "Resonance",
     "igdb": {
       "id": 6327,
