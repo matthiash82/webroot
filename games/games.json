@@ -1,5 +1,19 @@
 [
   {
+    "name": "Planet of Lana II: Children of the Leaf",
+    "igdb": {
+      "id": 348200,
+      "slug": "planet-of-lana-ii-children-of-the-leaf"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-09-30",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2026
+      }
+    ]
+  },
+  {
     "name": "Upstairs",
     "igdb": {
       "id": 396007,
