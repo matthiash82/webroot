@@ -1,5 +1,19 @@
 [
   {
+    "name": "Lifted",
+    "igdb": {
+      "id": 309518,
+      "slug": "lifted"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-10-04",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2026
+      }
+    ]
+  },
+  {
     "name": "Milk Inside a Bag of Milk Inside a Bag of Milk",
     "igdb": {
       "id": 139295,
