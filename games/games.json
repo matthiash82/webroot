@@ -1,5 +1,19 @@
 [
   {
+    "name": "Shinkansen 0",
+    "igdb": {
+      "id": 292568,
+      "slug": "shinkansen-0"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-10-11",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2024
+      }
+    ]
+  },
+  {
     "name": "Lifted",
     "igdb": {
       "id": 309518,
