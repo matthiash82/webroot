@@ -1,5 +1,19 @@
 [
   {
+    "name": "Unpacking",
+    "igdb": {
+      "id": 115843,
+      "slug": "unpacking"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-10-15",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2021
+      }
+    ]
+  },
+  {
     "name": "Shinkansen 0",
     "igdb": {
       "id": 292568,
