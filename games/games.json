@@ -1,5 +1,19 @@
 [
   {
+    "name": "Castlevania: Belmont's Curse",
+    "igdb": {
+      "id": 389434,
+      "slug": "castlevania-belmonts-curse"
+    },
+    "playthroughs": [
+      {
+        "date": "2026-10-26",
+        "platform": "PC (Microsoft Windows)",
+        "releaseYear": 2026
+      }
+    ]
+  },
+  {
     "name": "Unpacking",
     "igdb": {
       "id": 115843,
